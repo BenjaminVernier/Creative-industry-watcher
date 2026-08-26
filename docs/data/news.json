@@ -1,675 +1,977 @@
 {
-  "generated_at": "2026-08-26T14:42:14Z",
+  "generated_at": "2026-08-26T17:49:21Z",
   "items": [
     {
-      "id": "billboard-soundcloud-purchases",
-      "title": "SoundCloud to allow direct music purchases",
-      "summary": "SoundCloud is beta-testing a direct purchase feature with 200 Artist Pro users ahead of a wider rollout this fall.",
-      "url": "https://www.billboard.com/pro/soundcloud-announces-direct-music-purchases/",
-      "source": "Billboard",
-      "published_at": "2026-08-26T14:14:00Z",
-      "category": "music-tech",
-      "tags": ["SoundCloud", "product launch"]
+      "id": "pf-basinski-piano-album",
+      "title": "William Basinski Returns With Solo Piano Album",
+      "summary": "Ambient composer William Basinski announced a new solo piano album, his first release built primarily around the instrument.",
+      "url": "https://pitchfork.com/story/william-basinski-returns-with-solo-piano-album/",
+      "source": "Pitchfork",
+      "published_at": "2026-08-26T17:38:47Z",
+      "category": "trends-culture",
+      "tags": [
+        "album announcement",
+        "ambient"
+      ]
     },
     {
       "id": "pitchfork-dolly-parton-dies",
-      "title": "Dolly Parton dies at 80",
-      "summary": "The country icon has died at 80 after a brief illness, prompting tributes across the music and film industries.",
+      "title": "Dolly Parton Dies at 80",
+      "summary": "Country music icon and Grammy-winning singer-songwriter Dolly Parton has died at age 80, industry figures confirm.",
       "url": "https://pitchfork.com/story/dolly-parton-dies-at-80/",
       "source": "Pitchfork",
       "published_at": "2026-08-25T17:59:34Z",
       "category": "trends-culture",
-      "tags": ["obituary", "country"]
-    },
-    {
-      "id": "mbw-youtube-premium-price-rise",
-      "title": "YouTube Premium prices rise in Europe and Singapore",
-      "summary": "Individual plan prices are climbing roughly 10-15% across several European markets and in Singapore.",
-      "url": "https://www.musicbusinessworldwide.com/youtube-premium-prices-rise-in-europe-and-singapore/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-08-26T14:02:32Z",
-      "category": "labels-industry",
-      "tags": ["YouTube", "pricing"]
-    },
-    {
-      "id": "mbw-aria-blocks-ai-charts",
-      "title": "ARIA blocks AI-generated recordings from Australia's official charts",
-      "summary": "An updated Charts Code of Practice bars AI-made recordings from Australia's official charts starting with the August 31 edition.",
-      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-08-26T13:52:50Z",
-      "category": "ai-creative",
-      "tags": ["AI", "charts", "policy"]
-    },
-    {
-      "id": "mbw-stability-ai-funding",
-      "title": "Universal, Sony & Warner join $76M funding round in Stability AI",
-      "summary": "The three majors invest in Stability AI's Series B alongside Electronic Arts and AMD Ventures.",
-      "url": "https://www.musicbusinessworldwide.com/universal-sony-warner-join-76m-funding-round-in-stability-ai/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-08-25T16:22:20Z",
-      "category": "business-funding",
-      "tags": ["AI", "majors", "funding round"]
-    },
-    {
-      "id": "mbw-roundhill-suno-anthropic",
-      "title": "Round Hill sues Suno and Anthropic over AI music training",
-      "summary": "Round Hill Music files suits against AI companies, seeking up to $1B in statutory damages per case.",
-      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-round-hills-suno-and-anthropic-lawsuits-model-weights-extraction-tools-and-a-75m-number/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-08-24T19:26:33Z",
-      "category": "ai-creative",
-      "tags": ["AI", "lawsuit", "Suno"]
-    },
-    {
-      "id": "mbw-sony-kroger",
-      "title": "Sony Music sues Kroger over unauthorized recordings in ads",
-      "summary": "Sony alleges 392 unauthorized uses of its recordings across Kroger's social media advertising campaigns.",
-      "url": "https://www.musicbusinessworldwide.com/sony-music-sues-kroger-over-392-alleged-unauthorized-uses-of-its-recordings-in-social-media-ads/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-08-24T19:08:37Z",
-      "category": "labels-industry",
-      "tags": ["Sony", "copyright"]
-    },
-    {
-      "id": "mbw-olivia-rodrigo-scalpers",
-      "title": "Olivia Rodrigo fights scalpers as Ticketmaster cancels breach tickets",
-      "summary": "Ticketmaster voided tickets that breached sale terms for Olivia Rodrigo's tour dates.",
-      "url": "https://www.musicbusinessworldwide.com/olivia-rodrigo-fights-the-scalpers-as-ticketmaster-cancels-batch-of-tickets-that-breached-sale-terms/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-08-24T18:48:33Z",
-      "category": "trends-culture",
-      "tags": ["ticketing", "live"]
-    },
-    {
-      "id": "mbw-dsw-sony-settlement",
-      "title": "DSW reaches settlement in principle with Sony Music over ad music",
-      "summary": "Designer Shoe Warehouse and Sony settle a dispute over unauthorized music used in social ads.",
-      "url": "https://www.musicbusinessworldwide.com/dsw-reaches-settlement-in-principle-with-sony-music-over-music-used-in-social-media-ads/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-08-24T18:30:08Z",
-      "category": "labels-industry",
-      "tags": ["Sony", "legal"]
-    },
-    {
-      "id": "mtech-core-sampler",
-      "title": "Core Sampler is \"the sampler Pro Tools should already have\"",
-      "summary": "Film composer Nico Borromeo built Core Sampler, a new plugin that turns musical ideas directly into timeline audio clips.",
-      "url": "https://musictech.com/news/gear/core-sampler-pro-tools-how-it-works-features/",
-      "source": "MusicTech",
-      "published_at": "2026-08-25T14:43:17Z",
-      "category": "music-tech",
-      "tags": ["plugin", "Pro Tools"]
-    },
-    {
-      "id": "mtech-dr-dre-ai",
-      "title": "Dr. Dre says he is \"embracing\" AI: \"It's a new tool for creativity\"",
-      "summary": "Dre compares AI skepticism to past resistance against drum machines and synths, framing it as a legit creative tool.",
-      "url": "https://musictech.com/news/music/dr-dre-embracing-ai-new-tool/",
-      "source": "MusicTech",
-      "published_at": "2026-08-24T16:25:12Z",
-      "category": "ai-creative",
-      "tags": ["AI", "artists"]
-    },
-    {
-      "id": "mtech-jeff-mills-spatial",
-      "title": "Jeff Mills reworks his 1995 Liquid Room set in Spatial Audio",
-      "summary": "The techno pioneer remixed his historic Tokyo set using 14 microphones to capture venue ambience in spatial audio.",
-      "url": "https://musictech.com/features/interviews/jeff-mills-interview-live-at-liquid-room-tokyo-1996/",
-      "source": "MusicTech",
-      "published_at": "2026-08-24T09:46:21Z",
-      "category": "music-tech",
-      "tags": ["spatial audio"]
-    },
-    {
-      "id": "mtech-tamber-2-0-update",
-      "title": "Tamber music creation suite gets a 2.0 update",
-      "summary": "All five core tools in the Tamber suite gain functionality and organization improvements in this major version update.",
-      "url": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/",
-      "source": "MusicTech",
-      "published_at": "2026-08-21T15:23:40Z",
-      "category": "music-tech",
-      "tags": ["software update"]
-    },
-    {
-      "id": "cdm-ableton-note-2-1",
-      "title": "Ableton Note 2.1 for iOS quietly overhauls how you work",
-      "summary": "The mobile Ableton app update refines Clips, Warp Markers and adds a landscape mode UI that changes daily workflow.",
-      "url": "https://cdm.link/ableton-note-2-1/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-08-25T10:00:18Z",
-      "category": "music-tech",
-      "tags": ["Ableton", "mobile"]
-    },
-    {
-      "id": "cdm-1010music-bluebox-1-5",
-      "title": "1010music Bluebox 1.5 mixer module gets a major update",
-      "summary": "The hardware mixer and desktop combo adds new details aimed at consolidating Eurorack and hardware rig signal routing.",
-      "url": "https://cdm.link/bluebox-1-5/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-08-20T12:51:56Z",
-      "category": "music-tech",
-      "tags": ["hardware", "Eurorack"]
-    },
-    {
-      "id": "cdm-minimal-audio-lucid",
-      "title": "Minimal Audio launches Lucid, a granular multi-effect plugin",
-      "summary": "The new pulsing purple effect slices, stretches and scrubs sound, spanning ambient drones to tempo-synced rhythmic textures.",
-      "url": "https://cdm.link/lucid-slices-stretches-and-scrubs-sound-like-no-other-granular-fx/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-08-19T16:25:03Z",
-      "category": "music-tech",
-      "tags": ["plugin", "granular"]
-    },
-    {
-      "id": "cdm-organismi-or-1",
-      "title": "Organismi OR-1, a free generative MIDI sequencer, launches for iPad",
-      "summary": "The breathing, stochastic pattern generator ships free for iPad as an AUv3, with a paid macOS desktop version.",
-      "url": "https://cdm.link/organismi-or-1/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-08-18T14:16:59Z",
-      "category": "music-tech",
-      "tags": ["free tool", "MIDI"]
+      "tags": [
+        "obituary",
+        "country music"
+      ]
     },
     {
       "id": "pitchfork-qotsa-perfecth",
-      "title": "Queens of the Stone Age reveal new album Perfecth",
-      "summary": "The band announced their new album alongside a new song titled \"Insignificant Other\".",
+      "title": "Queens of the Stone Age Reveal New Album Perfecth",
+      "summary": "Queens of the Stone Age announced a new studio album titled Perfecth, their first full-length in several years.",
       "url": "https://pitchfork.com/story/queens-of-the-stone-age-reveal-new-album-perfecth/",
       "source": "Pitchfork",
       "published_at": "2026-08-25T13:05:49Z",
       "category": "trends-culture",
-      "tags": ["album announcement"]
+      "tags": [
+        "album announcement",
+        "rock"
+      ]
     },
     {
-      "id": "pitchfork-olivia-rodrigo-serena-joy",
-      "title": "Olivia Rodrigo releases new song \"Serena Joy\"",
-      "summary": "The one-off single takes its name from a character in Margaret Atwood's \"The Handmaid's Tale\".",
-      "url": "https://pitchfork.com/story/listen-to-olivia-rodrigos-new-song-serena-joy/",
+      "id": "pf-winehouse-back-to-black-reissue",
+      "title": "Amy Winehouse's Back to Black Expanded for 20th Anniversary Reissue",
+      "summary": "Amy Winehouse's Back to Black is getting an expanded 20th-anniversary reissue with additional material from the catalog.",
+      "url": "https://pitchfork.com/story/amy-winehouses-back-to-black-expanded-for-20th-anniversary-reissue/",
       "source": "Pitchfork",
-      "published_at": "2026-08-24T16:24:51Z",
+      "published_at": "2026-08-25T12:39:03Z",
+      "category": "labels-industry",
+      "tags": [
+        "reissue",
+        "catalog"
+      ]
+    },
+    {
+      "id": "mbw-soundcloud-direct-sales",
+      "title": "SoundCloud Lets Artists Sell Downloads Direct From Profiles, Zero Commission",
+      "summary": "SoundCloud launched a feature letting artists sell downloads directly from their profile pages, taking no commission on sales.",
+      "url": "https://www.musicbusinessworldwide.com/soundcloud-starts-letting-artists-sell-downloads-direct-from-their-profiles-and-says-its-taking-zero-commission/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-26T17:05:02Z",
+      "category": "music-tech",
+      "tags": [
+        "SoundCloud",
+        "product launch"
+      ]
+    },
+    {
+      "id": "mbw-youtube-premium-price-rise",
+      "title": "YouTube Premium Prices Rise in Europe and Singapore",
+      "summary": "YouTube Premium subscription prices are increasing across several European markets and Singapore, per new pricing pages.",
+      "url": "https://www.musicbusinessworldwide.com/youtube-premium-prices-rise-in-europe-and-singapore/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-26T14:02:32Z",
+      "category": "business-funding",
+      "tags": [
+        "YouTube",
+        "pricing"
+      ]
+    },
+    {
+      "id": "mbw-aria-blocks-ai-charts",
+      "title": "ARIA Blocks AI-Generated Recordings From Australia's Official Charts",
+      "summary": "Australia's ARIA charts authority announced it will exclude AI-generated recordings from its official music charts.",
+      "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-26T13:52:50Z",
+      "category": "ai-creative",
+      "tags": [
+        "AI policy",
+        "charts"
+      ]
+    },
+    {
+      "id": "mbw-stability-ai-funding",
+      "title": "Universal, Sony, Warner Join $76M Funding Round in Stability AI",
+      "summary": "The three major music labels joined a $76 million funding round backing Stability AI, deepening ties between labels and AI firms.",
+      "url": "https://www.musicbusinessworldwide.com/universal-sony-warner-join-76m-funding-round-in-stability-ai/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-25T16:22:20Z",
+      "category": "business-funding",
+      "tags": [
+        "funding round",
+        "AI"
+      ]
+    },
+    {
+      "id": "mbw-roundhill-suno-anthropic",
+      "title": "5 Things to Know About Round Hill's Suno and Anthropic Lawsuits",
+      "summary": "A rundown of Round Hill Music's lawsuits against Suno and Anthropic covers model weights, extraction tools and a $75M damages figure.",
+      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-round-hills-suno-and-anthropic-lawsuits-model-weights-extraction-tools-and-a-75m-number/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-24T19:26:33Z",
+      "category": "ai-creative",
+      "tags": [
+        "lawsuit",
+        "AI"
+      ]
+    },
+    {
+      "id": "mbw-sony-kroger",
+      "title": "Sony Music Sues Kroger Over Alleged Copyright Infringement in Ads",
+      "summary": "Sony Music is suing Kroger over hundreds of alleged unauthorized uses of its recordings in the retailer's social media ads.",
+      "url": "https://www.musicbusinessworldwide.com/sony-music-sues-kroger-over-392-alleged-unauthorized-uses-of-its-recordings-in-social-media-ads/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-24T19:08:37Z",
+      "category": "labels-industry",
+      "tags": [
+        "lawsuit",
+        "copyright"
+      ]
+    },
+    {
+      "id": "mbw-olivia-rodrigo-scalpers",
+      "title": "Olivia Rodrigo Fights Scalpers as Ticketmaster Cancels Ticket Batch",
+      "summary": "Ticketmaster canceled a batch of Olivia Rodrigo tour tickets after sellers breached sale terms, part of a wider anti-scalping push.",
+      "url": "https://www.musicbusinessworldwide.com/olivia-rodrigo-fights-the-scalpers-as-ticketmaster-cancels-batch-of-tickets-that-breached-sale-terms/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-24T18:48:33Z",
+      "category": "labels-industry",
+      "tags": [
+        "ticketing",
+        "touring"
+      ]
+    },
+    {
+      "id": "mtech-core-sampler",
+      "title": "Core Sampler Positioned as 'The Sampler Pro Tools Should Already Have'",
+      "summary": "A new sampler plugin called Core Sampler launched, pitched as filling a gap in Pro Tools' native sampling toolset.",
+      "url": "https://musictech.com/news/gear/core-sampler-pro-tools-how-it-works-features/",
+      "source": "MusicTech",
+      "published_at": "2026-08-25T14:43:17Z",
+      "category": "music-tech",
+      "tags": [
+        "plugin launch",
+        "sampler"
+      ]
+    },
+    {
+      "id": "mtech-dr-dre-ai",
+      "title": "Dr. Dre Says He Is 'Embracing' AI in Music",
+      "summary": "Producer Dr. Dre said he views AI as a new creative tool rather than a threat, describing his own use of it in production.",
+      "url": "https://musictech.com/news/music/dr-dre-embracing-ai-new-tool/",
+      "source": "MusicTech",
+      "published_at": "2026-08-24T16:25:12Z",
+      "category": "ai-creative",
+      "tags": [
+        "AI",
+        "producer"
+      ]
+    },
+    {
+      "id": "mtech-kontakt-future-uncertain",
+      "title": "Kontakt's Future Uncertain, Prompting Backup Sampler Options",
+      "summary": "Uncertainty around Native Instruments' Kontakt sampler is pushing producers to evaluate alternative sampler plugins as backups.",
+      "url": "https://musictech.com/guides/buyers-guide/kontakts-future-is-uncertain-these-samplers-might-be-your-backup-plan/",
+      "source": "MusicTech",
+      "published_at": "2026-08-23T14:26:09Z",
+      "category": "music-tech",
+      "tags": [
+        "Kontakt",
+        "sampler"
+      ]
+    },
+    {
+      "id": "mtech-tamber-2-0-update",
+      "title": "Tamber Music Creation Suite Gets a 2.0 Update",
+      "summary": "Tamber's music creation suite shipped a 2.0 update with new features aimed at streamlining the songwriting-to-production workflow.",
+      "url": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/",
+      "source": "MusicTech",
+      "published_at": "2026-08-21T15:23:40Z",
+      "category": "music-tech",
+      "tags": [
+        "software update"
+      ]
+    },
+    {
+      "id": "mtech-retro-console-producers",
+      "title": "Meet the Producers Releasing Albums on Retro Gaming Consoles",
+      "summary": "A growing group of electronic producers is releasing full albums as playable cartridges for retro gaming consoles.",
+      "url": "https://musictech.com/features/interviews/remute-daydream-plus-interview-retro-gaming-consoles-album-releases/",
+      "source": "MusicTech",
+      "published_at": "2026-08-21T08:29:07Z",
       "category": "trends-culture",
-      "tags": ["single release"]
+      "tags": [
+        "release format",
+        "electronic"
+      ]
     },
     {
-      "id": "cg-ilp-mandalorian-grogu",
-      "title": "ILP's breakdown for The Mandalorian and Grogu",
-      "summary": "Important Looking Pirates details environments and CG character work for the new Star Wars feature.",
-      "url": "https://www.cgchannel.com/2026/08/check-out-ilps-breakdown-for-star-wars-the-mandalorian-and-grogu/",
-      "source": "CG Channel",
-      "published_at": "2026-08-25T05:04:08Z",
-      "category": "notable-work",
-      "tags": ["ILP", "Star Wars"]
-    },
-    {
-      "id": "cg-framestore-war-machine",
-      "title": "Framestore's explosive VFX breakdown for War Machine",
-      "summary": "Framestore details a CG killing machine blending dinosaur and robotic design for the film.",
-      "url": "https://www.cgchannel.com/2026/08/check-out-framestores-explosive-vfx-breakdown-for-war-machine/",
-      "source": "CG Channel",
-      "published_at": "2026-08-26T06:00:17Z",
-      "category": "notable-work",
-      "tags": ["Framestore", "breakdown"]
-    },
-    {
-      "id": "cg-dneg-for-all-mankind",
-      "title": "DNEG's VFX breakdown for For All Mankind Season 5",
-      "summary": "DNEG showcases Martian landscapes and a K-Station explosion sequence for the Apple TV+ drama.",
-      "url": "https://www.cgchannel.com/2026/08/see-dnegs-spectacular-vfx-breakdown-for-for-all-mankind-season-5/",
-      "source": "CG Channel",
-      "published_at": "2026-08-24T08:17:15Z",
-      "category": "notable-work",
-      "tags": ["DNEG", "breakdown"]
-    },
-    {
-      "id": "fx-dneg-citadel-s2",
-      "title": "Inside DNEG's invisible effects for Citadel Season 2",
-      "summary": "DNEG's Daniel Baldwin details fire, full-CG crashes and seamless camera handoffs built to go unnoticed on screen.",
-      "url": "https://www.fxguide.com/fxfeatured/inside-dnegs-invisible-effects-for-citadel-season-2/",
-      "source": "fxguide",
-      "published_at": "2026-08-10T20:47:43Z",
-      "category": "notable-work",
-      "tags": ["DNEG", "invisible effects"]
-    },
-    {
-      "id": "fx-stranger-things-s5",
-      "title": "Inside the VFX of Stranger Things Season 5",
-      "summary": "The VFX supervisor breaks down creature design and digital effects meant to enhance rather than replace reality.",
-      "url": "https://www.fxguide.com/fxpodcasts/vecna-demogorgons-and-young-will-inside-the-vfx-of-stranger-things-s5/",
-      "source": "fxguide",
-      "published_at": "2026-08-03T20:03:01Z",
-      "category": "notable-work",
-      "tags": ["Netflix", "breakdown"]
-    },
-    {
-      "id": "cg-foundation-s3-breakdowns",
-      "title": "See VFX breakdowns for Season 3 of Foundation in one place",
-      "summary": "Making-ofs from Framestore and Rodeo FX are joined by Outpost VFX's shots of robot Demerzel melting on screen.",
-      "url": "https://www.cgchannel.com/2026/08/see-vfx-breakdowns-for-season-3-of-foundation-in-one-place/",
-      "source": "CG Channel",
-      "published_at": "2026-08-21T09:30:43Z",
-      "category": "notable-work",
-      "tags": ["Foundation", "roundup"]
-    },
-    {
-      "id": "awn-wefx-from-s4",
-      "title": "WeFX shares its From Season 4 VFX breakdown reel",
-      "summary": "The Toronto studio's 81 artists delivered ~150 shots, from practical-doll matching to creature transformations.",
-      "url": "https://www.awn.com/news/wefx-shares-season-4-vfx-breakdown-reel",
-      "source": "Animation World Network",
-      "published_at": "2026-08-26T00:49:07Z",
-      "category": "notable-work",
-      "tags": ["WeFX", "breakdown"]
-    },
-    {
-      "id": "ba-milk-vfx-surviving-earth",
-      "title": "Milk VFX showcases its breakdown for Surviving Earth",
-      "summary": "The studio built 73 hero creature assets and over 100 environments, including 13 real-time Unreal Engine environments.",
-      "url": "https://beforesandafters.com/2026/08/21/milk-vfx-showcases-its-breakdown-for-surviving-earth/",
+      "id": "ba-star-city-dneg",
+      "title": "VFX Breakdown: 'Star City' by DNEG",
+      "summary": "DNEG published a breakdown reel detailing its visual effects work for the project 'Star City'.",
+      "url": "https://beforesandafters.com/2026/08/25/vfx-breakdown-star-city-by-dneg/",
       "source": "befores & afters",
-      "published_at": "2026-08-21T10:49:12Z",
+      "published_at": "2026-08-24T22:30:44Z",
       "category": "notable-work",
-      "tags": ["Milk VFX", "breakdown"]
+      "tags": [
+        "VFX breakdown",
+        "DNEG"
+      ]
     },
     {
       "id": "ba-future-worth-living-film",
-      "title": "Six thousand people made a three-minute film about a hopeful future",
-      "summary": "A crowd-scale collaborative filmmaking contest crowns ten finalists presenting live in LA, with a $2.5M grant for the winner.",
+      "title": "Six Thousand People Made a Three-Minute Crowdsourced Film",
+      "summary": "A community project brought together roughly six thousand contributors to collaboratively produce a short film about the future.",
       "url": "https://beforesandafters.com/2026/08/25/six-thousand-people-made-a-three-minute-film-about-a-future-worth-living-in/",
       "source": "befores & afters",
       "published_at": "2026-08-24T22:09:30Z",
       "category": "notable-work",
-      "tags": ["contest", "grant"]
+      "tags": [
+        "crowdsourced",
+        "short film"
+      ]
     },
     {
       "id": "ba-camp-miasma-matte-painting",
-      "title": "How the Camp Miasma team used a glass matte painting shot",
-      "summary": "Production designer Brandon Tonner-Connolly breaks down a practical glass matte painting technique used in the indie film.",
+      "title": "How the 'Camp Miasma' Team Used a Glass Matte Painting Shot",
+      "summary": "The 'Camp Miasma' filmmakers detail how they used an in-camera glass matte painting technique for a key shot.",
       "url": "https://beforesandafters.com/2026/08/24/how-the-camp-miasma-team-used-a-glass-matte-painting-shot-in-their-film/",
       "source": "befores & afters",
       "published_at": "2026-08-23T23:17:01Z",
       "category": "notable-work",
-      "tags": ["matte painting", "practical effects"]
+      "tags": [
+        "matte painting",
+        "practical effects"
+      ]
     },
     {
-      "id": "awn-view-brad-bird",
-      "title": "VIEW Conference 2026 adds Brad Bird talk on Ray Gunn",
-      "summary": "The Oscar winner presents his Netflix sci-fi noir; Digital Domain also details 400+ shots from a Spielberg thriller.",
-      "url": "https://www.awn.com/news/view-conference-2026-adds-brad-bird-talk-ray-gunn-disclosure-day-vfx",
-      "source": "Animation World Network",
-      "published_at": "2026-08-25T23:32:07Z",
+      "id": "ba-milk-vfx-surviving-earth",
+      "title": "Milk VFX Showcases Its Breakdown for 'Surviving Earth'",
+      "summary": "Milk VFX released a breakdown reel showing its visual effects contributions to the series 'Surviving Earth'.",
+      "url": "https://beforesandafters.com/2026/08/21/milk-vfx-showcases-its-breakdown-for-surviving-earth/",
+      "source": "befores & afters",
+      "published_at": "2026-08-21T10:49:12Z",
       "category": "notable-work",
-      "tags": ["conference", "Digital Domain"]
+      "tags": [
+        "VFX breakdown",
+        "Milk VFX"
+      ]
     },
     {
       "id": "ba-accuface-2-launch",
-      "title": "Reallusion launches AccuFACE 2 facial mocap for CC5 HD characters",
-      "summary": "The new professional-grade facial motion capture tool targets CC5 HD character rigs for animation and VFX pipelines.",
+      "title": "AccuFACE 2 Launches: Facial Mocap for CC5 HD Characters",
+      "summary": "AccuFACE 2 launched, offering professional-grade facial motion capture tooling for CC5 HD character pipelines.",
       "url": "https://beforesandafters.com/2026/08/21/accuface-2-grand-launch-professional-grade-facial-mocap-for-cc5-hd-characters/",
       "source": "befores & afters",
       "published_at": "2026-08-20T23:25:57Z",
       "category": "vfx-tech",
-      "tags": ["Reallusion", "mocap"]
+      "tags": [
+        "facial mocap",
+        "product launch"
+      ]
     },
     {
       "id": "fx-autodesk-flow-studio",
-      "title": "Autodesk Flow Studio adds a 3D Editor + Canvas for AI filmmaking",
-      "summary": "The platform pairs interactive 3D scene building with generative 2D video models for more directable results.",
+      "title": "Nikola Todorovic on Autodesk Flow Studio's New 3D Editor + Canvas",
+      "summary": "Autodesk's Nikola Todorovic discusses Flow Studio's new 3D Editor and Canvas tools for creative production pipelines.",
       "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
       "source": "fxguide",
       "published_at": "2026-08-24T15:31:01Z",
       "category": "vfx-tech",
-      "tags": ["AI", "Autodesk", "virtual production"]
+      "tags": [
+        "Autodesk",
+        "3D tools"
+      ]
+    },
+    {
+      "id": "fx-impossible-objects-ai",
+      "title": "Impossible Objects Runs AI Models on HP ZGX Nano for VFX",
+      "summary": "Studio Impossible Objects is using AI models running on HP's ZGX Nano hardware to accelerate its VFX production pipeline.",
+      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
+      "source": "fxguide",
+      "published_at": "2026-08-11T10:45:46Z",
+      "category": "vfx-tech",
+      "tags": [
+        "AI",
+        "hardware"
+      ]
+    },
+    {
+      "id": "fx-dneg-citadel-s2",
+      "title": "Inside DNEG's Invisible Effects for Citadel Season 2",
+      "summary": "DNEG details the invisible visual effects work it contributed to Citadel Season 2, effects designed to go unnoticed.",
+      "url": "https://www.fxguide.com/fxfeatured/inside-dnegs-invisible-effects-for-citadel-season-2/",
+      "source": "fxguide",
+      "published_at": "2026-08-10T20:47:43Z",
+      "category": "notable-work",
+      "tags": [
+        "invisible effects",
+        "DNEG"
+      ]
+    },
+    {
+      "id": "fx-stranger-things-s5",
+      "title": "Inside the VFX of Stranger Things Season 5",
+      "summary": "A deep dive into the visual effects behind Stranger Things Season 5, covering Vecna, the Demogorgons and Young Will.",
+      "url": "https://www.fxguide.com/fxpodcasts/vecna-demogorgons-and-young-will-inside-the-vfx-of-stranger-things-s5/",
+      "source": "fxguide",
+      "published_at": "2026-08-03T20:03:01Z",
+      "category": "notable-work",
+      "tags": [
+        "VFX breakdown",
+        "Stranger Things"
+      ]
     },
     {
       "id": "cg-apple-m5-ultra-m6",
-      "title": "Apple unveils new M5 Ultra and M6 processors",
-      "summary": "Apple's latest chips deliver performance gains for creative apps including Nuke and Redshift rendering.",
+      "title": "Apple Unveils New M5 Ultra and M6 Processors",
+      "summary": "Apple announced new M5 Ultra and M6 chips, hardware relevant to creative professionals running demanding VFX and 3D pipelines.",
       "url": "https://www.cgchannel.com/2026/08/apple-unveils-new-m5-ultra-and-m6-processors/",
       "source": "CG Channel",
       "published_at": "2026-08-26T08:11:49Z",
       "category": "vfx-tech",
-      "tags": ["hardware", "Apple"]
+      "tags": [
+        "hardware",
+        "Apple"
+      ]
+    },
+    {
+      "id": "cg-ilp-mandalorian-grogu",
+      "title": "See ILP's Breakdown for Star Wars: The Mandalorian and Grogu",
+      "summary": "ILP shared a visual effects breakdown detailing its work on the film Star Wars: The Mandalorian and Grogu.",
+      "url": "https://www.cgchannel.com/2026/08/check-out-ilps-breakdown-for-star-wars-the-mandalorian-and-grogu/",
+      "source": "CG Channel",
+      "published_at": "2026-08-25T05:04:08Z",
+      "category": "notable-work",
+      "tags": [
+        "VFX breakdown",
+        "Star Wars"
+      ]
     },
     {
       "id": "cg-blender-smart-remesh",
-      "title": "Promising new Blender retopology tool Smart Remesh appears",
-      "summary": "A context-aware add-on converts organic and hard-surface models into clean quad geometry, preserving vertex positions.",
+      "title": "New Blender Retopology Tool Smart Remesh Shows Promise",
+      "summary": "A new retopology add-on called Smart Remesh for Blender is drawing attention from 3D artists for its automated results.",
       "url": "https://www.cgchannel.com/2026/08/check-out-promising-new-blender-retopology-tool-smart-remesh/",
       "source": "CG Channel",
       "published_at": "2026-08-25T13:29:58Z",
       "category": "vfx-tech",
-      "tags": ["Blender", "tool"]
+      "tags": [
+        "Blender",
+        "plugin launch"
+      ]
+    },
+    {
+      "id": "cg-framestore-war-machine",
+      "title": "Framestore's VFX Breakdown for War Machine",
+      "summary": "Framestore released an explosive visual effects breakdown reel showing its work on the project War Machine.",
+      "url": "https://www.cgchannel.com/2026/08/check-out-framestores-explosive-vfx-breakdown-for-war-machine/",
+      "source": "CG Channel",
+      "published_at": "2026-08-26T06:00:17Z",
+      "category": "notable-work",
+      "tags": [
+        "VFX breakdown",
+        "Framestore"
+      ]
     },
     {
       "id": "cg-marvelous-designer-2026",
-      "title": "CLO Virtual Fashion releases Marvelous Designer 2026.1",
-      "summary": "The 3D garment tool adds fabric-wrinkle painting and seamline ripping for more detailed cloth work.",
+      "title": "CLO Virtual Fashion Releases Marvelous Designer 2026.1",
+      "summary": "CLO Virtual Fashion shipped Marvelous Designer 2026.1, an update to its widely used digital garment simulation software.",
       "url": "https://www.cgchannel.com/2026/08/clo-virtual-fashion-releases-marvelous-designer-2026-1/",
       "source": "CG Channel",
       "published_at": "2026-08-24T12:55:23Z",
       "category": "vfx-tech",
-      "tags": ["software", "cloth"]
+      "tags": [
+        "software update",
+        "fashion tech"
+      ]
+    },
+    {
+      "id": "cg-dneg-for-all-mankind",
+      "title": "DNEG's VFX Breakdown for Season 5 of For All Mankind",
+      "summary": "DNEG published a visual effects breakdown showcasing its contributions to Season 5 of For All Mankind.",
+      "url": "https://www.cgchannel.com/2026/08/see-dnegs-spectacular-vfx-breakdown-for-for-all-mankind-season-5/",
+      "source": "CG Channel",
+      "published_at": "2026-08-24T08:17:15Z",
+      "category": "notable-work",
+      "tags": [
+        "VFX breakdown",
+        "DNEG"
+      ]
+    },
+    {
+      "id": "cg-foundation-s3-breakdowns",
+      "title": "VFX Breakdowns for Season 3 of Foundation Collected in One Place",
+      "summary": "CG Channel rounded up the visual effects breakdown reels released so far for Season 3 of Apple's Foundation.",
+      "url": "https://www.cgchannel.com/2026/08/see-vfx-breakdowns-for-season-3-of-foundation-in-one-place/",
+      "source": "CG Channel",
+      "published_at": "2026-08-21T09:30:43Z",
+      "category": "notable-work",
+      "tags": [
+        "VFX breakdown",
+        "Foundation"
+      ]
     },
     {
       "id": "cg-nuke-17-1",
-      "title": "Foundry releases Nuke 17.1",
-      "summary": "The compositor adds Gaussian splat relighting, Hydra 2.0 viewport support and expanded 3D system capabilities.",
+      "title": "Foundry Releases Nuke 17.1",
+      "summary": "Foundry shipped Nuke 17.1, the latest update to its industry-standard compositing software used across VFX studios.",
       "url": "https://www.cgchannel.com/2026/08/foundry-releases-nuke-17-1/",
       "source": "CG Channel",
       "published_at": "2026-08-21T04:30:07Z",
       "category": "vfx-tech",
-      "tags": ["Nuke", "Foundry", "compositing"]
+      "tags": [
+        "Nuke",
+        "software update"
+      ]
     },
     {
-      "id": "fx-impossible-objects-ai",
-      "title": "Impossible Objects supercharges VFX with AI on HP ZGX Nano",
-      "summary": "The LA VFX studio blends AI workflows with traditional tools using HP hardware to boost production.",
-      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
-      "source": "fxguide",
-      "published_at": "2026-08-11T10:45:46Z",
+      "id": "awn-ves-awards-new-categories",
+      "title": "VES Announces New Categories, Key Dates for 25th Annual VES Awards",
+      "summary": "The Visual Effects Society unveiled new award categories, including in-camera photoreal effects, and key dates for its 25th VES Awards.",
+      "url": "https://www.awn.com/news/ves-announces-new-categories-key-dates-25th-annual-ves-awards",
+      "source": "Animation World Network",
+      "published_at": "2026-08-26T16:37:09Z",
       "category": "studios-companies",
-      "tags": ["AI", "studio"]
+      "tags": [
+        "VES Awards",
+        "industry event"
+      ]
+    },
+    {
+      "id": "awn-stranger-things-tales-85-trailer",
+      "title": "Netflix Drops 'Stranger Things: Tales From '85' Season 2 Trailer",
+      "summary": "Netflix released the Season 2 trailer for its animated spin-off Stranger Things: Tales From '85.",
+      "url": "https://www.awn.com/news/netflix-drops-stranger-things-tales-85-season-2-trailer",
+      "source": "Animation World Network",
+      "published_at": "2026-08-26T16:07:12Z",
+      "category": "streaming",
+      "tags": [
+        "trailer",
+        "Netflix"
+      ]
+    },
+    {
+      "id": "awn-wefx-from-s4",
+      "title": "WeFX Shares 'From' Season 4 VFX Breakdown Reel",
+      "summary": "Visual effects studio WeFX published a breakdown reel of its work on Season 4 of the series 'From'.",
+      "url": "https://www.awn.com/news/wefx-shares-season-4-vfx-breakdown-reel",
+      "source": "Animation World Network",
+      "published_at": "2026-08-26T00:49:07Z",
+      "category": "notable-work",
+      "tags": [
+        "VFX breakdown",
+        "WeFX"
+      ]
     },
     {
       "id": "awn-sam-register-exits",
-      "title": "Sam Register exits Warner Bros. Animation after 18 years",
-      "summary": "The WB Animation chief departs as a leadership search begins and department heads take on operations.",
+      "title": "Sam Register Exits Warner Bros. Animation After 18 Years",
+      "summary": "Warner Bros. Animation president Sam Register is departing the studio after 18 years leading its animated output.",
       "url": "https://www.awn.com/news/sam-register-exits-warner-bros-animation-after-18-years",
       "source": "Animation World Network",
       "published_at": "2026-08-26T00:00:37Z",
       "category": "studios-companies",
-      "tags": ["exec move", "Warner Bros"]
+      "tags": [
+        "exec move",
+        "Warner Bros"
+      ]
     },
     {
-      "id": "awn-vfx-world-atlas-2026",
-      "title": "2026 Visual Effects & Animation World Atlas shows 2.7% growth",
-      "summary": "The industry report finds net growth, an 11.3% Vancouver rebound, and no evidence AI has cut VFX jobs.",
-      "url": "https://www.awn.com/news/joseph-bell-releases-2026-visual-effects-animation-world-atlas",
-      "source": "Animation World Network",
-      "published_at": "2026-08-25T18:55:06Z",
+      "id": "variety-wim-wenders-ill-be-gone-june",
+      "title": "Wim Wenders-Produced Film Sold for North America After Cannes",
+      "summary": "'I'll Be Gone in June,' produced by Wim Wenders, was acquired for North American distribution following its Cannes premiere.",
+      "url": "https://variety.com/2026/film/global/wim-wenders-ill-be-gone-in-june-north-america-cannes-kimstim-1236844095/",
+      "source": "Variety",
+      "published_at": "2026-08-26T17:16:43Z",
+      "category": "productions",
+      "tags": [
+        "acquisition",
+        "Cannes"
+      ]
+    },
+    {
+      "id": "variety-tyler-perry-maxscene",
+      "title": "Tyler Perry Studios Launches New Specialty Label 'Maxscene'",
+      "summary": "Tyler Perry Studios launched a new specialty content label called Maxscene, named after Perry's mother Maxine.",
+      "url": "https://variety.com/2026/tv/news/tyler-perry-studios-specialty-label-maxscene-1236843169/",
+      "source": "Variety",
+      "published_at": "2026-08-26T17:00:00Z",
+      "category": "studios-companies",
+      "tags": [
+        "new label",
+        "Tyler Perry"
+      ]
+    },
+    {
+      "id": "variety-blake-lively-attorneys-fees",
+      "title": "Blake Lively Awarded $400,000 in Attorneys' Fees in Baldoni Case",
+      "summary": "A court awarded Blake Lively $400,000 in attorneys' fees in her ongoing legal case against Justin Baldoni.",
+      "url": "https://variety.com/2026/film/news/blake-lively-400000-attorneys-fees-justin-baldoni-1236844059/",
+      "source": "Variety",
+      "published_at": "2026-08-26T16:48:27Z",
       "category": "business-funding",
-      "tags": ["market data", "industry report"]
+      "tags": [
+        "lawsuit"
+      ]
     },
     {
-      "id": "variety-france-oscar-minotaur",
-      "title": "France faces a thorny Oscar submission choice over Zvyagintsev's Minotaur",
-      "summary": "France weighs submitting an exiled filmmaker's Russia-set drama for the Oscars against strong homegrown contenders.",
-      "url": "https://variety.com/2026/film/global/france-oscar-submission-choices-andrey-zvyagintsev-minotaur-1236842911/",
-      "source": "Variety",
-      "published_at": "2026-08-26T14:34:00Z",
-      "category": "productions",
-      "tags": ["Oscars", "France"]
-    },
-    {
-      "id": "thr-top-boy-jonny-boy",
-      "title": "Barry Keoghan to lead and produce Top Boy prequel Jonny Boy at Netflix",
-      "summary": "Creator Ronan Bennett returns to write the five-episode prequel, with Drake again executive producing.",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/barry-keoghan-top-boy-prequel-jonny-netflix-tv-show-drake-1236681783/",
-      "source": "The Hollywood Reporter",
-      "published_at": "2026-08-26T14:00:00Z",
-      "category": "productions",
-      "tags": ["Netflix", "greenlight"]
-    },
-    {
-      "id": "deadline-rupert-grint-broadway",
-      "title": "Rupert Grint to reprise Ron Weasley in Harry Potter and the Cursed Child on Broadway",
-      "summary": "The actor joins the Broadway cast to play the grown-up Ron from Feb. 2 to May 30, 2027.",
-      "url": "https://deadline.com/2026/08/rupert-grint-harry-potter-and-the-cursed-child-broadway-1237050854/",
+      "id": "deadline-dazn-everpass",
+      "title": "DAZN Acquiring EverPass Media in U.S. Expansion",
+      "summary": "Sports streamer DAZN is acquiring EverPass Media as part of its expansion into the U.S. market.",
+      "url": "https://deadline.com/2026/08/dazn-acquiring-everpass-media-nfl-sunday-ticket-commercial-rights-1237051214/",
       "source": "Deadline",
-      "published_at": "2026-08-26T14:18:02Z",
-      "category": "productions",
-      "tags": ["Broadway", "Harry Potter"]
+      "published_at": "2026-08-26T17:42:38Z",
+      "category": "business-funding",
+      "tags": [
+        "M&A",
+        "streaming"
+      ]
     },
     {
-      "id": "variety-oasis-doc-disney",
-      "title": "Oasis documentary captures Gallagher brothers' reconciliation on camera",
-      "summary": "A Disney+ documentary captured Liam and Noel Gallagher's on-camera reunion after 15 years apart, a Disney exec revealed.",
-      "url": "https://variety.com/2026/tv/news/oasis-doc-gallagher-reconciliation-disney-1236843745/",
-      "source": "Variety",
-      "published_at": "2026-08-26T14:16:25Z",
-      "category": "productions",
-      "tags": ["Disney+", "documentary"]
-    },
-    {
-      "id": "variety-emily-paris-s6",
-      "title": "Emily in Paris sets Christmas Eve release for final Season 6",
-      "summary": "Netflix set a Dec. 24 premiere for the series' sixth and final season, with new photos showing a Greek storyline.",
-      "url": "https://variety.com/2026/tv/news/emily-in-paris-season-6-release-date-first-look-greece-1236843268/",
-      "source": "Variety",
-      "published_at": "2026-08-26T14:00:00Z",
-      "category": "streaming",
-      "tags": ["Netflix", "release date"]
-    },
-    {
-      "id": "deadline-alice-and-steve-s2",
-      "title": "Alice and Steve renewed for Season 2 at Disney+",
-      "summary": "The British comedy starring Jemaine Clement and Nicola Walker returns for a second season on Disney+ and Hulu.",
-      "url": "https://deadline.com/2026/08/alice-and-steve-renewed-season-2-disney-plus-hulu-1237050880/",
+      "id": "deadline-kitty-gambel-skydance",
+      "title": "MGM Alternative's Kitty Gambel Joins Skydance Sports",
+      "summary": "Kitty Gambel is departing MGM Alternative to join Skydance Sports in a new leadership role.",
+      "url": "https://deadline.com/2026/08/mgm-alternative-kitty-gambel-skydance-sports-1237048977/",
       "source": "Deadline",
-      "published_at": "2026-08-26T14:19:56Z",
-      "category": "productions",
-      "tags": ["Disney+", "renewal"]
+      "published_at": "2026-08-26T17:07:48Z",
+      "category": "studios-companies",
+      "tags": [
+        "exec move"
+      ]
     },
     {
-      "id": "deadline-netflix-roald-dahl",
-      "title": "Netflix sets Roald Dahl series with Nicola Coughlan and Imelda Staunton",
-      "summary": "Danny Brocklehurst will write a six-part drama adapting Dahl's short stories for adults for Netflix.",
-      "url": "https://deadline.com/2026/08/netflix-roald-dahl-series-nicola-coughlan-dominic-west-1237050741/",
+      "id": "deadline-james-gunn-dcu-paramount-wb",
+      "title": "James Gunn Gives DCU Update Amid Paramount-Warner Bros. Merger",
+      "summary": "James Gunn shared an update on DC Universe plans amid the ongoing Paramount-Warner Bros. merger process.",
+      "url": "https://deadline.com/2026/08/james-gunn-dcu-update-paramount-warner-bros-merger-batman-1237051222/",
       "source": "Deadline",
-      "published_at": "2026-08-26T14:05:00Z",
-      "category": "productions",
-      "tags": ["Netflix", "greenlight"]
+      "published_at": "2026-08-26T17:00:16Z",
+      "category": "business-funding",
+      "tags": [
+        "merger",
+        "DCU"
+      ]
     },
     {
-      "id": "indiewire-universal-focus-sundance",
-      "title": "Universal Film and Focus Features extend Sundance Institute partnership",
-      "summary": "The studios announce the 2026 Sundance Institute Breakthrough | Focus Features Fellows, backing rising filmmakers.",
-      "url": "https://www.indiewire.com/news/festivals/universal-film-focus-features-sundance-institute-fellowship-extended-1235212543/",
+      "id": "deadline-banijay-all3media-layoffs",
+      "title": "Banijay Lays Off All3Media International's NY Staff After Merger",
+      "summary": "Banijay cut All3Media International's New York staff, including its U.S. sales chief, following the companies' merger.",
+      "url": "https://deadline.com/2026/08/banijay-layoffs-all3media-international-jennifer-askin-1237051228/",
+      "source": "Deadline",
+      "published_at": "2026-08-26T16:48:42Z",
+      "category": "studios-companies",
+      "tags": [
+        "layoffs",
+        "merger"
+      ]
+    },
+    {
+      "id": "deadline-sky-snl-uk",
+      "title": "Sky Commits to Future of 'Saturday Night Live UK'",
+      "summary": "Sky affirmed its long-term commitment to producing 'Saturday Night Live UK' following the show's early run.",
+      "url": "https://deadline.com/2026/08/sky-saturday-night-live-long-run-1237049005/",
+      "source": "Deadline",
+      "published_at": "2026-08-26T16:40:36Z",
+      "category": "productions",
+      "tags": [
+        "renewal",
+        "Sky"
+      ]
+    },
+    {
+      "id": "deadline-jameson-parker-qc-entertainment",
+      "title": "Jameson Parker Joins QC Entertainment as President of Production",
+      "summary": "Jameson Parker has joined QC Entertainment as President of Production, taking on a senior development role.",
+      "url": "https://deadline.com/2026/08/jameson-parker-joins-qc-entertainment-president-production-1237051213/",
+      "source": "Deadline",
+      "published_at": "2026-08-26T16:33:06Z",
+      "category": "studios-companies",
+      "tags": [
+        "exec move"
+      ]
+    },
+    {
+      "id": "deadline-joe-carnahan-the-operator",
+      "title": "Joe Carnahan Sets Netflix Thriller 'The Operator' With Mark Wahlberg",
+      "summary": "Director Joe Carnahan is following up 'The Rip' with 'The Operator,' a Netflix action thriller starring Mark Wahlberg.",
+      "url": "https://deadline.com/2026/08/joe-carnahan-directing-the-operator-mark-wahlberg-netflix-1237051069/",
+      "source": "Deadline",
+      "published_at": "2026-08-26T16:30:00Z",
+      "category": "productions",
+      "tags": [
+        "greenlight",
+        "Netflix"
+      ]
+    },
+    {
+      "id": "indiewire-cannes-girls-story-zeitgeist",
+      "title": "Cannes Sale: Judith Godreche's 'A Girl's Story' Goes to Zeitgeist Films",
+      "summary": "Judith Godreche's Cannes title 'A Girl's Story,' based on an acclaimed memoir, was acquired by Zeitgeist Films.",
+      "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/",
       "source": "IndieWire",
-      "published_at": "2026-08-25T16:00:00Z",
-      "category": "business-funding",
-      "tags": ["Sundance", "filmmaker support"]
+      "published_at": "2026-08-26T16:32:17Z",
+      "category": "productions",
+      "tags": [
+        "acquisition",
+        "Cannes"
+      ]
     },
     {
-      "id": "thr-disney-wedding-planner",
-      "title": "Disney+ greenlights wedding planner rom-com from playwright Kate Cortesi",
-      "summary": "The six-part series follows a British wedding planner in the Italian countryside whose chaotic love life resurfaces.",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-wedding-planner-kate-cortesi-mad-love-show-series-1236681762/",
+      "id": "indiewire-annapurna-layoffs",
+      "title": "Megan Ellison's Annapurna Lays Off 16% of Staff",
+      "summary": "Annapurna cut 16% of its workforce even as the studio pushes a comeback effort built around 'The Invite.'",
+      "url": "https://www.indiewire.com/news/business/megan-ellison-annapurna-lays-off-30-staffers-the-invite-1235212819/",
+      "source": "IndieWire",
+      "published_at": "2026-08-26T15:56:52Z",
+      "category": "business-funding",
+      "tags": [
+        "layoffs"
+      ]
+    },
+    {
+      "id": "thr-blake-griffin-late-night",
+      "title": "Blake Griffin to Host His Own Late Night TV Show",
+      "summary": "Former NBA player Blake Griffin is launching his own late-night television show, moving further into entertainment hosting.",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/blake-griffin-new-late-night-show-stepback-release-date-1236681099/",
       "source": "The Hollywood Reporter",
-      "published_at": "2026-08-26T12:30:00Z",
+      "published_at": "2026-08-26T17:00:00Z",
       "category": "productions",
-      "tags": ["Disney+", "greenlight"]
+      "tags": [
+        "new show"
+      ]
+    },
+    {
+      "id": "thr-brad-pitt-cliff-booth-title",
+      "title": "Brad Pitt's 'Cliff Booth' Movie Gets Official Title From Netflix",
+      "summary": "Netflix revealed the official title for its Brad Pitt film centered on the 'Cliff Booth' character, ending months of speculation.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-cliff-booth-further-misadventures-title-netflix-1236682186/",
+      "source": "The Hollywood Reporter",
+      "published_at": "2026-08-26T16:55:22Z",
+      "category": "productions",
+      "tags": [
+        "Netflix",
+        "title reveal"
+      ]
+    },
+    {
+      "id": "thr-ridley-scott-alien-covenant-update",
+      "title": "Ridley Scott Drops 'Alien: Covenant' Sequel Update",
+      "summary": "Ridley Scott shared an update on a potential 'Alien: Covenant' sequel, while reflecting on losing creative control of 'Blade Runner' rights.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-alien-covenant-michael-fassbender-1236682050/",
+      "source": "The Hollywood Reporter",
+      "published_at": "2026-08-26T16:49:32Z",
+      "category": "productions",
+      "tags": [
+        "sequel update"
+      ]
+    },
+    {
+      "id": "soc-3dsinghvfx-lightning-generator",
+      "title": "Artist Releases Lightning Generator v2.5 for Blender",
+      "summary": "A developer released version 2.5 of Lightning Generator, a Blender geometry-nodes tool for procedural lightning effects.",
+      "url": "https://mastodon.art/@3dsinghvfx/117162544675052907",
+      "source": "@3dsinghvfx · Mastodon",
+      "published_at": "2026-08-26T15:35:55Z",
+      "category": "social-vfx",
+      "tags": [
+        "Blender",
+        "tool release"
+      ]
     },
     {
       "id": "soc-artofvfx-superman",
-      "title": "The Art of VFX interviews Framestore supervisors on Supergirl's Krypton effects",
-      "summary": "VFX supervisors discuss alien creatures, teleportation and the Wormhole Bus built by Framestore for the Supergirl film.",
+      "title": "artofvfx Interviews Framestore Supervisors on Supergirl VFX",
+      "summary": "artofvfx published an interview with Framestore's VFX supervisors covering their effects work on the Supergirl film, from Krypton to teleportation.",
       "url": "https://mastodon.social/@artofvfx/117156744344922939",
       "source": "@artofvfx · Mastodon",
       "published_at": "2026-08-25T15:00:49Z",
       "category": "social-vfx",
-      "tags": ["Mastodon", "breakdown"]
-    },
-    {
-      "id": "soc-virtualbri-lanterns-vfx",
-      "title": "VFX artist debates why practical props keep losing out to digital fixes",
-      "summary": "A VFX pro argues practical light-up props on shows like Lanterns rarely survive production, so VFX replaces them anyway.",
-      "url": "https://mastodon.online/@virtualbri/117152245071013645",
-      "source": "@virtualbri · Mastodon",
-      "published_at": "2026-08-24T19:56:35Z",
-      "category": "social-vfx",
-      "tags": ["Mastodon", "practical effects"]
+      "tags": [
+        "interview",
+        "Framestore"
+      ]
     },
     {
       "id": "soc-pafurijaz-autoremesher",
-      "title": "Autoremesher retopology tool ships a new version",
-      "summary": "The open-source auto-retopology app gets a fresh release, drawing interest from 3D and VFX artists on the fediverse.",
+      "title": "Open-Source Autoremesher Tool Sees Active Development Return",
+      "summary": "The open-source retopology tool Autoremesher is seeing frequent new releases again after years of inactive development.",
       "url": "https://mastodon.social/@pafurijaz/117152189261110652",
       "source": "@pafurijaz · Mastodon",
       "published_at": "2026-08-24T19:42:24Z",
       "category": "social-vfx",
-      "tags": ["Mastodon", "tool", "retopology"]
+      "tags": [
+        "open source",
+        "tool update"
+      ]
     },
     {
       "id": "soc-faddyvfx-acescg-pipeline",
-      "title": "FX artist shares ACEScg color pipeline setup for Houdini-to-Nuke work",
-      "summary": "A particle-FX artist details setting ACEScg from the first blockout to avoid costly mid-show color pipeline fixes.",
+      "title": "VFX Artist Shares ACEScg Color Pipeline Workflow for Particle FX",
+      "summary": "A Houdini artist shared a workflow breakdown for keeping ACEScg color management consistent from simulation through Nuke compositing.",
       "url": "https://mastodon.social/@faddyvfx/117150723235306344",
       "source": "@faddyvfx · Mastodon",
       "published_at": "2026-08-24T13:29:34Z",
       "category": "social-vfx",
-      "tags": ["Mastodon", "Houdini", "color pipeline"]
+      "tags": [
+        "Houdini",
+        "color pipeline"
+      ]
     },
     {
-      "id": "soc-silverwing-blender-dispersion",
-      "title": "Native Blender 5.3.0 dispersion in Principled BSDF draws attention",
-      "summary": "An artist highlights Blender's new native dispersion shader, showing realistic caustics rendered without third-party add-ons.",
-      "url": "https://mastodon.social/@silverwing/117161964920631004",
-      "source": "@silverwing · Mastodon",
-      "published_at": "2026-08-26T13:08:28Z",
+      "id": "soc-animationmagazine-laika-wildwood",
+      "title": "LAIKA Teases More of Stop-Motion Film 'Wildwood' Ahead of October Release",
+      "summary": "Animation Magazine shared new preview glimpses of LAIKA's stop-motion dark fantasy film 'Wildwood,' opening in theaters October 23.",
+      "url": "https://mastodon.social/@animationmagazine/117162981422121111",
+      "source": "@animationmagazine · Mastodon",
+      "published_at": "2026-08-26T17:26:59Z",
       "category": "social-vfx",
-      "tags": ["Mastodon", "Blender"]
+      "tags": [
+        "LAIKA",
+        "stop-motion"
+      ]
     },
     {
-      "id": "soc-gleb-dust-particles-bugfix",
-      "title": "Dust Particles+ Blender add-on patches a Blender 5.2 LTS sprite bug",
-      "summary": "Developers ship a v1.3.1 bugfix for their particle add-on, temporarily dropping spherical falloff while they find a fix.",
-      "url": "https://mastodon.art/@gleb/117161906889651607",
-      "source": "@gleb · Mastodon",
-      "published_at": "2026-08-26T12:53:43Z",
+      "id": "soc-animationmagazine-shaun-sheep-trailer",
+      "title": "Aardman Releases New Trailer for 'Shaun the Sheep: The Beast of Mossy Bottom'",
+      "summary": "Aardman dropped a new trailer for 'Shaun the Sheep: The Beast of Mossy Bottom,' leaning into retro B-movie horror influences.",
+      "url": "https://mastodon.social/@animationmagazine/117162833138306046",
+      "source": "@animationmagazine · Mastodon",
+      "published_at": "2026-08-26T16:49:16Z",
       "category": "social-vfx",
-      "tags": ["Mastodon", "Blender", "add-on"]
+      "tags": [
+        "Aardman",
+        "trailer"
+      ]
     },
     {
-      "id": "soc-awlnx-dgxspark-blender-mcp",
-      "title": "Developer lets two AI rigs design their own server rack via Blender MCP",
-      "summary": "A developer shows AI hardware agents using Blender's MCP integration to autonomously design a rack for themselves.",
-      "url": "https://social.ffmuc.net/@awlnx/117161307978525732",
-      "source": "@awlnx · Mastodon",
-      "published_at": "2026-08-26T10:21:24Z",
-      "category": "social-vfx",
-      "tags": ["Mastodon", "Blender", "AI"]
-    },
-    {
-      "id": "soc-sonible-smartchain",
-      "title": "sonible launches smart:chain, an AI channel strip, for €99",
-      "summary": "Producers are sharing sonible's new intelligent channel strip that auto-configures EQ, compression and more.",
-      "url": "https://bedroomproducersblog.com/2026/08/26/sonible-smartchain/",
-      "source": "Bedroom Producers Blog · Mastodon",
-      "published_at": "2026-08-26T14:00:04Z",
+      "id": "soc-bitwig-6-1-release",
+      "title": "Bitwig Studio 6.1 Officially Released, Exits Beta",
+      "summary": "Bitwig Studio 6.1 has officially left beta and is now available as a stable release for producers.",
+      "url": "https://lemmy.zip/post/70379226",
+      "source": "Mastodon #musicproduction",
+      "published_at": "2026-08-26T16:33:39Z",
       "category": "social-music",
-      "tags": ["Mastodon", "AI", "plugin"]
+      "tags": [
+        "Bitwig",
+        "DAW release"
+      ]
     },
     {
-      "id": "soc-d3cline-chipforge",
-      "title": "CHIPFORGE: a tracker, synth and drum machine built for PipeWire",
-      "summary": "A new chiptune-focused music tool built directly on PipeWire is getting attention from Linux music makers.",
-      "url": "https://opalstack.social/@d3cline/117162151454949383",
-      "source": "@d3cline · Mastodon",
-      "published_at": "2026-08-26T13:55:55Z",
+      "id": "soc-samplesonics-openwav-browser",
+      "title": "Samplesonics Releases Free OpenWav Media Browser for Sample Management",
+      "summary": "Samplesonics released OpenWav Media Browser, a free cross-platform sample management tool with tagging and a 3D sample visualizer.",
+      "url": "https://social.tchncs.de/@nund/117162599583899631",
+      "source": "@nund · Mastodon",
+      "published_at": "2026-08-26T15:49:53Z",
       "category": "social-music",
-      "tags": ["Mastodon", "tool", "chiptune"]
+      "tags": [
+        "free plugin",
+        "sample management"
+      ]
     },
     {
-      "id": "soc-samplesonics-openwav",
-      "title": "Samplesonics releases OpenWav Media Browser, a free sample manager",
-      "summary": "A new free sample management tool for producers is being shared across the music-production fediverse.",
-      "url": "https://bedroomproducersblog.com/2026/08/26/samplesonics-openwav-media-browser/",
-      "source": "Bedroom Producers Blog · Mastodon",
-      "published_at": "2026-08-26T13:19:00Z",
+      "id": "soc-legalvst-opentune",
+      "title": "Free AI Pitch Correction Tool OpenTune Released",
+      "summary": "OpenTune, a free AI-powered pitch correction plugin with formant preservation and GPU acceleration, was released for Mac and Windows.",
+      "url": "https://mastodon.social/@legalvst/117162384139055706",
+      "source": "@legalvst · Mastodon",
+      "published_at": "2026-08-26T14:55:05Z",
       "category": "social-music",
-      "tags": ["Mastodon", "free tool"]
+      "tags": [
+        "AI",
+        "free plugin"
+      ]
     },
     {
-      "id": "soc-conjuredsp-conjurealign",
-      "title": "ConjureDSP releases ConjureAlign, a free phase-alignment tool",
-      "summary": "A new free plugin for fixing phase issues between tracks is circulating among producers on Mastodon.",
-      "url": "https://bedroomproducersblog.com/2026/08/26/conjuredsp-conjurealign/",
-      "source": "Bedroom Producers Blog · Mastodon",
-      "published_at": "2026-08-26T13:10:30Z",
+      "id": "soc-punchdust-transient-shaper",
+      "title": "Free Transient Shaper Plugin PUNCHDUST Released",
+      "summary": "PUNCHDUST, a free transient shaper plugin with lo-fi dust texture and upward compression, was released for producers.",
+      "url": "https://bedroomproducersblog.com/2026/08/26/punchdust-transient-shaper/",
+      "source": "Mastodon #musicproduction",
+      "published_at": "2026-08-26T14:32:54Z",
       "category": "social-music",
-      "tags": ["Mastodon", "free plugin"]
-    },
-    {
-      "id": "soc-bitwig-6-1-update",
-      "title": "Bitwig Studio 6.1 update pushes the sampler further",
-      "summary": "The DAW's 6.1 release adds deeper sound-design capability to its sampler, according to producers sharing the update.",
-      "url": "https://synthanatomy.com/2026/08/bitwig-studio-6.html",
-      "source": "Synthanatomy · Mastodon",
-      "published_at": "2026-08-26T11:54:50Z",
-      "category": "social-music",
-      "tags": ["Mastodon", "Bitwig", "DAW"]
-    },
-    {
-      "id": "soc-fuimadane-dyrekreds-beta",
-      "title": "Dyrekreds synth plugin seeks macOS beta testers",
-      "summary": "A developer is recruiting Mac users to test their open-source Dyrekreds synthesizer's AU validation and stability.",
-      "url": "https://mastodon.social/@fuimadane/117160332628364085",
-      "source": "@fuimadane · Mastodon",
-      "published_at": "2026-08-26T06:13:22Z",
-      "category": "social-music",
-      "tags": ["Mastodon", "open source", "beta"]
-    },
-    {
-      "id": "soc-tonalux-window-functions",
-      "title": "Producer breaks down FFT window functions for spectral analysis",
-      "summary": "An audio engineer explains how Hann, Hamming and Blackman windows change what you see in a spectrum analyzer.",
-      "url": "https://mastodon.social/@tonalux/117157214804367823",
-      "source": "@tonalux · Mastodon",
-      "published_at": "2026-08-25T17:00:27Z",
-      "category": "social-music",
-      "tags": ["Mastodon", "DSP", "technique"]
-    },
-    {
-      "id": "soc-phoenix-album",
-      "title": "An indie maker finishes a 17-song album started from scratch in December",
-      "summary": "A self-taught musician's excitement over completing a full original album is resonating across the fediverse.",
-      "url": "https://mastodon.social/@a_phlaming_phoenix/117162028996584496",
-      "source": "@a_phlaming_phoenix · Mastodon",
-      "published_at": "2026-08-26T13:24:46Z",
-      "category": "social-people",
-      "tags": ["Mastodon", "emerging artist"]
-    },
-    {
-      "id": "soc-constructure-screenwriting",
-      "title": "A screenwriter is building story-structure tools in the open",
-      "summary": "@constructurescreenwriter is posting a running series on outline, beats and character panels for a new writing app.",
-      "url": "https://mastodon.social/@constructurescreenwriter/117159283138414602",
-      "source": "@constructurescreenwriter · Mastodon",
-      "published_at": "2026-08-26T01:46:28Z",
-      "category": "social-people",
-      "tags": ["Mastodon", "screenwriting", "tool"]
+      "tags": [
+        "free plugin"
+      ]
     },
     {
       "id": "soc-ppcland-bbc-funding",
-      "title": "BBC offers £50,000 per YouTube documentary for 16-24 year-olds",
-      "summary": "The commissioning scheme funds lean teams to deliver 25-minute-plus documentaries in about three months, aimed at young filmmakers.",
+      "title": "BBC Offers £50,000 Per YouTube Documentary for Young Filmmakers",
+      "summary": "The BBC is offering £50,000 per 25-minute-plus YouTube documentary made by lean teams of 16-24 year-old filmmakers.",
       "url": "https://mastodon.social/@ppcland/117160577827490455",
       "source": "@ppcland · Mastodon",
       "published_at": "2026-08-26T07:15:43Z",
       "category": "social-people",
-      "tags": ["Mastodon", "BBC", "funding"]
+      "tags": [
+        "funding",
+        "BBC"
+      ]
     },
     {
-      "id": "soc-trend-rupert-grint",
-      "title": "\"Rupert Grint\" spiking in US search",
-      "summary": "The Harry Potter actor is trending in Google Search (200+), tracking his newly announced Broadway return as Ron Weasley.",
-      "url": "https://trends.google.com/trends/explore?q=rupert%20grint&geo=US",
+      "id": "soc-pickr-phone-filmmaking",
+      "title": "Directors Increasingly Turning Phones Into Filmmaking Tools",
+      "summary": "A report highlights how directors are using smartphones as legitimate filmmaking tools well beyond casual video capture.",
+      "url": "https://mastodon.social/@pickr/117159029864047337",
+      "source": "@pickr · Mastodon",
+      "published_at": "2026-08-26T00:42:03Z",
+      "category": "social-people",
+      "tags": [
+        "mobile filmmaking"
+      ]
+    },
+    {
+      "id": "soc-trend-emily-in-paris-s6",
+      "title": "Spiking Search: 'Emily in Paris Season 6 Netflix'",
+      "summary": "Searches for Emily in Paris Season 6 on Netflix are spiking in the US as anticipation builds for the new season.",
+      "url": "https://trends.google.com/trends/explore?q=emily%20in%20paris%20season%206%20netflix&geo=US",
       "source": "Google Trends (US)",
-      "published_at": "2026-08-26T14:10:00Z",
+      "published_at": "2026-08-26T17:30:00Z",
       "category": "social-trends",
-      "tags": ["Google Trends", "film"]
+      "tags": [
+        "Netflix",
+        "TV"
+      ]
     },
     {
-      "id": "soc-trend-gta6",
-      "title": "\"GTA 6\" spiking in French search",
-      "summary": "Rockstar's GTA 6 is trending hard in France (2,000+) — a cross-over signal across gaming and entertainment.",
-      "url": "https://trends.google.com/trends/explore?q=gta%206&geo=FR",
-      "source": "Google Trends (FR)",
-      "published_at": "2026-08-26T13:50:00Z",
+      "id": "soc-trend-ian-mckellen",
+      "title": "Spiking Search: 'Ian McKellen'",
+      "summary": "Search interest in actor Ian McKellen is spiking in the US, per Google Trends.",
+      "url": "https://trends.google.com/trends/explore?q=ian%20mckellen&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-08-26T16:40:00Z",
       "category": "social-trends",
-      "tags": ["Google Trends", "gaming"]
+      "tags": [
+        "actor"
+      ]
+    },
+    {
+      "id": "soc-trend-tim-curry-home-alone-fr",
+      "title": "Spiking Search: 'Tim Curry' Tied to Home Alone in France",
+      "summary": "French searches are linking actor Tim Curry with 'Maman, j'ai rate l'avion' (Home Alone), spiking after his death.",
+      "url": "https://trends.google.com/trends/explore?q=tim%20curry%20maman%20j%27ai%20rat%C3%A9%20l%27avion&geo=FR",
+      "source": "Google Trends (FR)",
+      "published_at": "2026-08-26T17:20:00Z",
+      "category": "social-trends",
+      "tags": [
+        "actor"
+      ]
+    },
+    {
+      "id": "soc-yt-titan-fight-scene-vfx",
+      "title": "VFX Breakdown Video on a Titan-Scale Movie Fight Scene Trends",
+      "summary": "A behind-the-scenes VFX breakdown of a large monster fight scene is trending, with roughly 1.5 million views.",
+      "url": "https://www.youtube.com/watch?v=_8n6GG4N0r4",
+      "source": "YouTube · VFX",
+      "published_at": "2026-08-11T07:30:07Z",
+      "category": "social-youtube",
+      "tags": [
+        "VFX breakdown"
+      ]
+    },
+    {
+      "id": "soc-yt-ramayana-trailer-breakdown",
+      "title": "Ramayana Trailer Breakdown Video Trends on YouTube",
+      "summary": "A shot-by-shot breakdown of the trailer for the epic film Ramayana is trending, drawing over 900,000 views.",
+      "url": "https://www.youtube.com/watch?v=uYJS3Qrl1js",
+      "source": "YouTube · VFX",
+      "published_at": "2026-07-31T09:42:35Z",
+      "category": "social-youtube",
+      "tags": [
+        "trailer breakdown"
+      ]
+    },
+    {
+      "id": "soc-yt-king-kong-vfx-breakdown",
+      "title": "How King Kong Scenes Are Actually Shot: VFX Breakdown Trends",
+      "summary": "A short explaining how modern King Kong-style creature scenes are shot and finished in VFX is trending with over 800,000 views.",
+      "url": "https://www.youtube.com/watch?v=kCezU3ebelg",
+      "source": "YouTube · VFX",
+      "published_at": "2026-08-07T13:51:15Z",
+      "category": "social-youtube",
+      "tags": [
+        "VFX breakdown"
+      ]
+    },
+    {
+      "id": "soc-yt-odyssey-bts",
+      "title": "'The Odyssey' (2026) Behind-the-Scenes VFX Video Trends",
+      "summary": "A behind-the-scenes look at the Laestrygonians, Polyphemus and Sirens sequences from 'The Odyssey' (2026) is trending with over 440,000 views.",
+      "url": "https://www.youtube.com/watch?v=mC6VtN8OvnE",
+      "source": "YouTube · VFX",
+      "published_at": "2026-07-27T20:26:09Z",
+      "category": "social-youtube",
+      "tags": [
+        "behind the scenes"
+      ]
+    },
+    {
+      "id": "soc-yt-anirudh-raga-of-revenge",
+      "title": "Composer Anirudh Breaks Down 'Raga of Revenge' Score for DC Film",
+      "summary": "Composer Anirudh discusses the making of 'Raga of Revenge,' his score contribution to a new DC film, in a video with 1.4M+ views.",
+      "url": "https://www.youtube.com/watch?v=QSJ5SzIsIqA",
+      "source": "YouTube · Music",
+      "published_at": "2026-08-12T13:32:40Z",
+      "category": "social-youtube",
+      "tags": [
+        "film score",
+        "composer"
+      ]
+    },
+    {
+      "id": "soc-yt-mpc-xl-vs-live-iii",
+      "title": "MPC XL vs MPC Live III Comparison Video Trends Among Producers",
+      "summary": "A detailed comparison of Akai's MPC XL and MPC Live III hardware samplers is trending among beatmakers, nearing 150,000 views.",
+      "url": "https://www.youtube.com/watch?v=go7B6nW-Re4",
+      "source": "YouTube · Music",
+      "published_at": "2026-07-28T16:35:51Z",
+      "category": "social-youtube",
+      "tags": [
+        "hardware",
+        "gear comparison"
+      ]
+    },
+    {
+      "id": "soc-yt-terminator-2-miniature-set",
+      "title": "Terminator 2 Truck Bridge Jump Miniature Set Video Trends",
+      "summary": "A video detailing how the truck bridge jump miniature set for Terminator 2 was built and filmed is trending with 1.5M+ views.",
+      "url": "https://www.youtube.com/watch?v=j9Hp1zGfMi0",
+      "source": "YouTube · Film",
+      "published_at": "2026-07-28T12:00:16Z",
+      "category": "social-youtube",
+      "tags": [
+        "practical effects",
+        "miniatures"
+      ]
+    },
+    {
+      "id": "soc-yt-pushpa-2-practical-filmmaking",
+      "title": "Director Sukumar's Practical Filmmaking on Pushpa 2 Set Trends",
+      "summary": "Footage of director Sukumar's practical, in-camera filmmaking approach on the set of Pushpa 2 is trending with 1.4M+ views.",
+      "url": "https://www.youtube.com/watch?v=HOwEuQQVLIo",
+      "source": "YouTube · Film",
+      "published_at": "2026-08-04T06:34:25Z",
+      "category": "social-youtube",
+      "tags": [
+        "behind the scenes"
+      ]
+    },
+    {
+      "id": "soc-yt-ramayana-hindi-trailer",
+      "title": "Namit Malhotra's Ramayana Hindi Trailer Draws Massive Viewership",
+      "summary": "The Hindi trailer for Namit Malhotra's epic Ramayana, featuring scores by Hans Zimmer and A.R. Rahman, has drawn over 84 million views.",
+      "url": "https://www.youtube.com/watch?v=lNaSdnz2I8g",
+      "source": "YouTube · Film",
+      "published_at": "2026-07-29T22:45:03Z",
+      "category": "social-youtube",
+      "tags": [
+        "trailer",
+        "epic film"
+      ]
     }
   ]
 }
