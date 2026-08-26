@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Creative Industry Watcher</title>
+  <meta name="description" content="A live dashboard of trending news across music, VFX, film & TV — categorized by what matters: emerging artists, new studios, creative tech, and more." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛰️</text></svg>" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div class="brand">
+        <span class="brand-mark">🛰️</span>
+        <div>
+          <h1>Creative Industry Watcher</h1>
+          <p class="tagline">Trending signal across music, VFX &amp; screen — sorted by what matters.</p>
+        </div>
+      </div>
+      <div class="header-tools">
+        <div class="updated" id="updated" title="Last time the routine refreshed the feed">—</div>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle light / dark theme">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap controls">
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="search" id="search" placeholder="Search headlines, sources, tags…" autocomplete="off" />
+    </div>
+    <div class="domain-filters" id="domainFilters"><!-- injected --></div>
+  </div>
+
+  <main class="wrap" id="board">
+    <div class="loading" id="loading">Loading the latest signal…</div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Auto-updated by a scheduled routine. Headlines link to their original sources — all credit to the publishers.</p>
+      <p class="meta"><span id="itemCount">0</span> items · <span id="sourceCount">0</span> sources</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

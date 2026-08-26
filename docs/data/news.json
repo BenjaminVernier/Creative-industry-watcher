@@ -1,0 +1,355 @@
+{
+  "generated_at": "2026-08-26T14:30:00Z",
+  "items": [
+    {
+      "id": "mbw-stability-ai-funding",
+      "title": "Universal, Sony & Warner join $76M funding round in Stability AI",
+      "summary": "The three majors invest in Stability AI's Series B alongside Electronic Arts and AMD Ventures.",
+      "url": "https://www.musicbusinessworldwide.com/universal-sony-warner-join-76m-funding-round-in-stability-ai/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-25T16:22:20Z",
+      "category": "business-funding",
+      "tags": ["AI", "majors", "funding round"]
+    },
+    {
+      "id": "mbw-roundhill-suno-anthropic",
+      "title": "Round Hill sues Suno and Anthropic over AI music training",
+      "summary": "Round Hill Music files suits against AI companies, seeking up to $1B in statutory damages per case.",
+      "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-round-hills-suno-and-anthropic-lawsuits-model-weights-extraction-tools-and-a-75m-number/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-24T19:26:33Z",
+      "category": "ai-creative",
+      "tags": ["AI", "lawsuit", "Suno"]
+    },
+    {
+      "id": "mtech-dr-dre-ai",
+      "title": "Dr. Dre says he is “embracing” AI: “It's a new tool for creativity”",
+      "summary": "Dre compares AI skepticism to past resistance against drum machines and synths, framing it as a legit creative tool.",
+      "url": "https://musictech.com/news/music/dr-dre-embracing-ai-new-tool/",
+      "source": "MusicTech",
+      "published_at": "2026-08-24T16:25:12Z",
+      "category": "ai-creative",
+      "tags": ["AI", "artists"]
+    },
+    {
+      "id": "mbw-sony-kroger",
+      "title": "Sony Music sues Kroger over unauthorized recordings in ads",
+      "summary": "Sony alleges 392 unauthorized uses of its recordings across Kroger's social media advertising campaigns.",
+      "url": "https://www.musicbusinessworldwide.com/sony-music-sues-kroger-over-392-alleged-unauthorized-uses-of-its-recordings-in-social-media-ads/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-24T19:08:37Z",
+      "category": "labels-industry",
+      "tags": ["Sony", "copyright"]
+    },
+    {
+      "id": "mbw-dsw-sony-settlement",
+      "title": "DSW reaches settlement in principle with Sony Music over ad music",
+      "summary": "Designer Shoe Warehouse and Sony settle a dispute over unauthorized music used in social ads.",
+      "url": "https://www.musicbusinessworldwide.com/dsw-reaches-settlement-in-principle-with-sony-music-over-music-used-in-social-media-ads/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-24T18:30:08Z",
+      "category": "labels-industry",
+      "tags": ["Sony", "legal"]
+    },
+    {
+      "id": "mbw-gabz-landman",
+      "title": "Gabz Landman promoted to EVP A&R at Warner Chappell Music",
+      "summary": "The LA-based executive steps up to a senior leadership role at the major publisher.",
+      "url": "https://www.musicbusinessworldwide.com/gabz-landman-promoted-to-executive-vice-president-ar-at-warner-chappell-music/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-24T18:11:52Z",
+      "category": "labels-industry",
+      "tags": ["exec move", "Warner Chappell"]
+    },
+    {
+      "id": "mbw-vanessa-bosaen",
+      "title": "Vanessa Bosåen exits Virgin Music Group UK leadership",
+      "summary": "The exec departs Virgin Music Group after leading its UK business since the 2021 launch.",
+      "url": "https://www.musicbusinessworldwide.com/vanessa-bosaen-exits-virgin-music-group-where-she-has-led-the-uk-business-since-its-launch-in-2021/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-21T17:41:26Z",
+      "category": "labels-industry",
+      "tags": ["exec move", "Virgin"]
+    },
+    {
+      "id": "mbw-olivia-rodrigo-scalpers",
+      "title": "Olivia Rodrigo fights scalpers as Ticketmaster cancels breach tickets",
+      "summary": "Ticketmaster voided tickets that breached sale terms for Olivia Rodrigo's tour dates.",
+      "url": "https://www.musicbusinessworldwide.com/olivia-rodrigo-fights-the-scalpers-as-ticketmaster-cancels-batch-of-tickets-that-breached-sale-terms/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-08-24T18:48:33Z",
+      "category": "trends-culture",
+      "tags": ["ticketing", "live"]
+    },
+    {
+      "id": "mtech-core-sampler",
+      "title": "Core Sampler is “the sampler Pro Tools should already have”",
+      "summary": "Coretone launches Core Sampler, an AAX plugin that loads, edits and plays samples from MIDI without audio clips.",
+      "url": "https://musictech.com/news/gear/core-sampler-pro-tools-how-it-works-features/",
+      "source": "MusicTech",
+      "published_at": "2026-08-25T14:43:17Z",
+      "category": "music-tech",
+      "tags": ["plugin", "Pro Tools"]
+    },
+    {
+      "id": "mtech-kontakt-alternatives",
+      "title": "Kontakt's future is uncertain — these samplers might be your backup plan",
+      "summary": "A guide to five free Kontakt alternatives — Soundpaint, Decent Sampler, TX16Wx and more — amid uncertainty.",
+      "url": "https://musictech.com/guides/buyers-guide/kontakts-future-is-uncertain-these-samplers-might-be-your-backup-plan/",
+      "source": "MusicTech",
+      "published_at": "2026-08-23T14:26:09Z",
+      "category": "music-tech",
+      "tags": ["samplers", "software"]
+    },
+    {
+      "id": "mtech-jeff-mills-spatial",
+      "title": "Jeff Mills reworks his 1995 Liquid Room set in Spatial Audio",
+      "summary": "The techno pioneer remixed his historic Tokyo set using 14 microphones to capture venue ambience in spatial audio.",
+      "url": "https://musictech.com/features/interviews/jeff-Mills-interview-live-at-liquid-room-tokyo-1996/",
+      "source": "MusicTech",
+      "published_at": "2026-08-24T09:46:21Z",
+      "category": "music-tech",
+      "tags": ["spatial audio"]
+    },
+    {
+      "id": "mtech-marshall-hendrix",
+      "title": "Marshall marks 60 years of Hendrix with a psychedelic gear collection",
+      "summary": "A limited Hendrix 60th-anniversary line spans Major V headphones, an Emberton III speaker and a hand-made JMH amp.",
+      "url": "https://musictech.com/news/gear/marshall-jimi-hendrix-60-anniversary-collection/",
+      "source": "MusicTech",
+      "published_at": "2026-08-25T12:00:29Z",
+      "category": "trends-culture",
+      "tags": ["gear", "Marshall"]
+    },
+    {
+      "id": "cg-nuke-17-1",
+      "title": "Foundry releases Nuke 17.1",
+      "summary": "The compositor adds Gaussian splat relighting, Hydra 2.0 viewport support and expanded 3D system capabilities.",
+      "url": "https://www.cgchannel.com/2026/08/foundry-releases-nuke-17-1/",
+      "source": "CG Channel",
+      "published_at": "2026-08-21T04:30:07Z",
+      "category": "vfx-tech",
+      "tags": ["Nuke", "Foundry", "compositing"]
+    },
+    {
+      "id": "cg-blender-smart-remesh",
+      "title": "Promising new Blender retopology tool Smart Remesh appears",
+      "summary": "A context-aware add-on converts organic and hard-surface models into clean quad geometry, preserving vertex positions.",
+      "url": "https://www.cgchannel.com/2026/08/check-out-promising-new-blender-retopology-tool-smart-remesh/",
+      "source": "CG Channel",
+      "published_at": "2026-08-25T13:29:58Z",
+      "category": "vfx-tech",
+      "tags": ["Blender", "tool"]
+    },
+    {
+      "id": "cg-marvelous-designer-2026",
+      "title": "CLO Virtual Fashion releases Marvelous Designer 2026.1",
+      "summary": "The 3D garment tool adds fabric-wrinkle painting and seamline ripping for more detailed cloth work.",
+      "url": "https://www.cgchannel.com/2026/08/clo-virtual-fashion-releases-marvelous-designer-2026-1/",
+      "source": "CG Channel",
+      "published_at": "2026-08-24T12:55:23Z",
+      "category": "vfx-tech",
+      "tags": ["software", "cloth"]
+    },
+    {
+      "id": "cg-apple-m5-ultra-m6",
+      "title": "Apple unveils new M5 Ultra and M6 processors",
+      "summary": "Apple's latest chips deliver performance gains for creative apps including Nuke and Redshift rendering.",
+      "url": "https://www.cgchannel.com/2026/08/apple-unveils-new-m5-ultra-and-m6-processors/",
+      "source": "CG Channel",
+      "published_at": "2026-08-26T08:11:49Z",
+      "category": "vfx-tech",
+      "tags": ["hardware", "Apple"]
+    },
+    {
+      "id": "fx-foundry-smartroto",
+      "title": "Foundry's SmartRoto: AI-assisted roto that works the way you do",
+      "summary": "An AI-powered Nuke plugin cuts manual rotoscoping effort, targeting one of VFX's most labor-intensive tasks.",
+      "url": "https://www.fxguide.com/fxfeatured/foundrys-smartroto-ai-assisted-roto-that-aims-to-work-the-way-you-do/",
+      "source": "fxguide",
+      "published_at": "2026-07-16T16:59:49Z",
+      "category": "vfx-tech",
+      "tags": ["AI", "Foundry", "roto"]
+    },
+    {
+      "id": "fx-clear-angle-scanning",
+      "title": "How Clear Angle is scanning the future of VFX",
+      "summary": "The scanning firm turns LiDAR and Gaussian splat capture into real-world digital assets for VFX reconstruction.",
+      "url": "https://www.fxguide.com/fxpodcasts/jamie-hearing-on-how-clear-angle-is-scanning-the-future-of-vfx/",
+      "source": "fxguide",
+      "published_at": "2026-07-13T23:51:16Z",
+      "category": "vfx-tech",
+      "tags": ["scanning", "LiDAR"]
+    },
+    {
+      "id": "fx-autodesk-flow-studio",
+      "title": "Autodesk Flow Studio adds a 3D Editor + Canvas for AI filmmaking",
+      "summary": "The platform pairs interactive 3D scene building with generative 2D video models for more directable results.",
+      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
+      "source": "fxguide",
+      "published_at": "2026-08-24T15:31:01Z",
+      "category": "vfx-tech",
+      "tags": ["AI", "Autodesk", "virtual production"]
+    },
+    {
+      "id": "fx-impossible-objects-ai",
+      "title": "Impossible Objects supercharges VFX with AI on HP ZGX Nano",
+      "summary": "The LA VFX studio blends AI workflows with traditional tools using HP hardware to boost production.",
+      "url": "https://www.fxguide.com/quicktakes/impossible-objects-superpowers-vfx-production-with-ai-models-running-on-hp-zgx-nano/",
+      "source": "fxguide",
+      "published_at": "2026-08-11T10:45:46Z",
+      "category": "studios-companies",
+      "tags": ["AI", "studio"]
+    },
+    {
+      "id": "awn-sam-register-exits",
+      "title": "Sam Register exits Warner Bros. Animation after 18 years",
+      "summary": "The WB Animation chief departs as a leadership search begins and department heads take on operations.",
+      "url": "https://www.awn.com/news/sam-register-exits-warner-bros-animation-after-18-years",
+      "source": "Animation World Network",
+      "published_at": "2026-08-25T17:00:37Z",
+      "category": "studios-companies",
+      "tags": ["exec move", "Warner Bros"]
+    },
+    {
+      "id": "cg-framestore-war-machine",
+      "title": "Framestore's explosive VFX breakdown for War Machine",
+      "summary": "Framestore details a CG killing machine blending dinosaur and robotic design for the film.",
+      "url": "https://www.cgchannel.com/2026/08/check-out-framestores-explosive-vfx-breakdown-for-war-machine/",
+      "source": "CG Channel",
+      "published_at": "2026-08-26T06:00:17Z",
+      "category": "notable-work",
+      "tags": ["Framestore", "breakdown"]
+    },
+    {
+      "id": "cg-ilp-mandalorian-grogu",
+      "title": "ILP's breakdown for The Mandalorian and Grogu",
+      "summary": "Important Looking Pirates details environments and CG character work for the new Star Wars feature.",
+      "url": "https://www.cgchannel.com/2026/08/check-out-ilps-breakdown-for-star-wars-the-mandalorian-and-grogu/",
+      "source": "CG Channel",
+      "published_at": "2026-08-25T05:04:08Z",
+      "category": "notable-work",
+      "tags": ["ILP", "Star Wars"]
+    },
+    {
+      "id": "cg-dneg-for-all-mankind",
+      "title": "DNEG's VFX breakdown for For All Mankind Season 5",
+      "summary": "DNEG showcases Martian landscapes and a K-Station explosion sequence for the Apple TV+ drama.",
+      "url": "https://www.cgchannel.com/2026/08/see-dnegs-spectacular-vfx-breakdown-for-for-all-mankind-season-5/",
+      "source": "CG Channel",
+      "published_at": "2026-08-24T08:17:15Z",
+      "category": "notable-work",
+      "tags": ["DNEG", "breakdown"]
+    },
+    {
+      "id": "awn-wefx-from-s4",
+      "title": "WeFX shares its From Season 4 VFX breakdown reel",
+      "summary": "The Toronto studio's 81 artists delivered ~150 shots, from practical-doll matching to creature transformations.",
+      "url": "https://www.awn.com/news/wefx-shares-season-4-vfx-breakdown-reel",
+      "source": "Animation World Network",
+      "published_at": "2026-08-25T17:49:07Z",
+      "category": "notable-work",
+      "tags": ["WeFX", "breakdown"]
+    },
+    {
+      "id": "fx-stranger-things-s5",
+      "title": "Inside the VFX of Stranger Things Season 5",
+      "summary": "The VFX supervisor breaks down creature design and digital effects meant to enhance rather than replace reality.",
+      "url": "https://www.fxguide.com/fxpodcasts/vecna-demogorgons-and-young-will-inside-the-vfx-of-stranger-things-s5/",
+      "source": "fxguide",
+      "published_at": "2026-08-03T20:03:01Z",
+      "category": "notable-work",
+      "tags": ["Netflix", "breakdown"]
+    },
+    {
+      "id": "awn-view-brad-bird",
+      "title": "VIEW Conference 2026 adds Brad Bird talk on Ray Gunn",
+      "summary": "The Oscar winner presents his Netflix sci-fi noir; Digital Domain also details 400+ shots from a Spielberg thriller.",
+      "url": "https://www.awn.com/news/view-conference-2026-adds-brad-bird-talk-ray-gunn-disclosure-day-vfx",
+      "source": "Animation World Network",
+      "published_at": "2026-08-25T16:32:07Z",
+      "category": "notable-work",
+      "tags": ["conference", "Digital Domain"]
+    },
+    {
+      "id": "wrap-severance-s3",
+      "title": "Severance Season 3 has been filming for weeks, says Adam Scott",
+      "summary": "Apple TV+'s Severance enters Season 3 production, with Adam Scott confirming crews have been shooting.",
+      "url": "https://www.thewrap.com/media-platforms/tv/adam-scott-severance-season-3-filming/",
+      "source": "TheWrap",
+      "published_at": "2026-08-26T00:56:50Z",
+      "category": "productions",
+      "tags": ["Apple TV+", "in production"]
+    },
+    {
+      "id": "awn-coyote-vs-acme",
+      "title": "Coyote vs. Acme finally gets a theatrical release",
+      "summary": "The live-action/3DCG hybrid, shelved in a 2023 tax write-off, secures release via Ketchup Entertainment on Aug 28.",
+      "url": "https://www.awn.com/vfxworld/coyote-vs-acme-finally-gets-its-day-court-and-theaters",
+      "source": "Animation World Network",
+      "published_at": "2026-08-19T17:31:28Z",
+      "category": "productions",
+      "tags": ["release", "hybrid"]
+    },
+    {
+      "id": "awn-gargoyles-disney",
+      "title": "Animated Gargoyles may be roosting once more at Disney",
+      "summary": "A second animated adaptation is reportedly in development at Disney, per original voice actor Brent Spiner.",
+      "url": "https://www.awn.com/news/animated-gargoyles-may-be-roosting-once-more-disney",
+      "source": "Animation World Network",
+      "published_at": "2026-08-19T18:02:30Z",
+      "category": "productions",
+      "tags": ["Disney", "development"]
+    },
+    {
+      "id": "awn-megan-cupcake",
+      "title": "Megan and Cupcake hybrid animation series enters production for Disney Jr.",
+      "summary": "Emmy-winning puppeteer Megan Baptist stars in a new puppet-animation hybrid slated for a fall debut.",
+      "url": "https://www.awn.com/news/megan-and-cupcake-hybrid-animation-series-now-production-disney-jr",
+      "source": "Animation World Network",
+      "published_at": "2026-08-21T10:16:58Z",
+      "category": "productions",
+      "tags": ["Disney", "in production"]
+    },
+    {
+      "id": "awn-ltx-2-5",
+      "title": "LTX releases open-weights world model LTX-2.5",
+      "summary": "The new AI model handles HDR rendering and multishot sequences, runs on studio hardware, and ships via Hugging Face.",
+      "url": "https://www.awn.com/news/ltx-releases-open-weights-world-model-ltx-25",
+      "source": "Animation World Network",
+      "published_at": "2026-08-21T12:37:13Z",
+      "category": "ai-creative",
+      "tags": ["AI", "open weights", "video model"]
+    },
+    {
+      "id": "wrap-ridley-scott-ai",
+      "title": "Ridley Scott warns we “can't trust” AI leaders on safety",
+      "summary": "The director voices concern over AI control and criticizes tech leaders' accountability on safeguards.",
+      "url": "https://www.thewrap.com/industry-news/tech/ridley-scott-warns-ai-leaders-sam-altman/",
+      "source": "TheWrap",
+      "published_at": "2026-08-26T00:15:55Z",
+      "category": "ai-creative",
+      "tags": ["AI", "commentary"]
+    },
+    {
+      "id": "awn-vfx-world-atlas-2026",
+      "title": "2026 Visual Effects & Animation World Atlas shows 2.7% growth",
+      "summary": "The industry report finds net growth, an 11.3% Vancouver rebound, and no AI-driven job losses among 140,000+ pros.",
+      "url": "https://www.awn.com/news/joseph-bell-releases-2026-visual-effects-animation-world-atlas",
+      "source": "Animation World Network",
+      "published_at": "2026-08-25T11:55:06Z",
+      "category": "business-funding",
+      "tags": ["market data", "industry report"]
+    },
+    {
+      "id": "wrap-paramount-iowa-ag",
+      "title": "Iowa AG takes California to Supreme Court over Paramount merger",
+      "summary": "Iowa's AG challenges California's opposition to the $110B Paramount–Warner Bros. Discovery merger.",
+      "url": "https://www.thewrap.com/industry-news/business/iowa-state-ag-lawsuit-california-rob-bonta-supreme-court-paramount/",
+      "source": "TheWrap",
+      "published_at": "2026-08-26T01:01:46Z",
+      "category": "business-funding",
+      "tags": ["Paramount", "merger", "legal"]
+    }
+  ]
+}

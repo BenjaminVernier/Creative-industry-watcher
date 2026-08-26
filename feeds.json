@@ -1,0 +1,19 @@
+{
+  "_comment": "Curated RSS sources the routine reads each run. 'domains' is a hint for the agent; the agent assigns the final category per item using the taxonomy in docs/app.js. Add/remove feeds freely.",
+  "feeds": [
+    { "name": "Billboard", "url": "https://www.billboard.com/feed/", "domains": ["music"] },
+    { "name": "Pitchfork", "url": "https://pitchfork.com/rss/news/", "domains": ["music"] },
+    { "name": "Music Business Worldwide", "url": "https://www.musicbusinessworldwide.com/feed/", "domains": ["music"] },
+    { "name": "MusicTech", "url": "https://musictech.com/feed/", "domains": ["music"] },
+    { "name": "Hypebot", "url": "https://www.hypebot.com/hypebot/feed", "domains": ["music"] },
+    { "name": "CDM (Create Digital Music)", "url": "https://cdm.link/feed/", "domains": ["music"] },
+    { "name": "befores & afters", "url": "https://beforesandafters.com/feed/", "domains": ["vfx"] },
+    { "name": "fxguide", "url": "https://www.fxguide.com/feed/", "domains": ["vfx"] },
+    { "name": "CG Channel", "url": "https://www.cgchannel.com/feed/", "domains": ["vfx"] },
+    { "name": "Animation World Network", "url": "https://www.awn.com/rss.xml", "domains": ["vfx", "film-tv"] },
+    { "name": "Variety", "url": "https://variety.com/feed/", "domains": ["film-tv"] },
+    { "name": "Deadline", "url": "https://deadline.com/feed/", "domains": ["film-tv"] },
+    { "name": "IndieWire", "url": "https://www.indiewire.com/feed/", "domains": ["film-tv"] },
+    { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/feed/", "domains": ["film-tv"] }
+  ]
+}
