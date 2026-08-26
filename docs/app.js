@@ -12,6 +12,7 @@ const DOMAINS = {
   vfx:      { label: "VFX",         color: "var(--vfx)" },
   "film-tv":{ label: "Film & TV",   color: "var(--film-tv)" },
   cross:    { label: "Cross-industry", color: "var(--cross)" },
+  social:   { label: "Social Buzz", color: "var(--social)" },
 };
 
 const CATEGORIES = [
@@ -30,6 +31,11 @@ const CATEGORIES = [
 
   { slug: "ai-creative",      domain: "cross",   emoji: "🤖", label: "AI & Creative Tech" },
   { slug: "business-funding", domain: "cross",   emoji: "💰", label: "Business & Funding" },
+
+  { slug: "social-people",    domain: "social",  emoji: "👤", label: "People to Watch" },
+  { slug: "social-vfx",       domain: "social",  emoji: "🎨", label: "VFX & Animation Buzz" },
+  { slug: "social-music",     domain: "social",  emoji: "🎹", label: "Music-Maker Buzz" },
+  { slug: "social-trends",    domain: "social",  emoji: "🔎", label: "Spiking Searches" },
 ];
 
 const CAT_BY_SLUG = Object.fromEntries(CATEGORIES.map((c) => [c.slug, c]));

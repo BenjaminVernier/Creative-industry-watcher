@@ -5,7 +5,6 @@
     { "name": "Pitchfork", "url": "https://pitchfork.com/rss/news/", "domains": ["music"] },
     { "name": "Music Business Worldwide", "url": "https://www.musicbusinessworldwide.com/feed/", "domains": ["music"] },
     { "name": "MusicTech", "url": "https://musictech.com/feed/", "domains": ["music"] },
-    { "name": "Hypebot", "url": "https://www.hypebot.com/hypebot/feed", "domains": ["music"] },
     { "name": "CDM (Create Digital Music)", "url": "https://cdm.link/feed/", "domains": ["music"] },
     { "name": "befores & afters", "url": "https://beforesandafters.com/feed/", "domains": ["vfx"] },
     { "name": "fxguide", "url": "https://www.fxguide.com/feed/", "domains": ["vfx"] },
@@ -15,5 +14,18 @@
     { "name": "Deadline", "url": "https://deadline.com/feed/", "domains": ["film-tv"] },
     { "name": "IndieWire", "url": "https://www.indiewire.com/feed/", "domains": ["film-tv"] },
     { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/feed/", "domains": ["film-tv"] }
+  ],
+  "_social_comment": "Open-web social sources fetched by scripts/fetch_feeds.py. 'hint' suggests a Social Buzz category slug; the routine makes the final call. Mastodon hashtag feeds work per-instance (mastodon.social aggregates the fediverse).",
+  "social": [
+    { "name": "Mastodon #vfx", "platform": "mastodon", "url": "https://mastodon.social/tags/vfx.rss", "hint": "social-vfx" },
+    { "name": "Mastodon #vfxart", "platform": "mastodon", "url": "https://mastodon.social/tags/vfxart.rss", "hint": "social-vfx" },
+    { "name": "Mastodon #blender", "platform": "mastodon", "url": "https://mastodon.social/tags/blender.rss", "hint": "social-vfx" },
+    { "name": "Mastodon #animation", "platform": "mastodon", "url": "https://mastodon.social/tags/animation.rss", "hint": "social-vfx" },
+    { "name": "Mastodon #musicproduction", "platform": "mastodon", "url": "https://mastodon.social/tags/musicproduction.rss", "hint": "social-music" },
+    { "name": "Mastodon #synthesizer", "platform": "mastodon", "url": "https://mastodon.social/tags/synthesizer.rss", "hint": "social-music" },
+    { "name": "Mastodon #musicians", "platform": "mastodon", "url": "https://mastodon.social/tags/musicians.rss", "hint": "social-music" },
+    { "name": "Mastodon #filmmaking", "platform": "mastodon", "url": "https://mastodon.social/tags/filmmaking.rss", "hint": "social-people" },
+    { "name": "Google Trends (US)", "platform": "google-trends", "url": "https://trends.google.com/trending/rss?geo=US", "hint": "social-trends" },
+    { "name": "Google Trends (FR)", "platform": "google-trends", "url": "https://trends.google.com/trending/rss?geo=FR", "hint": "social-trends" }
   ]
 }

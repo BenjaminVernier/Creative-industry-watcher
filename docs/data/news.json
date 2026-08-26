@@ -350,6 +350,86 @@
       "published_at": "2026-08-26T01:01:46Z",
       "category": "business-funding",
       "tags": ["Paramount", "merger", "legal"]
+    },
+    {
+      "id": "soc-artofvfx-superman",
+      "title": "The Art of VFX breaks down Superman's Krypto and Krypton work",
+      "summary": "A widely-shared thread details the alien creatures, teleportation and Wormhole effects behind the film's biggest shots.",
+      "url": "https://mastodon.social/@artofvfx/117156744344922939",
+      "source": "@artofvfx · Mastodon",
+      "published_at": "2026-08-25T00:00:00Z",
+      "category": "social-vfx",
+      "tags": ["Mastodon", "breakdown"]
+    },
+    {
+      "id": "soc-pafurijaz-autoremesher",
+      "title": "Autoremesher retopology tool ships a new version",
+      "summary": "The open-source auto-retopology app gets a fresh release, drawing interest from 3D and VFX artists on the fediverse.",
+      "url": "https://mastodon.social/@pafurijaz/117152189261110652",
+      "source": "@pafurijaz · Mastodon",
+      "published_at": "2026-08-24T00:00:00Z",
+      "category": "social-vfx",
+      "tags": ["Mastodon", "tool", "retopology"]
+    },
+    {
+      "id": "soc-d3cline-chipforge",
+      "title": "CHIPFORGE: a tracker, synth and drum machine built for PipeWire",
+      "summary": "A new chiptune-focused music tool built directly on PipeWire is getting attention from Linux music makers.",
+      "url": "https://opalstack.social/@d3cline/117162151454949383",
+      "source": "@d3cline · Mastodon",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "social-music",
+      "tags": ["Mastodon", "tool", "chiptune"]
+    },
+    {
+      "id": "soc-sonible-smartchain",
+      "title": "sonible launches smart:chain, an AI channel strip, for €99",
+      "summary": "Producers are sharing sonible's new intelligent channel strip that auto-configures EQ, compression and more.",
+      "url": "https://bedroomproducersblog.com/2026/08/26/sonible-smartchain/",
+      "source": "Bedroom Producers Blog · Mastodon",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "social-music",
+      "tags": ["Mastodon", "AI", "plugin"]
+    },
+    {
+      "id": "soc-phoenix-album",
+      "title": "An indie maker finishes a 17-song album started from scratch in December",
+      "summary": "A self-taught musician's excitement over completing a full original album is resonating across the fediverse.",
+      "url": "https://mastodon.social/@a_phlaming_phoenix/117162028996584496",
+      "source": "@a_phlaming_phoenix · Mastodon",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "social-people",
+      "tags": ["Mastodon", "emerging artist"]
+    },
+    {
+      "id": "soc-constructure-screenwriting",
+      "title": "A screenwriter is building story-structure tools in the open",
+      "summary": "@constructurescreenwriter is posting a running series on outline, beats and character panels for a new writing app.",
+      "url": "https://mastodon.social/@constructurescreenwriter/117159283138414602",
+      "source": "@constructurescreenwriter · Mastodon",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "social-people",
+      "tags": ["Mastodon", "screenwriting", "tool"]
+    },
+    {
+      "id": "soc-trend-rupert-grint",
+      "title": "“Rupert Grint” spiking in US search",
+      "summary": "The Harry Potter actor is trending in Google Search (200+), a signal worth watching for film/TV interest.",
+      "url": "https://trends.google.com/trends/explore?q=rupert%20grint&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "social-trends",
+      "tags": ["Google Trends", "film"]
+    },
+    {
+      "id": "soc-trend-gta6",
+      "title": "“GTA 6” spiking in French search",
+      "summary": "Rockstar's GTA 6 is trending hard in France (2,000+) — a cross-over signal across gaming and entertainment.",
+      "url": "https://trends.google.com/trends/explore?q=gta%206&geo=FR",
+      "source": "Google Trends (FR)",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "social-trends",
+      "tags": ["Google Trends", "gaming"]
     }
   ]
 }

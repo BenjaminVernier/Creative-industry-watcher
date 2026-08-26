@@ -1,0 +1,45 @@
+name: Fetch feeds
+
+# Fetches all news + social feeds on GitHub's open-internet runners and commits
+# data/raw.json. The cloud routine (which cannot reach the web) then reads that
+# file and does the AI summarize/categorize step. Runs 20 min before the routine.
+
+on:
+  schedule:
+    - cron: "40 4 * * *"   # 04:40 UTC daily (routine runs 05:00 UTC)
+  workflow_dispatch: {}      # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-feeds
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet feedparser requests
+
+      - name: Fetch feeds
+        run: python scripts/fetch_feeds.py
+
+      - name: Commit raw data
+        run: |
+          git config user.name "feed-fetcher[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw.json
+          if git diff --staged --quiet; then
+            echo "No changes to raw.json"
+          else
+            git commit -m "chore: fetch raw feeds $(date -u +%Y-%m-%d)"
+            git push
+          fi

@@ -17,6 +17,7 @@
   --vfx: #5ee0c0;
   --film-tv: #ffb454;
   --cross: #b98bff;
+  --social: #38bdf8;
 }
 
 html[data-theme="light"] {
@@ -37,6 +38,7 @@ html[data-theme="light"] {
   --vfx: #10a789;
   --film-tv: #d9821a;
   --cross: #7c4dd6;
+  --social: #0284c7;
 }
 
 * { box-sizing: border-box; }
@@ -151,6 +153,7 @@ body {
 .chip[data-domain="vfx"].active { background: var(--vfx); color: #06231d; }
 .chip[data-domain="film-tv"].active { background: var(--film-tv); color: #2e1c00; }
 .chip[data-domain="cross"].active { background: var(--cross); }
+.chip[data-domain="social"].active { background: var(--social); color: #04212e; }
 
 /* ---------- Board ---------- */
 #board { padding-top: 8px; padding-bottom: 40px; }
