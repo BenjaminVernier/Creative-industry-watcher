@@ -21,6 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so pull --rebase works before pushing
 
       - uses: actions/setup-python@v5
         with:
@@ -43,5 +45,13 @@ jobs:
             echo "No changes to raw.json"
           else
             git commit -m "chore: fetch raw feeds $(date -u +%Y-%m-%d)"
-            git push
+            # Another job (the routine) may have pushed meanwhile — rebase + retry.
+            for attempt in 1 2 3 4 5; do
+              git pull --rebase --autostash origin main \
+                && git push \
+                && { echo "pushed on attempt $attempt"; exit 0; }
+              echo "push attempt $attempt failed; retrying in 5s…"
+              sleep 5
+            done
+            echo "::error::push failed after retries"; exit 1
           fi
