@@ -40,6 +40,9 @@ into docs/data/news.json and push. Work only on the main branch.
    - Google Trends items: KEEP ONLY terms clearly relevant to music / VFX / film / TV /
      entertainment (an artist, actor, film, show, game, studio). DROP generic/unrelated terms
      (stocks, politics, sports, weather, disasters). Most days only a few qualify — that's fine.
+   - YouTube items (platform "youtube"): recently-trending niche videos ranked by views. Keep the
+     strongest few per topic, skip obvious clickbait/low-quality; category social-youtube, source
+     "YouTube · <tag>". `approx_traffic` holds the view count — you may cite it in the summary.
 
 4. For every kept item write a neutral, factual summary of 12-22 words (rewrite text in your own
    words; never copy verbatim; never exceed ~25 words). Assign EXACTLY ONE category slug:
@@ -87,6 +90,7 @@ Finish by confirming the push succeeded (or explaining why you didn't push).
 | social    | `social-people`     | People to Watch           |
 | social    | `social-vfx`        | VFX & Animation Buzz      |
 | social    | `social-music`      | Music-Maker Buzz          |
+| social    | `social-youtube`    | Trending on YouTube       |
 | social    | `social-trends`     | Spiking Searches          |
 
 ## Files
@@ -97,6 +101,10 @@ Finish by confirming the push succeeded (or explaining why you didn't push).
 
 ## Tuning
 - Add sources in `feeds.json`. Mastodon = any instance's `/tags/<tag>.rss`.
+- **YouTube trend discovery** is optional and free: set a `YOUTUBE_API_KEY` repo secret
+  (Settings → Secrets and variables → Actions) from a Google Cloud project with the YouTube
+  Data API v3 enabled. Edit the niche search terms in `feeds.json` → `youtube_queries`. Without
+  the secret the fetcher just skips YouTube.
 - Change cadence: edit the cron in `.github/workflows/fetch.yml` (fetch) and the routine's
   schedule (curate) — keep the routine ~20 min after the fetch.
 - PMC feeds (Variety, Deadline, THR, IndieWire) may or may not fetch from GitHub's IPs; the

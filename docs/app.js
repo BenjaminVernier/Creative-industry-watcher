@@ -35,6 +35,7 @@ const CATEGORIES = [
   { slug: "social-people",    domain: "social",  emoji: "👤", label: "People to Watch" },
   { slug: "social-vfx",       domain: "social",  emoji: "🎨", label: "VFX & Animation Buzz" },
   { slug: "social-music",     domain: "social",  emoji: "🎹", label: "Music-Maker Buzz" },
+  { slug: "social-youtube",   domain: "social",  emoji: "📺", label: "Trending on YouTube" },
   { slug: "social-trends",    domain: "social",  emoji: "🔎", label: "Spiking Searches" },
 ];
 

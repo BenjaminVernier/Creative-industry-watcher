@@ -27,5 +27,18 @@
     { "name": "Mastodon #filmmaking", "platform": "mastodon", "url": "https://mastodon.social/tags/filmmaking.rss", "hint": "social-people" },
     { "name": "Google Trends (US)", "platform": "google-trends", "url": "https://trends.google.com/trending/rss?geo=US", "hint": "social-trends" },
     { "name": "Google Trends (FR)", "platform": "google-trends", "url": "https://trends.google.com/trending/rss?geo=FR", "hint": "social-trends" }
+  ],
+  "_youtube_comment": "Niche search terms for YouTube trend discovery (recently-published videos ranked by views). Only runs if a YOUTUBE_API_KEY repo secret is set. Free — uses the YouTube Data API v3 quota (~100 units per query/day).",
+  "youtube_queries": [
+    { "q": "VFX breakdown", "tag": "VFX" },
+    { "q": "visual effects reel", "tag": "VFX" },
+    { "q": "Unreal Engine cinematic", "tag": "VFX" },
+    { "q": "Houdini FX", "tag": "VFX" },
+    { "q": "music production tutorial", "tag": "Music" },
+    { "q": "beat making", "tag": "Music" },
+    { "q": "synthesizer demo", "tag": "Music" },
+    { "q": "mixing and mastering", "tag": "Music" },
+    { "q": "filmmaking techniques", "tag": "Film" },
+    { "q": "cinematography breakdown", "tag": "Film" }
   ]
 }
