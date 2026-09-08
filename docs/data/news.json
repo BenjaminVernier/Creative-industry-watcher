@@ -1,108 +1,316 @@
 {
-  "generated_at": "2026-09-07T05:07:39Z",
+  "generated_at": "2026-09-08T05:10:45Z",
   "items": [
     {
-      "id": "mdn-blendernation-spider-verse-ink-lines-grease-pencil",
-      "title": "Tutorial Recreates Spider-Verse Ink Lines With Blender Grease Pencil",
-      "summary": "A BlenderNation tutorial shows how independent animators can replicate Sony's hand-drawn ink-line technique from Spider-Verse using Grease Pencil and Geometry Nodes.",
-      "url": "https://mastodon.online/@blendernation/117222794646559153",
+      "id": "gt-julie-gayet",
+      "title": "French Actress Julie Gayet Trends in France",
+      "summary": "Search interest in actress and producer Julie Gayet spiked among French users this week.",
+      "url": "https://trends.google.com/trends/explore?q=julie%20gayet&geo=FR",
+      "source": "Google Trends (FR)",
+      "published_at": "2026-09-07T09:30:00Z",
+      "category": "social-trends",
+      "tags": [
+        "actress",
+        "France"
+      ]
+    },
+    {
+      "id": "mdn-artofvfx-weekend-spotlight-trailer-roundup",
+      "title": "artofvfx Rounds Up the Week's Biggest VFX Trailers and Breakdowns",
+      "summary": "The Weekend Spotlight covers Street Fighter and Harry Potter trailers, a Silo spoiler dive, and Weta FX's House of the Dragon work.",
+      "url": "https://mastodon.social/@artofvfx/117229028954216994",
+      "source": "@artofvfx · Mastodon",
+      "published_at": "2026-09-07T09:23:44Z",
+      "category": "social-vfx",
+      "tags": [
+        "VFX news",
+        "roundup"
+      ]
+    },
+    {
+      "id": "gt-nicolas-cage-spider-noir",
+      "title": "\"Nicolas Cage Spider-Noir\" Spikes in Search Interest",
+      "summary": "Search interest jumped for Nicolas Cage's Spider-Noir role following the show's surprise wins at the Creative Arts Emmys.",
+      "url": "https://trends.google.com/trends/explore?q=nicolas%20cage%20spider-noir&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-09-07T09:20:00Z",
+      "category": "social-trends",
+      "tags": [
+        "Spider-Noir",
+        "Emmy Awards"
+      ]
+    },
+    {
+      "id": "dl-gaza-cinema-academy-launches-at-venice",
+      "title": "Gaza Cinema Academy Launches at Venice Film Festival",
+      "summary": "Palestinian filmmakers Ezzaldeen Shalh and Mai Masri co-founded a new academy to train Gazans in film education and production.",
+      "url": "https://deadline.com/2026/09/gaza-cinema-academy-venice-film-education-1237070099/",
+      "source": "Deadline",
+      "published_at": "2026-09-07T09:10:58Z",
+      "category": "productions",
+      "tags": [
+        "film education",
+        "Venice"
+      ]
+    },
+    {
+      "id": "bb-radiohead-announces-first-australian-tour-in-15-years",
+      "title": "Radiohead Announce First Australian Tour in 15 Years",
+      "summary": "Radiohead confirmed 16 arena dates across Australia for 2027, their first tour there since 2012.",
+      "url": "https://www.billboard.com/music/music-news/radiohead-announce-australia-tour-2027-1236335276/",
+      "source": "Billboard",
+      "published_at": "2026-09-07T09:06:19Z",
+      "category": "trends-culture",
+      "tags": [
+        "Radiohead",
+        "tour"
+      ]
+    },
+    {
+      "id": "var-france-launches-iris-independent-cinema-initiative",
+      "title": "France Launches IRIS Initiative to Support Independent Cinema",
+      "summary": "Filmmakers including Richard Linklater and Jane Campion joined France's new global initiative defending independent screens, unveiled at the Lumiere Summit.",
+      "url": "https://variety.com/2026/film/news/iris-independent-film-france-macron-lumiere-summit-1236853718/",
+      "source": "Variety",
+      "published_at": "2026-09-07T09:05:00Z",
+      "category": "business-funding",
+      "tags": [
+        "Lumiere Summit",
+        "independent film"
+      ]
+    },
+    {
+      "id": "mt-zero9-plugins-gloriously-simple-ui",
+      "title": "New ZERO9 Plugins Launch With Stripped-Back, Minimalist UI",
+      "summary": "Producer James Harcourt released nine ZERO9 character-driven production plugins designed with a deliberately minimal interface.",
+      "url": "https://musictech.com/news/music/zero9-character-driven-production-plugins/",
+      "source": "MusicTech",
+      "published_at": "2026-09-07T09:04:12Z",
+      "category": "music-tech",
+      "tags": [
+        "plugins",
+        "ZERO9"
+      ]
+    },
+    {
+      "id": "var-france-korea-launch-1-16-billion-screen-financing-partnership",
+      "title": "France and Korea Launch $1.16 Billion Screen Industry Financing Partnership",
+      "summary": "France and Korea each pledged roughly $580 million to a new joint fund backing global screen industries starting in 2027.",
+      "url": "https://variety.com/2026/film/news/france-korea-billion-screen-industry-partnership-lumiere-summit-1236853711/",
+      "source": "Variety",
+      "published_at": "2026-09-07T09:00:00Z",
+      "category": "business-funding",
+      "tags": [
+        "Lumiere Summit",
+        "financing"
+      ]
+    },
+    {
+      "id": "var-regal-ifta-cnc-pilot-to-reverse-theater-admissions",
+      "title": "Regal, IFTA and CNC Launch Pilot to Reverse Falling Theater Admissions",
+      "summary": "The Future of Distribution pilot hands under-used cinema screens to a neutral programmer to test smarter theatrical programming.",
+      "url": "https://variety.com/2026/film/news/regal-cinemas-ifta-cnc-pilot-reverse-falling-theater-admissions-1236853853/",
+      "source": "Variety",
+      "published_at": "2026-09-07T09:00:00Z",
+      "category": "business-funding",
+      "tags": [
+        "exhibition",
+        "Regal Cinemas"
+      ]
+    },
+    {
+      "id": "gt-linda-cardellini",
+      "title": "\"Linda Cardellini\" Trends After Emmy Win",
+      "summary": "Searches for Linda Cardellini rose after her first Emmy win for supporting actress in a limited series for 'DTF St. Louis.'",
+      "url": "https://trends.google.com/trends/explore?q=linda%20cardellini&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-09-07T09:00:00Z",
+      "category": "social-trends",
+      "tags": [
+        "Emmy Awards",
+        "actress"
+      ]
+    },
+    {
+      "id": "mdn-maxim-unreal-engine-material-v3",
+      "title": "Indie Developer Shows Off Unreal Engine Terminal-Screen Material v3.0",
+      "summary": "A solo game developer showcased version 3.0 of an Unreal Engine shader material for terminal screens and robot HUD displays.",
+      "url": "https://mastodon.gamedev.place/@maxim/117228906076748078",
+      "source": "@maxim · Mastodon",
+      "published_at": "2026-09-07T08:52:29Z",
+      "category": "social-vfx",
+      "tags": [
+        "Unreal Engine",
+        "shader"
+      ]
+    },
+    {
+      "id": "mt-sony-launches-ult-tower-bass-powered-speakers",
+      "title": "Sony Launches ULT TOWER Bass-Powered Speaker Line",
+      "summary": "Sony expanded its ULT speaker range with three new tower models featuring large circular woofers for consumer and pro use.",
+      "url": "https://musictech.com/news/gear/all-you-need-to-know-sony-ult-tower-speakers-features-pricing-availability/",
+      "source": "MusicTech",
+      "published_at": "2026-09-07T08:49:24Z",
+      "category": "music-tech",
+      "tags": [
+        "Sony",
+        "speakers"
+      ]
+    },
+    {
+      "id": "gt-best-shows-on-hbo-max",
+      "title": "\"Best Shows on HBO Max\" Sees Search Spike",
+      "summary": "Search interest in HBO Max's lineup rose as the streamer entered Emmy night contention alongside Apple TV.",
+      "url": "https://trends.google.com/trends/explore?q=best%20shows%20on%20hbo%20max&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-09-07T08:40:00Z",
+      "category": "social-trends",
+      "tags": [
+        "streaming",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": "mdn-getmusictools-solfegio-lesson-platform",
+      "title": "Solfeg.io Offers Interactive Song-Based Lessons for Piano, Guitar and Ukulele",
+      "summary": "The platform pairs a library of popular songs with live feedback and progress tracking to make instrument practice more engaging.",
+      "url": "https://mastodon.social/@getmusictools/117228700599335761",
+      "source": "@getmusictools · Mastodon",
+      "published_at": "2026-09-07T08:00:14Z",
+      "category": "social-music",
+      "tags": [
+        "music education",
+        "tool"
+      ]
+    },
+    {
+      "id": "dl-netflix-confirms-inbetweeners-reunion-movie-production",
+      "title": "Netflix Confirms 'The Inbetweeners' Reunion Movie, Production Begins",
+      "summary": "Netflix's revival reunites the original sitcom cast, with Simon Bird, James Buckley, Blake Harrison and Joe Thomas reprising their roles.",
+      "url": "https://deadline.com/2026/09/netflix-confirms-inbetweeners-reunion-movie-cast-1237070074/",
+      "source": "Deadline",
+      "published_at": "2026-09-07T08:00:02Z",
+      "category": "productions",
+      "tags": [
+        "Netflix",
+        "reunion film"
+      ]
+    },
+    {
+      "id": "dl-dvizhon-studios-launches-with-sex-education-series",
+      "title": "Dvizhon Studios Launches With Sex Education Series 'The First Time'",
+      "summary": "Ukrainian showrunner Yuri Dvizhon debuted his London-based production house with a five-part celebrity-led series on Eastern European streamer Megogo.",
+      "url": "https://deadline.com/2026/09/dvizhon-studios-launches-first-time-ukraine-1237069387/",
+      "source": "Deadline",
+      "published_at": "2026-09-07T08:00:00Z",
+      "category": "productions",
+      "tags": [
+        "new studio",
+        "streaming"
+      ]
+    },
+    {
+      "id": "mdn-blendernation-quad-remesher-boolean-topology-tip",
+      "title": "Blender Tutorial Shows Boolean-to-Subdivision Topology With Quad Remesher",
+      "summary": "BlenderNation shared a technique using Exoside's Quad Remesher to convert boolean meshes into clean, subdivision-ready quad topology.",
+      "url": "https://mastodon.online/@blendernation/117228247937990563",
       "source": "@blendernation · Mastodon",
-      "published_at": "2026-09-06T06:58:16Z",
+      "published_at": "2026-09-07T06:05:07Z",
       "category": "social-vfx",
       "tags": [
         "Blender",
-        "Spider-Verse"
+        "topology"
       ]
     },
     {
-      "id": "var-judith-blum-reddy-doc-acquired-by-watermelon-pictures",
-      "title": "Watermelon Pictures Acquires Dev Benegal's 'Everything Is Not OK'",
-      "summary": "Watermelon Pictures acquired Dev Benegal's documentary about artist Judith Blum Reddy, with Annemarie Jacir attached as executive producer.",
-      "url": "https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/",
-      "source": "Variety",
-      "published_at": "2026-09-06T05:50:14Z",
-      "category": "business-funding",
+      "id": "bb-bad-bunny-wins-first-primetime-emmy-for-super-bowl-halftime",
+      "title": "Bad Bunny Wins First Primetime Emmy for Super Bowl Halftime Show",
+      "summary": "Bad Bunny's 2026 Super Bowl Halftime Show swept all seven Creative Arts Emmy categories it was nominated in.",
+      "url": "https://www.billboard.com/music/awards/bad-bunny-wins-primetime-emmy-super-bowl-halftime-show-1236334994/",
+      "source": "Billboard",
+      "published_at": "2026-09-07T04:59:23Z",
+      "category": "trends-culture",
       "tags": [
-        "acquisition",
-        "documentary"
+        "Bad Bunny",
+        "Emmy Awards"
       ]
     },
     {
-      "id": "var-will-you-still-be-my-friend-boarded-by-moveria",
-      "title": "Moveria Boards Sales for Taiwanese Drama 'Will You Still Be My Friend'",
-      "summary": "Paris-based sales agent Moveria boarded international sales for Lu Po-Shun's debut feature, set for San Sebastián and Busan festival berths.",
-      "url": "https://variety.com/2026/film/news/san-sebastian-busan-will-you-still-be-my-friend-boarded-moveria-1236853144/",
-      "source": "Variety",
-      "published_at": "2026-09-06T05:48:08Z",
-      "category": "productions",
+      "id": "baa-stranger-things-spider-noir-win-vfx-emmys",
+      "title": "'Stranger Things' and 'Spider-Noir' Win VFX Emmys",
+      "summary": "Both series took home Engineering, Science & Technology Emmy honors for their visual effects work this year.",
+      "url": "https://beforesandafters.com/2026/09/07/stranger-things-and-spider-noir-win-vfx-emmys/",
+      "source": "befores & afters",
+      "published_at": "2026-09-07T02:35:10Z",
+      "category": "notable-work",
       "tags": [
-        "sales agent",
-        "festival"
+        "VFX Emmys",
+        "Stranger Things"
       ]
     },
     {
-      "id": "mdn-caracalos-tone3000-plugin",
-      "title": "Linux Audio Distro Caracal OS Adds Tone3000 Plugin",
-      "summary": "Open-source Linux audio distribution Caracal OS added the Tone3000 plugin to its installer, part of over 100 plugins added in recent weeks.",
-      "url": "https://mastodon.social/@caracal_os/117221833270593916",
-      "source": "@caracal_os · Mastodon",
-      "published_at": "2026-09-06T02:53:47Z",
+      "id": "mdn-legalvst-delta6-free-fm-synth",
+      "title": "Hivetune Releases Free 6-Operator FM Synth 'Delta6'",
+      "summary": "Delta6 is a free 6-op FM synthesizer with an open mod matrix, 16-voice polyphony and built-in effects for Mac and Windows.",
+      "url": "https://mastodon.social/@legalvst/117226199493614654",
+      "source": "@legalvst · Mastodon",
+      "published_at": "2026-09-06T21:24:10Z",
       "category": "social-music",
       "tags": [
-        "Linux audio",
-        "open source"
+        "FM synthesis",
+        "free plugin"
       ]
     },
     {
-      "id": "dl-moonlight-getting-10th-anniversary-re-release-from-a24",
-      "title": "A24 Sets 10th Anniversary Re-Release for 'Moonlight'",
-      "summary": "A24 will re-release its Best Picture winner Moonlight in a new 4K remastered cut this October to mark the film's tenth anniversary.",
-      "url": "https://deadline.com/2026/09/moonlight-re-release-telluride-1237069018/",
-      "source": "Deadline",
-      "published_at": "2026-09-06T02:35:00Z",
-      "category": "streaming",
+      "id": "bb-rod-wave-scores-fourth-no-1-album-on-billboard-200",
+      "title": "Rod Wave Scores Fourth No. 1 Album on Billboard 200",
+      "summary": "Rod Wave's 'Don't Look Down' debuted atop the Billboard 200, his fourth chart-topping album, ahead of Alex Warren's 'WILDCHILD.'",
+      "url": "https://www.billboard.com/music/chart-beat/rod-wave-dont-look-down-number-one-billboard-200-chart-1236335185/",
+      "source": "Billboard",
+      "published_at": "2026-09-06T19:03:39Z",
+      "category": "trends-culture",
       "tags": [
-        "A24",
-        "re-release"
+        "Rod Wave",
+        "charts"
       ]
     },
     {
-      "id": "dl-danny-boyle-confirms-use-of-ai-in-new-movie-ink",
-      "title": "Danny Boyle Confirms Generative AI Used in New Film 'Ink'",
-      "summary": "Danny Boyle said he used about 30 seconds of generative AI footage while making his upcoming film Ink, about The Sun's launch.",
-      "url": "https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/",
-      "source": "Deadline",
-      "published_at": "2026-09-05T21:41:26Z",
+      "id": "mdn-tonalux-chebyshev-waveshaping-explainer",
+      "title": "Producer Traces Saturation's Roots to 1979 Chebyshev Polynomial Research",
+      "summary": "A synthesis-focused post explains how Marc Le Brun's Stanford waveshaping research still underlies why analog saturation sounds the way it does.",
+      "url": "https://mastodon.social/@tonalux/117225166462417393",
+      "source": "@tonalux · Mastodon",
+      "published_at": "2026-09-06T17:01:27Z",
+      "category": "social-music",
+      "tags": [
+        "sound design",
+        "synthesis"
+      ]
+    },
+    {
+      "id": "mdn-tksst-wild-kingdom-tapir-filming-bts",
+      "title": "Wildlife Documentary Crew Tracks Tapirs for 'Wild Kingdom' Reboot",
+      "summary": "Carnivore ecologist Rae Wynn-Grant shares behind-the-scenes footage of filming Mutual of Omaha's Wild Kingdom in Costa Rica.",
+      "url": "https://fediscience.org/@tksst/117224689586152277",
+      "source": "@tksst · Mastodon",
+      "published_at": "2026-09-06T15:00:11Z",
+      "category": "social-people",
+      "tags": [
+        "documentary",
+        "wildlife filmmaking"
+      ]
+    },
+    {
+      "id": "iw-danny-boyle-discusses-ai-use-in-tabloid-film-ink",
+      "title": "Danny Boyle Details His Use of AI in New Film 'Ink'",
+      "summary": "The Oscar-winning director explained using generative AI tools for about 30 seconds of footage rather than an 'imitation' performance.",
+      "url": "https://www.indiewire.com/features/interviews/danny-boyle-interview-ink-1235215117/",
+      "source": "IndieWire",
+      "published_at": "2026-09-06T00:45:00Z",
       "category": "ai-creative",
       "tags": [
-        "generative AI",
-        "filmmaking"
-      ]
-    },
-    {
-      "id": "mdn-feral3d-blender-to-godot-export-pipeline",
-      "title": "Solo Dev Nears Completion of Blender-to-Godot Export Pipeline",
-      "summary": "An independent developer shared progress on a Blender-to-Godot export pipeline for a card game, now 90% complete with texture-atlas sorting.",
-      "url": "https://mastodon.social/@Feral_3D/117220388626004997",
-      "source": "@Feral_3D · Mastodon",
-      "published_at": "2026-09-05T20:46:23Z",
-      "category": "social-vfx",
-      "tags": [
-        "Godot",
-        "pipeline"
-      ]
-    },
-    {
-      "id": "mdn-legalvst-phaseburn-one-synth",
-      "title": "Phaseburn Releases Free Multi-Engine Synth 'Phaseburn One'",
-      "summary": "Developer Phaseburn released synth plugin Phaseburn One, featuring phase-locked loop synthesis, modular routing and granular effects, free for a limited time.",
-      "url": "https://mastodon.social/@legalvst/117220086878041026",
-      "source": "@legalvst · Mastodon",
-      "published_at": "2026-09-05T19:29:39Z",
-      "category": "social-music",
-      "tags": [
-        "synth plugin",
-        "free"
+        "AI",
+        "Danny Boyle"
       ]
     },
     {
@@ -116,19 +324,6 @@
       "tags": [
         "breakdown",
         "fan VFX"
-      ]
-    },
-    {
-      "id": "iw-what-i-learned-watching-gen-ai-short-films-for-reply-ai",
-      "title": "IndieWire Juror Reflects on Judging Gen-AI Shorts for Reply Festival",
-      "summary": "An IndieWire critic recounts judging six hours of generative-AI short films ahead of the Reply AI Film Festival in Venice.",
-      "url": "https://www.indiewire.com/features/commentary/what-i-learned-watching-6-hours-gen-ai-short-films-reply-ai-1235206110/",
-      "source": "IndieWire",
-      "published_at": "2026-09-05T15:12:10Z",
-      "category": "ai-creative",
-      "tags": [
-        "generative AI",
-        "film festival"
       ]
     },
     {
@@ -168,6 +363,19 @@
       "tags": [
         "breakdown",
         "Milk VFX"
+      ]
+    },
+    {
+      "id": "fx-engineering-science-technology-emmy-winners",
+      "title": "Television Academy Names 2026 Engineering, Science & Technology Emmy Winners",
+      "summary": "The Television Academy announced its annual awards for developments in television engineering, science and technology.",
+      "url": "https://www.fxguide.com/quicktakes/congrats-to-the-engineering-science-technology-emmy-award-winners/",
+      "source": "fxguide",
+      "published_at": "2026-09-04T19:42:14Z",
+      "category": "notable-work",
+      "tags": [
+        "Emmy Awards",
+        "technology"
       ]
     },
     {
@@ -233,19 +441,6 @@
       "tags": [
         "open source",
         "AI 3D"
-      ]
-    },
-    {
-      "id": "mdn-saintkeith-marvel-plate-shot-policy",
-      "title": "DP Brett Pawlak Reveals Marvel's Plate-Shot Set Policy",
-      "summary": "Cinematographer Brett Pawlak revealed that Marvel Studios requires a background plate shot after nearly every setup, letting VFX replace locations in post.",
-      "url": "https://mstdn.social/@saintkeith/117213660112464832",
-      "source": "@saintkeith · Mastodon",
-      "published_at": "2026-09-04T16:15:14Z",
-      "category": "social-people",
-      "tags": [
-        "cinematography",
-        "Marvel"
       ]
     },
     {
@@ -327,19 +522,6 @@
       ]
     },
     {
-      "id": "mdn-beforesmag-ilm-invisible-effects",
-      "title": "befores & afters Highlights ILM's Invisible Effects Work",
-      "summary": "befores & afters shared a video spotlighting ILM's invisible visual effects work on a stunt sequence, illustrating seamless effects craft.",
-      "url": "https://mastodon.social/@beforesmag/117209528533658423",
-      "source": "@beforesmag · Mastodon",
-      "published_at": "2026-09-03T22:44:32Z",
-      "category": "social-vfx",
-      "tags": [
-        "ILM",
-        "invisible effects"
-      ]
-    },
-    {
       "id": "mbw-umgs-hospitality-arm-to-open-first-uk-hotel",
       "title": "UMG's Hospitality Arm to Open First UK Hotel",
       "summary": "Universal Music Group's hospitality division will open its first UK hotel on London's Denmark Street, its second in Europe after Madrid.",
@@ -350,19 +532,6 @@
       "tags": [
         "UMG",
         "hospitality"
-      ]
-    },
-    {
-      "id": "mdn-apq-blender-dispersion-green-tint-fix",
-      "title": "Blender Artist Explains Dispersion Green Tint Fix",
-      "summary": "A Blender community member explained and fixed a green tint bug in Blender 5.3's new dispersion rendering feature.",
-      "url": "https://mastodon.gamedev.place/@apq/117208332888211983",
-      "source": "@apq · Mastodon",
-      "published_at": "2026-09-03T17:40:27Z",
-      "category": "social-vfx",
-      "tags": [
-        "Blender",
-        "rendering"
       ]
     },
     {
@@ -418,6 +587,32 @@
       ]
     },
     {
+      "id": "baa-brad-pitt-meet-joe-black-car-hit-vfx-breakdown",
+      "title": "How ILM Crafted 'Meet Joe Black's' No-Cut Car-Hit Shot",
+      "summary": "befores & afters revisits how ILM built the uncut sequence where Brad Pitt's character is struck by a car twice.",
+      "url": "https://beforesandafters.com/2026/09/03/brad-pitt-gets-hit-by-a-car-twice/",
+      "source": "befores & afters",
+      "published_at": "2026-09-03T12:03:36Z",
+      "category": "notable-work",
+      "tags": [
+        "ILM",
+        "VFX breakdown"
+      ]
+    },
+    {
+      "id": "cdm-septabee-free-linux-windows-daw-launches",
+      "title": "Septabee, a Free Linux/Windows DAW, Launches After Years in Secret Development",
+      "summary": "Septabee, a free DAW for Linux and Windows built over roughly 20,000 hours, launched in early access with an unconventional interface.",
+      "url": "https://cdm.link/septabee-is-here/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-03T09:16:33Z",
+      "category": "music-tech",
+      "tags": [
+        "DAW",
+        "open source"
+      ]
+    },
+    {
       "id": "cgc-andras-ketzer-releases-fluidninja-live-2-for-unreal-engine",
       "title": "Andras Ketzer Releases FluidNinja Live 2 for Unreal Engine",
       "summary": "Andras Ketzer released FluidNinja Live 2 for Unreal Engine, improving performance and adding new simulation control options for the VFX tool.",
@@ -428,6 +623,19 @@
       "tags": [
         "release",
         "Unreal Engine"
+      ]
+    },
+    {
+      "id": "baa-hope-making-of-trailer-vikander-fassbender-mocap",
+      "title": "'HOPE' Making-Of Trailer Shows Vikander and Fassbender Mocap Sessions",
+      "summary": "A new behind-the-scenes trailer for 'HOPE' details motion-capture sessions with stars Alicia Vikander and Michael Fassbender.",
+      "url": "https://beforesandafters.com/2026/09/03/hope-making-of-trailer-includes-alicia-vikander-and-michael-fassbender-mocap-sessions/",
+      "source": "befores & afters",
+      "published_at": "2026-09-03T04:54:13Z",
+      "category": "notable-work",
+      "tags": [
+        "motion capture",
+        "HOPE"
       ]
     },
     {
@@ -559,6 +767,19 @@
       ]
     },
     {
+      "id": "cdm-olivia-artz-patience-eurorack-module-kickstarter",
+      "title": "Olivia Artz Launches 'Patience' Eurorack Module on Kickstarter",
+      "summary": "Olivia Artz launched Patience, a low-frequency Eurorack oscillator spanning seconds to decades, as a new Kickstarter campaign.",
+      "url": "https://cdm.link/patience/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-01T21:52:15Z",
+      "category": "music-tech",
+      "tags": [
+        "Eurorack",
+        "Kickstarter"
+      ]
+    },
+    {
       "id": "cgc-adobe-releases-photoshop-27-10",
       "title": "Adobe Releases Photoshop 27.10",
       "summary": "Adobe released Photoshop 27.10 with prompt-based image editing and a new AI Assisted Editor for generative retouching.",
@@ -637,31 +858,6 @@
       ]
     },
     {
-      "id": "mt-a-free-version-of-reason-rack-has-launched",
-      "title": "Reason Rack Gets Free Version With 15 Instruments and Effects",
-      "summary": "Propellerhead-descended Reason Rack launched a free plugin edition bundling 15 instruments and effects, usable inside any compatible DAW.",
-      "url": "https://musictech.com/news/gear/reason-free/",
-      "source": "MusicTech",
-      "published_at": "2026-08-28T14:38:26Z",
-      "category": "music-tech",
-      "tags": [
-        "plugin",
-        "free tool"
-      ]
-    },
-    {
-      "id": "mt-soundcloud-is-finally-letting-artists-sell-mu",
-      "title": "SoundCloud Is Finally Letting Artists Sell Music Directly to Fans",
-      "summary": "SoundCloud launched direct-to-fan music sales for artists with zero commission taken on transactions.",
-      "url": "https://musictech.com/news/gear/soundcloud-launch-direct-music-sales/",
-      "source": "MusicTech",
-      "published_at": "2026-08-28T09:01:15Z",
-      "category": "music-tech",
-      "tags": [
-        "platform feature"
-      ]
-    },
-    {
       "id": "baa-ves-awards-new-category-outstanding-in-camera-effects",
       "title": "New VES Awards Category: 'Outstanding In-Camera Effects'",
       "summary": "The Visual Effects Society added a new VES Awards category, 'Outstanding In-Camera Effects in a Photoreal Project,' among other updates.",
@@ -685,19 +881,6 @@
       "tags": [
         "breakdown",
         "Star Wars"
-      ]
-    },
-    {
-      "id": "baa-vfx-breakdown-star-city-by-dneg",
-      "title": "VFX Breakdown: 'Star City' by DNEG",
-      "summary": "DNEG published a behind-the-scenes VFX breakdown for its work on 'Star City.'",
-      "url": "https://beforesandafters.com/2026/08/25/vfx-breakdown-star-city-by-dneg/",
-      "source": "befores & afters",
-      "published_at": "2026-08-24T22:30:44Z",
-      "category": "notable-work",
-      "tags": [
-        "breakdown",
-        "DNEG"
       ]
     },
     {
@@ -828,19 +1011,6 @@
       "tags": [
         "breakdown",
         "DNEG"
-      ]
-    },
-    {
-      "id": "yt-vfx-artists-react-episode-237",
-      "title": "VFX Artists React Series Reaches Episode 237",
-      "summary": "The long-running 'VFX Artists React' series critiquing good and bad CGI in film and TV reached its 237th episode.",
-      "url": "https://www.youtube.com/watch?v=_-Scrww-DjU",
-      "source": "YouTube · VFX",
-      "published_at": "2026-08-08T16:00:00Z",
-      "category": "social-youtube",
-      "tags": [
-        "CGI critique",
-        "series"
       ]
     }
   ]
