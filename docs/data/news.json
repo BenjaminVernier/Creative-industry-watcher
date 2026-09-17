@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:07:42Z",
+  "generated_at": "2026-09-17T05:10:39Z",
   "items": [
     {
       "id": "bb-ifpi-streaming-fraud-initiative",
@@ -108,19 +108,6 @@
       ]
     },
     {
-      "id": "mbw-matt-serletic-frost-school-dean",
-      "title": "Matt Serletic Named Dean of University of Miami's Frost School",
-      "summary": "Producer and former Virgin Records and Amazon Music executive Matt Serletic was named Dean of the University of Miami's Frost School of Music.",
-      "url": "https://www.musicbusinessworldwide.com/matt-serletic-grammy-winning-producer-ex-virgin-records-amazon-music-exec-named-dean-of-the-university-of-miamis-frost-school-of-music/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-09-14T18:34:01Z",
-      "category": "labels-industry",
-      "tags": [
-        "exec-move",
-        "education"
-      ]
-    },
-    {
       "id": "mbw-spotify-mia-nygren-vp",
       "title": "Spotify Promotes Mia Nygren to VP for Europe and Latin America",
       "summary": "Spotify promoted Mia Nygren to Vice President and General Manager for its Europe and Latin America regional business.",
@@ -196,19 +183,6 @@
       "tags": [
         "audima-labs",
         "hardware"
-      ]
-    },
-    {
-      "id": "mt-serato-dj-5-public-beta-features",
-      "title": "Serato DJ 5.0 Public Beta Arrives",
-      "summary": "Serato opened a public beta for Serato DJ 5.0, introducing a set of key new features and workflow upgrades for DJs.",
-      "url": "https://musictech.com/news/gear/public-beta-serato-dj-5-0-new-features/",
-      "source": "MusicTech",
-      "published_at": "2026-09-11T10:40:05Z",
-      "category": "music-tech",
-      "tags": [
-        "serato",
-        "dj-software"
       ]
     },
     {
@@ -369,32 +343,6 @@
       ]
     },
     {
-      "id": "fx-on-premises-open-weight-models-generative-media",
-      "title": "The Rise of On-Premises Open-Weight Models in Media",
-      "summary": "fxguide examined the growing role of on-premises, open-weight AI models in generative media production for studios.",
-      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
-      "source": "fxguide",
-      "published_at": "2026-08-28T15:43:50Z",
-      "category": "vfx-tech",
-      "tags": [
-        "ai",
-        "open-weight-models"
-      ]
-    },
-    {
-      "id": "fx-autodesk-flow-studio-3d-editor-canvas",
-      "title": "Autodesk Flow Studio Gets New 3D Editor and Canvas",
-      "summary": "Nikola Todorovic discussed Autodesk Flow Studio's new 3D Editor and Canvas tools, expanding the platform's creative capabilities.",
-      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
-      "source": "fxguide",
-      "published_at": "2026-08-24T15:31:01Z",
-      "category": "vfx-tech",
-      "tags": [
-        "autodesk",
-        "flow-studio"
-      ]
-    },
-    {
       "id": "cg-zerply-vfx-portfolio-site-closing",
       "title": "VFX Recruitment Site Zerply Is Closing",
       "summary": "VFX portfolio and recruitment site Zerply announced it is shutting down later this month, ending its industry hiring service.",
@@ -405,19 +353,6 @@
       "tags": [
         "zerply",
         "shutdown"
-      ]
-    },
-    {
-      "id": "cg-supersplat-editor-3-performance-update",
-      "title": "SuperSplat Editor 3.0 Brings Major Performance Update",
-      "summary": "PlayCanvas released SuperSplat Editor 3.0, bringing a major performance update to its Gaussian-splat editing tool for artists.",
-      "url": "https://www.cgchannel.com/2026/09/playcanvas-releases-supersplat-editor-3-0/",
-      "source": "CG Channel",
-      "published_at": "2026-09-11T06:00:39Z",
-      "category": "vfx-tech",
-      "tags": [
-        "supersplat",
-        "gaussian-splatting"
       ]
     },
     {
@@ -461,19 +396,6 @@
       ]
     },
     {
-      "id": "cgc-fusion-studio-21-1",
-      "title": "Blackmagic Design Releases Fusion Studio 21.1",
-      "summary": "Blackmagic Design released Fusion Studio 21.1, its latest update to the node-based VFX and compositing software.",
-      "url": "https://www.cgchannel.com/2026/09/blackmagic-design-releases-fusion-studio-21/",
-      "source": "CG Channel",
-      "published_at": "2026-09-09T06:00:59Z",
-      "category": "vfx-tech",
-      "tags": [
-        "blackmagic",
-        "fusion-studio"
-      ]
-    },
-    {
       "id": "cg-blackmagic-davinci-resolve-21-1-release",
       "title": "Blackmagic Design Releases DaVinci Resolve 21.1",
       "summary": "Blackmagic Design released DaVinci Resolve 21.1, adding new AI Assistant controls and expanded Fusion 3D editing tools.",
@@ -514,19 +436,6 @@
       ]
     },
     {
-      "id": "awn-ves-women-who-lead-summit-wraps",
-      "title": "VES Wraps First Women Who Lead Summit",
-      "summary": "The Visual Effects Society wrapped its first Women Who Lead Summit, an event focused on leadership development in the VFX industry.",
-      "url": "https://www.awn.com/news/visual-effects-society-wraps-first-women-who-lead-summit",
-      "source": "Animation World Network",
-      "published_at": "2026-09-11T21:11:01Z",
-      "category": "studios-companies",
-      "tags": [
-        "ves",
-        "industry-event"
-      ]
-    },
-    {
       "id": "awn-pitch-black-revize-ml-rollout",
       "title": "Pitch Black Rolls Out REVIZE ML Across Global Studios",
       "summary": "VFX studio Pitch Black rolled out its REVIZE machine-learning tool across all of its global studio locations.",
@@ -563,45 +472,6 @@
       "tags": [
         "crunchyroll",
         "anime"
-      ]
-    },
-    {
-      "id": "awn-xilam-mipcom-presales",
-      "title": "Xilam Inks Presales Ahead of MIPCOM",
-      "summary": "Animation studio Xilam inked presales for 'Oggy,' 'Zig & Sharko' and 'Chickies' ahead of the MIPCOM market.",
-      "url": "https://www.awn.com/news/xilam-inks-presales-oggy-zig-sharko-and-chickies-ahead-mipcom",
-      "source": "Animation World Network",
-      "published_at": "2026-09-14T17:35:52Z",
-      "category": "business-funding",
-      "tags": [
-        "xilam",
-        "mipcom"
-      ]
-    },
-    {
-      "id": "awn-winsing-mortal-world-gg-bond-mipcom",
-      "title": "Winsing Brings New Titles to MIPCOM 2026",
-      "summary": "Winsing brought 'Into the Mortal World' and new 'GG Bond' titles to MIPCOM 2026 for international distribution deals.",
-      "url": "https://www.awn.com/news/winsing-takes-mortal-world-new-gg-bond-titles-mipcom-2026",
-      "source": "Animation World Network",
-      "published_at": "2026-09-11T18:47:52Z",
-      "category": "business-funding",
-      "tags": [
-        "winsing",
-        "mipcom"
-      ]
-    },
-    {
-      "id": "var-bottom-line-cast",
-      "title": "Cast Joins Jon Blahed's Romantic Comedy 'The Bottom Line'",
-      "summary": "Alma Pöysti, William Spetz and Pekka Strang joined the cast of Jon Blahed's romantic comedy 'The Bottom Line'.",
-      "url": "https://variety.com/2026/film/global/jon-blahed-the-bottom-line-finnish-film-affair-1236861611/",
-      "source": "Variety",
-      "published_at": "2026-09-15T09:17:24Z",
-      "category": "productions",
-      "tags": [
-        "casting",
-        "romantic-comedy"
       ]
     },
     {
@@ -927,6 +797,317 @@
       "tags": [
         "marvel",
         "shang-chi"
+      ]
+    },
+    {
+      "id": "mbw-umg-sues-distrokid-ai-slop",
+      "title": "Universal Music Group Sues DistroKid Over 'AI-Generated Slop'",
+      "summary": "UMG sued distributor DistroKid, alleging unlawful practices and that it enabled AI-generated tracks to flood streaming platforms at scale.",
+      "url": "https://www.musicbusinessworldwide.com/universal-music-group-sues-distrokid-ai-generated-slop/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-09-15T15:50:56Z",
+      "category": "ai-creative",
+      "tags": [
+        "umg",
+        "distrokid",
+        "ai-music"
+      ]
+    },
+    {
+      "id": "mbw-elevenlabs-umg-11b-explainer",
+      "title": "5 Things to Know About ElevenLabs, UMG's AI Partner Valued at $11B",
+      "summary": "ElevenLabs, now valued at $11 billion, struck a licensing deal with UMG to build a fan platform for AI remixes and mashups.",
+      "url": "https://www.musicbusinessworldwide.com/5-things-you-need-to-know-about-elevenlabs-the-umg-ai-partner-with-an-11b-valuation-and-big-ambitions-in-music/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-09-15T10:19:44Z",
+      "category": "ai-creative",
+      "tags": [
+        "elevenlabs",
+        "umg",
+        "valuation"
+      ]
+    },
+    {
+      "id": "mbw-spotify-exec-vinyl-bar-preseed",
+      "title": "Spotify's Former Head of Innovation Raises $5.5M Pre-Seed for Music Startup",
+      "summary": "Spotify's former Head of Innovation raised $5.5 million pre-seed funding for a startup letting users take apart and remix recordings.",
+      "url": "https://www.musicbusinessworldwide.com/spotifys-former-head-of-innovation-raises-5-5m-pre-seed-for-music-app-startup-a-vinyl-bar-in-shibuya-dawn-ostroff-among-the-backers/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-09-15T11:31:17Z",
+      "category": "business-funding",
+      "tags": [
+        "spotify",
+        "funding",
+        "startup"
+      ]
+    },
+    {
+      "id": "awn-paramount-netflix-end-skydance-deal",
+      "title": "Paramount and Netflix End Skydance Animation Film Deal",
+      "summary": "Paramount and Netflix are ending their Skydance Animation film deal, though titles already in the pipeline will stream as planned.",
+      "url": "https://www.awn.com/news/paramount-and-netflix-end-skydance-animation-film-deal",
+      "source": "Animation World Network",
+      "published_at": "2026-09-15T18:55:00Z",
+      "category": "business-funding",
+      "tags": [
+        "paramount",
+        "netflix",
+        "skydance-animation"
+      ]
+    },
+    {
+      "id": "dl-disney-kakao-kpop-deal",
+      "title": "Disney Seeks Next K-Pop Hit After Ten-Project Deal With Kakao",
+      "summary": "Disney Korea struck a ten-project deal with Kakao Entertainment as it looks to develop its next major K-pop franchise.",
+      "url": "https://deadline.com/2026/09/disney-kpop-deal-kakao-korea-kpop-demon-hunters-1237104978/",
+      "source": "Deadline",
+      "published_at": "2026-09-16T08:09:14Z",
+      "category": "business-funding",
+      "tags": [
+        "disney",
+        "kakao",
+        "k-pop"
+      ]
+    },
+    {
+      "id": "dl-paramount-wbd-antitrust-settlement-talks",
+      "title": "Judge Sets Date for Settlement Talks in Paramount-WBD Antitrust Case",
+      "summary": "A judge ordered Paramount and state attorneys general to hold settlement talks over its contested merger with Warner Bros. Discovery.",
+      "url": "https://deadline.com/2026/09/paramount-attorneys-general-settlement-talks-in-october-1237104639/",
+      "source": "Deadline",
+      "published_at": "2026-09-16T00:02:29Z",
+      "category": "business-funding",
+      "tags": [
+        "paramount",
+        "warner-bros-discovery",
+        "antitrust"
+      ]
+    },
+    {
+      "id": "iw-about-a-hero-ai-herzog",
+      "title": "'About a Hero,' AI-Generated Docu-Mystery With Synthetic Werner Herzog, Debuts Trailer",
+      "summary": "An AI-generated documentary uses a synthetic Werner Herzog, trained on his work with permission, as narrator for post-screening Q&As.",
+      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/",
+      "source": "IndieWire",
+      "published_at": "2026-09-15T20:00:00Z",
+      "category": "ai-creative",
+      "tags": [
+        "ai-film",
+        "werner-herzog",
+        "documentary"
+      ]
+    },
+    {
+      "id": "iw-justwatch-launches-streaming-service",
+      "title": "JustWatch Launches Its Own Streaming Service",
+      "summary": "Streaming guide JustWatch is launching its own service next month, with content partnerships including Paramount, New Regency and Fremantle.",
+      "url": "https://www.indiewire.com/news/general-news/justwatch-launches-streaming-service-1235216279/",
+      "source": "IndieWire",
+      "published_at": "2026-09-15T16:00:00Z",
+      "category": "streaming",
+      "tags": [
+        "justwatch",
+        "streaming-launch"
+      ]
+    },
+    {
+      "id": "awn-netflix-blizzard-diablo-series",
+      "title": "Netflix and Blizzard Developing Animated 'Diablo' Series",
+      "summary": "Netflix and Blizzard are developing an animated series based on the dark-fantasy Diablo franchise, revealed at BlizzCon 2026.",
+      "url": "https://www.awn.com/news/netflix-and-blizzard-developing-animated-diablo-series",
+      "source": "Animation World Network",
+      "published_at": "2026-09-15T20:14:40Z",
+      "category": "productions",
+      "tags": [
+        "netflix",
+        "blizzard",
+        "diablo"
+      ]
+    },
+    {
+      "id": "awn-netflix-sega-sonic-series",
+      "title": "Netflix and SEGA Begin Development on 'Sonic' Animated Series for Kids",
+      "summary": "Netflix and SEGA are developing a comedic, emotionally grounded animated Sonic series aimed at preschool-age viewers.",
+      "url": "https://www.awn.com/news/netflix-and-sega-begin-development-sonic-animated-series-kids",
+      "source": "Animation World Network",
+      "published_at": "2026-09-15T20:53:46Z",
+      "category": "productions",
+      "tags": [
+        "netflix",
+        "sega",
+        "sonic"
+      ]
+    },
+    {
+      "id": "baa-electric-state-ilm-third-act-battle",
+      "title": "ILM Breaks Down the Third-Act Robot Battle in 'The Electric State'",
+      "summary": "ILM's VFX and animation supervisors break down how they built the third-act robot battle sequence in The Electric State.",
+      "url": "https://beforesandafters.com/2026/09/10/building-up-a-battle/",
+      "source": "befores & afters",
+      "published_at": "2026-09-09T22:13:54Z",
+      "category": "notable-work",
+      "tags": [
+        "ilm",
+        "the-electric-state",
+        "breakdown"
+      ]
+    },
+    {
+      "id": "baa-pitch-black-revize-next",
+      "title": "Pitch Black's Troy Tobin on Where REVIZE Is Headed Next",
+      "summary": "Pitch Black's Troy Tobin discussed where the studio's REVIZE machine-learning technology is expanding next across its production pipeline.",
+      "url": "https://beforesandafters.com/2026/09/08/pitch-blacks-troy-tobin-on-where-rising-suns-revize-is-now-headed/",
+      "source": "befores & afters",
+      "published_at": "2026-09-07T22:27:57Z",
+      "category": "vfx-tech",
+      "tags": [
+        "revize",
+        "machine-learning",
+        "pitch-black"
+      ]
+    },
+    {
+      "id": "mt-autotune-fl-studio-free",
+      "title": "AutoTune Is Now Available in FL Studio, Even to Free Users",
+      "summary": "Image-Line partnered with Antares to bring AutoTune to FL Studio as a dedicated plugin, available even to free-tier users.",
+      "url": "https://musictech.com/news/gear/autotune-is-now-available-in-fl-studio-even-to-free-users/",
+      "source": "MusicTech",
+      "published_at": "2026-09-15T16:27:23Z",
+      "category": "music-tech",
+      "tags": [
+        "autotune",
+        "fl-studio",
+        "plugin"
+      ]
+    },
+    {
+      "id": "awn-shoot-ceases-publishing",
+      "title": "SHOOT Ceases Publishing After 66 Years",
+      "summary": "Commercial production and post trade outlet SHOOT is closing after 66 years, its publisher calling the shutdown a difficult decision.",
+      "url": "https://www.awn.com/news/shoot-ceases-publishing-after-66-years",
+      "source": "Animation World Network",
+      "published_at": "2026-09-15T22:35:09Z",
+      "category": "studios-companies",
+      "tags": [
+        "shoot",
+        "trade-press",
+        "closure"
+      ]
+    },
+    {
+      "id": "mst-artofvfx-last-house-ilm-creatures",
+      "title": "ILM VFX Team Breaks Down 'The Last House' Creature Work",
+      "summary": "VFX supervisor Jan Maroske discusses ILM's creature and water effects work for The Last House, with Untold Studios and RedVFX contributing.",
+      "url": "https://mastodon.social/@artofvfx/117275653098013810",
+      "source": "@artofvfx · Mastodon",
+      "published_at": "2026-09-15T15:00:52Z",
+      "category": "social-vfx",
+      "tags": [
+        "ilm",
+        "the-last-house",
+        "breakdown"
+      ]
+    },
+    {
+      "id": "mst-matrixsynth-robin-control-lite",
+      "title": "Free Round-Robin VST Sampler 'Robin Control Lite' Released",
+      "summary": "A new free round-robin VST sampler called Robin Control Lite was released for producers seeking varied, natural-sounding sample playback.",
+      "url": "https://www.matrixsynth.com/2026/09/free-round-robin-vst-sampler-robin.html",
+      "source": "MatrixSynth · Mastodon",
+      "published_at": "2026-09-16T04:13:13Z",
+      "category": "social-music",
+      "tags": [
+        "free-plugin",
+        "sampler"
+      ]
+    },
+    {
+      "id": "mst-legalvst-digitron-mobile-synth",
+      "title": "Digitron Mobile Modular Synth App Launches for iOS and Android",
+      "summary": "SillyDevices launched Digitron, a mobile virtual-analog synth with a modular patch bay and sequencer, offering free and $5 pro tiers.",
+      "url": "https://mastodon.social/@legalvst/117277332280533134",
+      "source": "@legalvst · Mastodon",
+      "published_at": "2026-09-15T22:07:55Z",
+      "category": "social-music",
+      "tags": [
+        "mobile-app",
+        "modular-synth"
+      ]
+    },
+    {
+      "id": "mst-justpaste-janine-berdin-artistry",
+      "title": "How Janine Berdin Learned to Trust in Her Own Artistry",
+      "summary": "A profile on breakout Bisaya artist Janine Berdin explores how her voice, lyrics and songwriting craft are gaining wider recognition.",
+      "url": "https://mastodon.social/@justpaste/117277024681834205",
+      "source": "@justpaste · Mastodon",
+      "published_at": "2026-09-15T20:49:41Z",
+      "category": "social-music",
+      "tags": [
+        "janine-berdin",
+        "emerging-artist"
+      ]
+    },
+    {
+      "id": "mst-radarscreen-second-short-film",
+      "title": "Indie Production Company Announces Second Short Film",
+      "summary": "Production company Radarscreen is producing its second short film, a drama-thriller directed by Stuart Mackenzie, alongside emerging talent.",
+      "url": "https://mastodon.social/@radarscreen/117274476616681312",
+      "source": "@radarscreen · Mastodon",
+      "published_at": "2026-09-15T10:01:41Z",
+      "category": "social-people",
+      "tags": [
+        "indie-production",
+        "short-film"
+      ]
+    },
+    {
+      "id": "gt-taylor-swift-travis-kelce",
+      "title": "Trending Search: Taylor Swift & Travis Kelce",
+      "summary": "\"Taylor Swift Travis Kelce\" is trending on Google Search in the US, reflecting continued public interest in the pop star.",
+      "url": "https://trends.google.com/trends/explore?q=taylor%20swift%20travis%20kelce&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-09-16T09:10:00Z",
+      "category": "social-trends",
+      "tags": [
+        "taylor-swift"
+      ]
+    },
+    {
+      "id": "gt-reacher-trending",
+      "title": "Trending Search: Reacher",
+      "summary": "Amazon's \"Reacher\" is trending on Google Search in the US, coinciding with the release of its spinoff series Neagley.",
+      "url": "https://trends.google.com/trends/explore?q=reacher&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-09-16T08:50:00Z",
+      "category": "social-trends",
+      "tags": [
+        "reacher"
+      ]
+    },
+    {
+      "id": "yt-kalax-stay-with-me-demo",
+      "title": "Emerging Artist Kalax Shares 'Stay With Me' Demo",
+      "summary": "Emerging artist Kalax shared a demo of a new song, \"Stay With Me,\" which has gathered over 300,000 views on YouTube.",
+      "url": "https://www.youtube.com/watch?v=zyQWTntnHc4",
+      "source": "YouTube · Music",
+      "published_at": "2026-08-29T20:15:48Z",
+      "category": "social-youtube",
+      "tags": [
+        "emerging-artist",
+        "demo"
+      ]
+    },
+    {
+      "id": "yt-djgabi-dance-techno-track",
+      "title": "Independent Producer Shares New Techno Track 'DANCE'",
+      "summary": "An independent producer's new techno track \"DANCE\" has drawn nearly 600,000 views, showing grassroots interest in the genre.",
+      "url": "https://www.youtube.com/watch?v=jkVSc9SQfOw",
+      "source": "YouTube · Music",
+      "published_at": "2026-08-26T19:44:21Z",
+      "category": "social-youtube",
+      "tags": [
+        "techno",
+        "independent-artist"
       ]
     }
   ]
