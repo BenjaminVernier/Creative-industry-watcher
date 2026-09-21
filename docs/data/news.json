@@ -1,17 +1,355 @@
 {
-  "generated_at": "2026-09-20T05:11:43Z",
+  "generated_at": "2026-09-21T05:17:40Z",
   "items": [
     {
-      "id": "pf-duncan-sheik-dies-56",
-      "title": "Duncan Sheik Dies at 56",
-      "summary": "Musician and Tony-winning Spring Awakening composer Duncan Sheik, known for the hit single 'Barely Breathing,' has died at 56.",
-      "url": "https://pitchfork.com/story/duncan-sheik-dies-at-56/",
-      "source": "Pitchfork",
-      "published_at": "2026-09-18T14:40:14Z",
-      "category": "trends-culture",
+      "id": "mst-wowhow-suno-v6-retirement",
+      "title": "Suno Retires All Older Models With v6 Launch",
+      "summary": "Suno's new v6, v6-wild and v6-mini models replaced every earlier version with no rollback, alongside new download caps for users.",
+      "url": "https://mastodon.social/@wowhow_blogs/117302545893937359",
+      "source": "@wowhow_blogs · Mastodon",
+      "published_at": "2026-09-20T09:00:04Z",
+      "category": "social-music",
       "tags": [
-        "obituary",
-        "broadway"
+        "AI music",
+        "Suno"
+      ]
+    },
+    {
+      "id": "variety-sett-spain-sovereign-vc-fund",
+      "title": "Spain's SETT Sovereign VC Fund to Headline San Sebastián",
+      "summary": "Spain's government-backed SETT venture fund, aimed at boosting audiovisual companies, becomes a central industry talking point at San Sebastián.",
+      "url": "https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/",
+      "source": "Variety",
+      "published_at": "2026-09-20T05:43:25Z",
+      "category": "business-funding",
+      "tags": [
+        "funding",
+        "Spain"
+      ]
+    },
+    {
+      "id": "mst-socalabs-free-math-synth",
+      "title": "Free Math-Formula Synth 'Identity' Released",
+      "summary": "SocaLabs shares a free math-formula-based virtual synthesizer plugin called Identity for producers to experiment with.",
+      "url": "https://loops.video/v/ie8bLD9fir",
+      "source": "Mastodon #musicproduction",
+      "published_at": "2026-09-20T05:33:49Z",
+      "category": "social-music",
+      "tags": [
+        "free plugin",
+        "synth"
+      ]
+    },
+    {
+      "id": "deadline-ride-or-die-canceled-prime-video",
+      "title": "'Ride Or Die' Canceled by Prime Video",
+      "summary": "Prime Video canceled buddy-spy comedy Ride Or Die after one season; producer Paramount Television Studios is now shopping it elsewhere.",
+      "url": "https://deadline.com/2026/09/ride-or-die-canceled-prime-video-shopped-1237108506/",
+      "source": "Deadline",
+      "published_at": "2026-09-19T23:02:06Z",
+      "category": "streaming",
+      "tags": [
+        "cancellation",
+        "Prime Video"
+      ]
+    },
+    {
+      "id": "mst-gregc-ai-tools-discussion",
+      "title": "A Musician Reflects on Using AI in Creative Tools",
+      "summary": "A musician shares a candid take on using AI while building a software theme, comparing it to past creative-tech shifts.",
+      "url": "https://mastodonapp.uk/@gregc/117299702571861703",
+      "source": "@gregc · Mastodon",
+      "published_at": "2026-09-19T20:56:58Z",
+      "category": "social-music",
+      "tags": [
+        "AI",
+        "discussion"
+      ]
+    },
+    {
+      "id": "mst-3crinyaface-beth-uhe-magnitude",
+      "title": "BB Sabina's Beth Uhe on Recording 'Magnitude'",
+      "summary": "Musician Beth Uhe of BB Sabina reflects on the experience of recording their song Magnitude for community radio.",
+      "url": "https://mastodon.social/@3cr_inyaface/117299489802449055",
+      "source": "@3cr_inyaface · Mastodon",
+      "published_at": "2026-09-19T20:02:52Z",
+      "category": "social-music",
+      "tags": [
+        "emerging artist",
+        "interview"
+      ]
+    },
+    {
+      "id": "thr-tilly-norwood-glitch-piers-morgan",
+      "title": "AI Actor Tilly Norwood Malfunctions on Piers Morgan Show",
+      "summary": "AI-generated actor Tilly Norwood glitched live on Piers Morgan's program, abruptly switching languages mid-interview in a widely circulated clip.",
+      "url": "https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/",
+      "source": "The Hollywood Reporter",
+      "published_at": "2026-09-19T20:00:07Z",
+      "category": "ai-creative",
+      "tags": [
+        "AI actors",
+        "synthetic media"
+      ]
+    },
+    {
+      "id": "mst-lebottin-astrofox-tool-release",
+      "title": "Astrofox, a Libre Audio-Reactive Motion Graphics Tool, Hits 2.0",
+      "summary": "Astrofox, an open-source tool for animating motion graphics to a soundtrack, ships a major 2.0 stable release.",
+      "url": "https://floss.social/@Le_bottin_des_jeux_linux/117299317517936928",
+      "source": "@Le_bottin_des_jeux_linux · Mastodon",
+      "published_at": "2026-09-19T19:19:03Z",
+      "category": "social-vfx",
+      "tags": [
+        "open source",
+        "motion graphics"
+      ]
+    },
+    {
+      "id": "mst-orphan-scifi-short-premiere",
+      "title": "Microbudget Sci-Fi Short 'Orphan' Premieres This Week",
+      "summary": "Independent filmmakers announce the premiere of Orphan, a microbudget sci-fi short and music video, set for September 22.",
+      "url": "https://loops.video/v/idvxXs26e-",
+      "source": "Mastodon #filmmaking",
+      "published_at": "2026-09-19T17:43:21Z",
+      "category": "social-people",
+      "tags": [
+        "indie film",
+        "emerging creators"
+      ]
+    },
+    {
+      "id": "thr-newsom-ca-tax-credit-bill",
+      "title": "Newsom Signs Fix to California's $750M Film Tax Credit",
+      "summary": "California Governor Newsom signed a bill exempting independent productions from caps on the state's $750 million film tax credit.",
+      "url": "https://www.hollywoodreporter.com/business/business-news/gov-gavin-newsom-bill-hollywood-tax-credit-catch-1236705453/",
+      "source": "The Hollywood Reporter",
+      "published_at": "2026-09-19T17:34:54Z",
+      "category": "business-funding",
+      "tags": [
+        "tax credit",
+        "California",
+        "policy"
+      ]
+    },
+    {
+      "id": "variety-lego-ninjago-legends-duskfall",
+      "title": "Lego’s ‘Ninjago Legends: Duskfall’ Anime-Style Shorts Premiere in Korea Ahead of YouTube Release",
+      "summary": "Lego's anime-style 'Ninjago Legends: Duskfall' shorts premiered in Korea ahead of a worldwide release on Lego's YouTube channel.",
+      "url": "https://variety.com/2026/tv/global/legos-ninjago-legends-duskfall-premiere-youtube-1236866920/",
+      "source": "Variety",
+      "published_at": "2026-09-19T07:01:00Z",
+      "category": "productions",
+      "tags": [
+        "animation",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "gt-fr-shakira-trending",
+      "title": "Shakira trending in France amid Madrid residency",
+      "summary": "Shakira spiked in French search interest, coinciding with the kickoff of her 12-date residency tour in Madrid, Spain.",
+      "url": "https://trends.google.com/trends/explore?q=shakira&geo=FR",
+      "source": "Google Trends (FR)",
+      "published_at": "2026-09-19T06:40:00Z",
+      "category": "social-trends",
+      "tags": [
+        "trending",
+        "touring"
+      ]
+    },
+    {
+      "id": "deadline-gerrit-graham-dies-76",
+      "title": "Gerrit Graham Dead: ‘Star Trek’ & ‘Phantom of the Paradise’ Actor Was 76",
+      "summary": "Actor Gerrit Graham, known for roles in 'Phantom of the Paradise' and 'Star Trek,' has died at age 76.",
+      "url": "https://deadline.com/2026/09/gerrit-graham-dead-1237108310/",
+      "source": "Deadline",
+      "published_at": "2026-09-19T03:28:21Z",
+      "category": "productions",
+      "tags": [
+        "obituary"
+      ]
+    },
+    {
+      "id": "deadline-lollipop-chainsaw-live-action",
+      "title": "‘Lollipop Chainsaw’: Cult Japanese Video Game Getting The Live Action Feature Treatment",
+      "summary": "A live-action feature film adaptation of the cult Japanese video game 'Lollipop Chainsaw' is reportedly in the works.",
+      "url": "https://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/",
+      "source": "Deadline",
+      "published_at": "2026-09-19T01:30:00Z",
+      "category": "productions",
+      "tags": [
+        "adaptation",
+        "videogame"
+      ]
+    },
+    {
+      "id": "deadline-kohner-agency-layoffs",
+      "title": "Kohner Agency Lays Off Its Talent Agents Due To “Profound & Unprecedented Economic Pressures”",
+      "summary": "Talent agency Kohner Agency laid off its three talent agents, citing profound economic pressures, while keeping its department open for existing clients.",
+      "url": "https://deadline.com/2026/09/the-kohner-agency-layoffs-talent-agents-downsizing-1237108249/",
+      "source": "Deadline",
+      "published_at": "2026-09-19T01:13:33Z",
+      "category": "business-funding",
+      "tags": [
+        "layoffs",
+        "talent-agency"
+      ]
+    },
+    {
+      "id": "mst-jay-piersmorgan-tillynorwood-ai-actor",
+      "title": "Piers Morgan interviews AI actor Tilly Norwood",
+      "summary": "A widely shared clip showed Piers Morgan interviewing Tilly Norwood, the controversial AI-generated 'actor,' reigniting debate over synthetic performers.",
+      "url": "https://mastodon.gamedev.place/@jay/117294984396087785",
+      "source": "@jay@mastodon.gamedev.place · Mastodon",
+      "published_at": "2026-09-19T00:57:04Z",
+      "category": "social-people",
+      "tags": [
+        "AI",
+        "actor"
+      ]
+    },
+    {
+      "id": "deadline-visionquest-no-genai-used",
+      "title": "‘VisionQuest’ Creator Terry Matalas Says No GenAI Was Used In Making Of Show: “There Hasn’t Really Been A Need”",
+      "summary": "'VisionQuest' creator Terry Matalas said the Marvel series used no generative AI in production, calling it unnecessary despite the show's AI-themed plot.",
+      "url": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
+      "source": "Deadline",
+      "published_at": "2026-09-19T00:40:52Z",
+      "category": "ai-creative",
+      "tags": [
+        "AI",
+        "production"
+      ]
+    },
+    {
+      "id": "baa-laika-ilm-stopmo-conversation",
+      "title": "A great conversation about VFX in stop-mo with LAIKA’s Steve Emerson and ILM veteran Jeff Mann",
+      "summary": "LAIKA's Steve Emerson and ILM veteran Jeff Mann discussed stop-motion visual effects techniques in a new conversation featuring a live demo.",
+      "url": "https://beforesandafters.com/2026/09/19/a-great-conversation-about-vfx-in-stop-mo-with-laikas-steve-emerson-and-ilm-veteran-jeff-mann/",
+      "source": "befores & afters",
+      "published_at": "2026-09-19T00:33:13Z",
+      "category": "notable-work",
+      "tags": [
+        "stop-motion",
+        "craft"
+      ]
+    },
+    {
+      "id": "baa-ilm-spinosaur-oak-street-featurette",
+      "title": "New ‘The End of Oak Street’ featurette highlights ILM’s Spinosaur",
+      "summary": "A new featurette for 'The End of Oak Street' spotlights ILM's CG Spinosaur creature work and the production's companion AR app.",
+      "url": "https://beforesandafters.com/2026/09/19/new-the-end-of-oak-street-featurette-highlights-ilms-spinosaur/",
+      "source": "befores & afters",
+      "published_at": "2026-09-19T00:14:04Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "creature"
+      ]
+    },
+    {
+      "id": "thr-sweet-magnolias-canceled-netflix",
+      "title": "‘Sweet Magnolias’ Canceled at Netflix After Five Seasons",
+      "summary": "Netflix canceled 'Sweet Magnolias' after five seasons, though its showrunner and star are developing a new series, 'Ladies of the House.'",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/sweet-magnolias-canceled-five-seasons-netflix-1236705797/",
+      "source": "The Hollywood Reporter",
+      "published_at": "2026-09-18T23:05:04Z",
+      "category": "streaming",
+      "tags": [
+        "cancellation",
+        "netflix"
+      ]
+    },
+    {
+      "id": "variety-paramount-ca-ag-settlement-talks",
+      "title": "Paramount and California AG Bonta Reportedly in ‘Advanced Talks’ to Settle Antitrust Suit",
+      "summary": "Paramount Skydance and California Attorney General Rob Bonta are reportedly in advanced talks to settle a 12-state antitrust lawsuit.",
+      "url": "https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/",
+      "source": "Variety",
+      "published_at": "2026-09-18T22:43:27Z",
+      "category": "business-funding",
+      "tags": [
+        "antitrust",
+        "legal"
+      ]
+    },
+    {
+      "id": "deadline-resident-evil-box-office-previews",
+      "title": "‘Resident Evil’ Scaring Up $50M+ U.S. Franchise Record Opening – Update",
+      "summary": "Zach Cregger's 'Resident Evil' opened to over $50 million domestically, the biggest opening in the 24-year-old film franchise's history.",
+      "url": "https://deadline.com/2026/09/box-office-resident-evil-1237107316/",
+      "source": "Deadline",
+      "published_at": "2026-09-18T22:33:00Z",
+      "category": "productions",
+      "tags": [
+        "boxoffice",
+        "horror"
+      ]
+    },
+    {
+      "id": "deadline-netflix-pride-prejudice-series",
+      "title": "Everything We Know About Netflix’s New ‘Pride & Prejudice’ Series So Far",
+      "summary": "Netflix is developing a new television adaptation of Jane Austen's 'Pride and Prejudice,' with details of the project still emerging.",
+      "url": "https://deadline.com/feature/netflix-pride-amp-prejudice-series-news-updates-1236968654/",
+      "source": "Deadline",
+      "published_at": "2026-09-18T22:20:27Z",
+      "category": "productions",
+      "tags": [
+        "adaptation",
+        "netflix"
+      ]
+    },
+    {
+      "id": "mst-overgrown-blender-feature-teaser",
+      "title": "Overgrown, an indie feature made entirely in Blender",
+      "summary": "A teaser trailer dropped for 'Overgrown,' an independent feature film being produced entirely using the open-source Blender software.",
+      "url": "https://lamp.leemoon.network/notes/arb0s5bc9owf00vo",
+      "source": "Mastodon #blender",
+      "published_at": "2026-09-18T21:13:25Z",
+      "category": "social-vfx",
+      "tags": [
+        "blender",
+        "indiefilm"
+      ]
+    },
+    {
+      "id": "awn-ilm-janet-lewin-view-award",
+      "title": "ILM's Janet Lewin to Receive 2026 VIEW Visionary Award",
+      "summary": "Industrial Light & Magic's Janet Lewin, VFX producer on five 'Star Wars' films, will receive the 2026 VIEW Visionary Award.",
+      "url": "https://www.awn.com/news/ilms-janet-lewin-receive-2026-view-visionary-award",
+      "source": "Animation World Network",
+      "published_at": "2026-09-18T18:55:10Z",
+      "category": "studios-companies",
+      "tags": [
+        "award",
+        "exec"
+      ]
+    },
+    {
+      "id": "mst-animalfactory-philtersoup-asura-synth",
+      "title": "New Asura wavetable synth unveiled",
+      "summary": "Animal Factory and Philtersoup unveiled Asura, a new polyphonic wavetable synthesizer with analog fuzz circuitry, built in India.",
+      "url": "https://www.matrixsynth.com/2026/09/animal-factory-x-philtersoup-asura.html",
+      "source": "Mastodon #synthesizer",
+      "published_at": "2026-09-18T18:31:09Z",
+      "category": "social-music",
+      "tags": [
+        "synth",
+        "launch"
+      ]
+    },
+    {
+      "id": "awn-wildbrain-nick-the-mechanic-rights",
+      "title": "WildBrain Picks Up Global Rights to Polydont Films' 'Nick the Mechanic'",
+      "summary": "WildBrain acquired global distribution rights to 'Nick the Mechanic,' a 26-episode CG-animated preschool series, ahead of MIPCOM and MIPJunior.",
+      "url": "https://www.awn.com/news/wildbrain-picks-global-rights-polydont-films-nick-mechanic",
+      "source": "Animation World Network",
+      "published_at": "2026-09-18T17:39:02Z",
+      "category": "studios-companies",
+      "tags": [
+        "distribution",
+        "deal"
       ]
     },
     {
@@ -38,6 +376,58 @@
       "tags": [
         "AI",
         "litigation"
+      ]
+    },
+    {
+      "id": "awn-adult-swim-smalls-debut",
+      "title": "Adult Swim SMALLS Debuts ‘Edgy Intellectual Animation for High IQ Individuals’",
+      "summary": "Adult Swim's SMALLS platform debuted 'Edgy Intellectual Animation for High IQ Individuals,' a 3-part vertical series for social media and YouTube.",
+      "url": "https://www.awn.com/news/adult-swim-smalls-debuts-edgy-intellectual-animation-high-iq-individuals",
+      "source": "Animation World Network",
+      "published_at": "2026-09-18T17:09:23Z",
+      "category": "productions",
+      "tags": [
+        "animation",
+        "newshow"
+      ]
+    },
+    {
+      "id": "cdm-wiltzie-johannsson-posthumous-album",
+      "title": "Adam Wiltzie on His Posthumous Album With Jóhann Jóhannsson",
+      "summary": "Adam Wiltzie describes building Friendship Survival Guide, a posthumous collaboration assembled from archived loops shared with the late Jóhann Jóhannsson.",
+      "url": "https://cdm.link/adam-wiltzie-johann-johannsson-friendship/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-18T16:00:23Z",
+      "category": "trends-culture",
+      "tags": [
+        "ambient",
+        "posthumous release"
+      ]
+    },
+    {
+      "id": "pf-duncan-sheik-dies-56",
+      "title": "Duncan Sheik Dies at 56",
+      "summary": "Musician and Tony-winning Spring Awakening composer Duncan Sheik, known for the hit single 'Barely Breathing,' has died at 56.",
+      "url": "https://pitchfork.com/story/duncan-sheik-dies-at-56/",
+      "source": "Pitchfork",
+      "published_at": "2026-09-18T14:40:14Z",
+      "category": "trends-culture",
+      "tags": [
+        "obituary",
+        "broadway"
+      ]
+    },
+    {
+      "id": "mst-scorsese-eva-green-film",
+      "title": "Scorsese to produce new Eva Green film",
+      "summary": "Martin Scorsese is set to produce a new film starring Eva Green, reported under the attention-grabbing working title 'Haunted Chair and Toilet.'",
+      "url": "https://gizmodo.com/martin-scorsese-to-produce-eva-greens-haunted-chair-and-toilet-movie-2000813701",
+      "source": "Mastodon #filmmaking",
+      "published_at": "2026-09-18T14:18:41Z",
+      "category": "social-people",
+      "tags": [
+        "producer",
+        "greenlight"
       ]
     },
     {
@@ -93,6 +483,84 @@
       ]
     },
     {
+      "id": "mst-bbc-ai-not-threat-shaun-sheep",
+      "title": "Shaun the Sheep creators: AI no threat",
+      "summary": "Aardman's Shaun the Sheep creators told the BBC that AI is not a threat to filmmaking, per a shared news report.",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5z7d37yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "Mastodon #filmmaking",
+      "published_at": "2026-09-18T11:51:22Z",
+      "category": "social-people",
+      "tags": [
+        "AI",
+        "animation"
+      ]
+    },
+    {
+      "id": "mt-fiio-ft15-headphones-launch",
+      "title": "With an 800 nanometer diamond-coated diaphragm, FiiO’s new FT15 headphones are for the serious audiophile",
+      "summary": "FiiO launched its FT15 planar over-ear headphones, featuring an 800-nanometer diamond-coated diaphragm aimed at serious audiophile listeners.",
+      "url": "https://musictech.com/news/gear/fiio-ft-15-headphones/",
+      "source": "MusicTech",
+      "published_at": "2026-09-18T08:56:45Z",
+      "category": "music-tech",
+      "tags": [
+        "hardware",
+        "launch"
+      ]
+    },
+    {
+      "id": "mst-eyeofmidas-threejs-lightning-strike",
+      "title": "A lightning strike VFX walkthrough built in Three.js",
+      "summary": "A developer shared a detailed walkthrough showing how a realistic lightning strike effect was built using Three.js for real-time graphics.",
+      "url": "https://mastodon.gamedev.place/@eyeofmidas/117289675750750930",
+      "source": "@eyeofmidas@mastodon.gamedev.place · Mastodon",
+      "published_at": "2026-09-18T02:27:01Z",
+      "category": "social-vfx",
+      "tags": [
+        "threejs",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "awn-aardman-shaun-sheep-mossy-bottom",
+      "title": "Aardman Unpacks the Hairy Details of 'Shaun the Sheep: The Beast of Mossy Bottom'",
+      "summary": "Aardman detailed the hairy stop-motion craft behind 'Shaun the Sheep: The Beast of Mossy Bottom,' its glued and wired Halloween feature.",
+      "url": "https://www.awn.com/animationworld/aardman-unpacks-hairy-details-shaun-sheep-beast-mossy-bottom",
+      "source": "Animation World Network",
+      "published_at": "2026-09-17T23:51:35Z",
+      "category": "notable-work",
+      "tags": [
+        "stop-motion",
+        "breakdown"
+      ]
+    },
+    {
+      "id": "baa-dneg-coyote-vs-acme-breakdown",
+      "title": "Watch this VFX breakdown by DNEG for ‘Coyote Vs. ACME’",
+      "summary": "DNEG released a new VFX breakdown reel for 'Coyote vs. Acme,' showcasing before-and-after shots plus animation and CG work.",
+      "url": "https://beforesandafters.com/2026/09/18/watch-this-vfx-breakdown-by-dneg-for-coyote-vs-acme/",
+      "source": "befores & afters",
+      "published_at": "2026-09-17T21:20:09Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "animation"
+      ]
+    },
+    {
+      "id": "awn-crunchyroll-stake-link-u",
+      "title": "Crunchyroll Takes 7% Stake in Crunchyroll Manga Builder Link-U",
+      "summary": "Sony-owned Crunchyroll acquired a 7% stake in manga platform Link-U for roughly 917 million yen, becoming its fifth-largest shareholder.",
+      "url": "https://www.awn.com/news/crunchyroll-takes-7-stake-crunchyroll-manga-builder-link-u",
+      "source": "Animation World Network",
+      "published_at": "2026-09-17T20:26:28Z",
+      "category": "business-funding",
+      "tags": [
+        "investment",
+        "anime"
+      ]
+    },
+    {
       "id": "mbw-atlantic-gta6-album",
       "title": "Atlantic Records to release Grand Theft Auto VI: The Album, featuring Travis Scott, PinkPantheress, Morgan Wallen, and Keith Richards",
       "summary": "Atlantic Records will release Grand Theft Auto VI: The Album, a 34-track LP featuring Travis Scott, PinkPantheress, Morgan Wallen and Keith Richards.",
@@ -116,32 +584,6 @@
       "tags": [
         "AI",
         "awards"
-      ]
-    },
-    {
-      "id": "mbw-apollo-invests-bmg-concord",
-      "title": "Apollo invests $1.25B in BMG subsidiary behind legacy Concord bonds, taking a minority stake",
-      "summary": "Apollo-managed funds acquired a $1.25 billion minority stake in a BMG subsidiary holding legacy Concord bonds, per the companies.",
-      "url": "https://www.musicbusinessworldwide.com/bmg-and-concord-apollo-bond-debt/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-09-17T15:06:13Z",
-      "category": "business-funding",
-      "tags": [
-        "funding",
-        "M&A"
-      ]
-    },
-    {
-      "id": "mt-fiio-ft15-headphones-launch",
-      "title": "With an 800 nanometer diamond-coated diaphragm, FiiO’s new FT15 headphones are for the serious audiophile",
-      "summary": "FiiO launched its FT15 planar over-ear headphones, featuring an 800-nanometer diamond-coated diaphragm aimed at serious audiophile listeners.",
-      "url": "https://musictech.com/news/gear/fiio-ft-15-headphones/",
-      "source": "MusicTech",
-      "published_at": "2026-09-18T08:56:45Z",
-      "category": "music-tech",
-      "tags": [
-        "hardware",
-        "launch"
       ]
     },
     {
@@ -171,120 +613,29 @@
       ]
     },
     {
-      "id": "cdm-motu-dp12-dolby-atmos",
-      "title": "MOTU DP12 arrives, adding Dolby Atmos and more to a DAW classic",
-      "summary": "MOTU released Digital Performer 12, adding deep Dolby Atmos support to the veteran DAW long favored for scoring and post-production work.",
-      "url": "https://cdm.link/motu-dp12-arrives-adding-dolby-atmos-and-more-to-a-daw-classic/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-09-16T17:32:46Z",
-      "category": "music-tech",
-      "tags": [
-        "DAW",
-        "launch"
-      ]
-    },
-    {
-      "id": "cdm-alm-stem-ripper-mixer",
-      "title": "ALM records everything to stems, and now mixes, too, in compact modules",
-      "summary": "ALM launched Stem Ripper and a companion mixer expansion module, letting Eurorack users record individual stems and mix them in compact hardware.",
-      "url": "https://cdm.link/alm-multichannel-record-mix/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-09-13T17:57:16Z",
-      "category": "music-tech",
-      "tags": [
-        "hardware",
-        "eurorack"
-      ]
-    },
-    {
-      "id": "cdm-dirtywave-m8-ios-app",
-      "title": "Dirtywave M8 has an official iOS app — a great addition to mobile tracker apps",
-      "summary": "Dirtywave released an official iOS app for its M8 tracker, extending the popular hardware groovebox's workflow to mobile devices.",
-      "url": "https://cdm.link/dirtywave-m8-ios/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-09-09T17:23:55Z",
-      "category": "music-tech",
-      "tags": [
-        "hardware",
-        "mobile"
-      ]
-    },
-    {
-      "id": "cdm-sting-acid-line-plugin-launch",
-      "title": "Eminently controllable, accessible by design, Sting is now a plug-in",
-      "summary": "Sting, a generative melody instrument designed for accessibility including blind and visually impaired musicians, is now available as a plug-in.",
-      "url": "https://cdm.link/sting-the-plugin/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-09-08T18:57:31Z",
-      "category": "music-tech",
-      "tags": [
-        "plugin",
-        "accessibility"
-      ]
-    },
-    {
-      "id": "cdm-ardour-9-8-adds-scales-tuning-aware",
-      "title": "Scales among updates to the free Ardour DAW — with tuning on the way",
-      "summary": "Ardour 9.8 update to the free open-source DAW adds scale support and session recovery improvements, with tuning features still to come.",
-      "url": "https://cdm.link/ardour-9-8-scales-and-tuning/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-09-07T11:39:51Z",
-      "category": "music-tech",
-      "tags": [
-        "DAW",
-        "open-source"
-      ]
-    },
-    {
-      "id": "cdm-throng-3d-bluesky-interface",
-      "title": "Throng, a 3D BlueSky interface, imagines social media as a mob",
-      "summary": "Throng is a new 3D interface for Bluesky that reimagines the social network's crowd of posts as an immersive virtual mob.",
-      "url": "https://cdm.link/create-digital-mobs/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-09-04T22:09:27Z",
-      "category": "music-tech",
-      "tags": [
-        "experimental",
-        "social-media"
-      ]
-    },
-    {
-      "id": "baa-laika-ilm-stopmo-conversation",
-      "title": "A great conversation about VFX in stop-mo with LAIKA’s Steve Emerson and ILM veteran Jeff Mann",
-      "summary": "LAIKA's Steve Emerson and ILM veteran Jeff Mann discussed stop-motion visual effects techniques in a new conversation featuring a live demo.",
-      "url": "https://beforesandafters.com/2026/09/19/a-great-conversation-about-vfx-in-stop-mo-with-laikas-steve-emerson-and-ilm-veteran-jeff-mann/",
-      "source": "befores & afters",
-      "published_at": "2026-09-19T00:33:13Z",
-      "category": "notable-work",
-      "tags": [
-        "stop-motion",
-        "craft"
-      ]
-    },
-    {
-      "id": "baa-ilm-spinosaur-oak-street-featurette",
-      "title": "New ‘The End of Oak Street’ featurette highlights ILM’s Spinosaur",
-      "summary": "A new featurette for 'The End of Oak Street' spotlights ILM's CG Spinosaur creature work and the production's companion AR app.",
-      "url": "https://beforesandafters.com/2026/09/19/new-the-end-of-oak-street-featurette-highlights-ilms-spinosaur/",
-      "source": "befores & afters",
-      "published_at": "2026-09-19T00:14:04Z",
-      "category": "notable-work",
+      "id": "mst-artofvfx-dogstars-vfx-breakdown",
+      "title": "artofvfx breaks down The Dog Stars VFX",
+      "summary": "Production VFX supervisor Charley Henley discussed bringing the post-apocalyptic world of 'The Dog Stars' to life with Ridley Scott.",
+      "url": "https://mastodon.social/@artofvfx/117287158273384390",
+      "source": "@artofvfx@mastodon.social · Mastodon",
+      "published_at": "2026-09-17T15:46:47Z",
+      "category": "social-vfx",
       "tags": [
         "breakdown",
-        "creature"
+        "ridleyscott"
       ]
     },
     {
-      "id": "baa-dneg-coyote-vs-acme-breakdown",
-      "title": "Watch this VFX breakdown by DNEG for ‘Coyote Vs. ACME’",
-      "summary": "DNEG released a new VFX breakdown reel for 'Coyote vs. Acme,' showcasing before-and-after shots plus animation and CG work.",
-      "url": "https://beforesandafters.com/2026/09/18/watch-this-vfx-breakdown-by-dneg-for-coyote-vs-acme/",
-      "source": "befores & afters",
-      "published_at": "2026-09-17T21:20:09Z",
-      "category": "notable-work",
+      "id": "mbw-apollo-invests-bmg-concord",
+      "title": "Apollo invests $1.25B in BMG subsidiary behind legacy Concord bonds, taking a minority stake",
+      "summary": "Apollo-managed funds acquired a $1.25 billion minority stake in a BMG subsidiary holding legacy Concord bonds, per the companies.",
+      "url": "https://www.musicbusinessworldwide.com/bmg-and-concord-apollo-bond-debt/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-09-17T15:06:13Z",
+      "category": "business-funding",
       "tags": [
-        "breakdown",
-        "animation"
+        "funding",
+        "M&A"
       ]
     },
     {
@@ -314,6 +665,32 @@
       ]
     },
     {
+      "id": "cdm-motu-dp12-dolby-atmos",
+      "title": "MOTU DP12 arrives, adding Dolby Atmos and more to a DAW classic",
+      "summary": "MOTU released Digital Performer 12, adding deep Dolby Atmos support to the veteran DAW long favored for scoring and post-production work.",
+      "url": "https://cdm.link/motu-dp12-arrives-adding-dolby-atmos-and-more-to-a-daw-classic/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-16T17:32:46Z",
+      "category": "music-tech",
+      "tags": [
+        "DAW",
+        "launch"
+      ]
+    },
+    {
+      "id": "mst-artofvfx-last-house-ilm-creatures",
+      "title": "artofvfx on ILM's The Last House creatures",
+      "summary": "VFX supervisor Jan Maroske detailed how ILM-led creature and environment work brought the unsettling world of 'The Last House' to life.",
+      "url": "https://mastodon.social/@artofvfx/117275653098013810",
+      "source": "@artofvfx@mastodon.social · Mastodon",
+      "published_at": "2026-09-15T15:00:52Z",
+      "category": "social-vfx",
+      "tags": [
+        "breakdown",
+        "ilm"
+      ]
+    },
+    {
       "id": "bafx-eran-dinur-ai-ml-vfx",
       "title": "VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects",
       "summary": "VFX supervisor Eran Dinur discussed the major AI and machine-learning shifts reshaping visual effects work, drawing on his ComfyUI teaching experience.",
@@ -324,6 +701,32 @@
       "tags": [
         "AI",
         "workflow"
+      ]
+    },
+    {
+      "id": "cdm-alm-stem-ripper-mixer",
+      "title": "ALM records everything to stems, and now mixes, too, in compact modules",
+      "summary": "ALM launched Stem Ripper and a companion mixer expansion module, letting Eurorack users record individual stems and mix them in compact hardware.",
+      "url": "https://cdm.link/alm-multichannel-record-mix/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-13T17:57:16Z",
+      "category": "music-tech",
+      "tags": [
+        "hardware",
+        "eurorack"
+      ]
+    },
+    {
+      "id": "yt-film-shang-chi-bus-scene-breakdown",
+      "title": "How Marvel shot Shang-Chi's bus scene",
+      "summary": "A breakdown video explaining how Marvel shot Shang-Chi's bus action sequence attracted over 4.1 million views.",
+      "url": "https://www.youtube.com/watch?v=YzjjCxOL0w8",
+      "source": "YouTube · Film",
+      "published_at": "2026-09-13T14:00:02Z",
+      "category": "social-youtube",
+      "tags": [
+        "marvel",
+        "stunts"
       ]
     },
     {
@@ -366,444 +769,29 @@
       ]
     },
     {
-      "id": "fx-engineering-science-technology-emmy-winners",
-      "title": "Congrats to the Engineering, Science & Technology Emmy Award Winners",
-      "summary": "The Television Academy announced winners of its 2026 Engineering, Science and Technology Emmy Awards, recognizing broadcast and production technology innovations.",
-      "url": "https://www.fxguide.com/quicktakes/congrats-to-the-engineering-science-technology-emmy-award-winners/",
-      "source": "fxguide",
-      "published_at": "2026-09-04T19:42:14Z",
-      "category": "studios-companies",
+      "id": "cdm-dirtywave-m8-ios-app",
+      "title": "Dirtywave M8 has an official iOS app — a great addition to mobile tracker apps",
+      "summary": "Dirtywave released an official iOS app for its M8 tracker, extending the popular hardware groovebox's workflow to mobile devices.",
+      "url": "https://cdm.link/dirtywave-m8-ios/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-09T17:23:55Z",
+      "category": "music-tech",
       "tags": [
-        "awards",
-        "technology"
+        "hardware",
+        "mobile"
       ]
     },
     {
-      "id": "fx-on-premises-open-weight-models",
-      "title": "The power of on-premises open-weight models for generative media",
-      "summary": "A new analysis examines how on-premises open-weight AI models can improve workflow stability, security and cost predictability for generative media production.",
-      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
-      "source": "fxguide",
-      "published_at": "2026-08-28T15:43:50Z",
-      "category": "vfx-tech",
-      "tags": [
-        "AI",
-        "open-weight"
-      ]
-    },
-    {
-      "id": "fx-todorovic-autodesk-flow-studio-3d",
-      "title": "Nikola Todorovic on Autodesk Flow Studio’s new 3D Editor + Canvas",
-      "summary": "Autodesk's Nikola Todorovic detailed Flow Studio's new 3D Editor and Canvas tools, combining interactive scene construction with generative AI filmmaking.",
-      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
-      "source": "fxguide",
-      "published_at": "2026-08-24T15:31:01Z",
-      "category": "vfx-tech",
-      "tags": [
-        "AI",
-        "tool-launch"
-      ]
-    },
-    {
-      "id": "awn-ilm-janet-lewin-view-award",
-      "title": "ILM's Janet Lewin to Receive 2026 VIEW Visionary Award",
-      "summary": "Industrial Light & Magic's Janet Lewin, VFX producer on five 'Star Wars' films, will receive the 2026 VIEW Visionary Award.",
-      "url": "https://www.awn.com/news/ilms-janet-lewin-receive-2026-view-visionary-award",
-      "source": "Animation World Network",
-      "published_at": "2026-09-18T18:55:10Z",
-      "category": "studios-companies",
-      "tags": [
-        "award",
-        "exec"
-      ]
-    },
-    {
-      "id": "awn-wildbrain-nick-the-mechanic-rights",
-      "title": "WildBrain Picks Up Global Rights to Polydont Films' 'Nick the Mechanic'",
-      "summary": "WildBrain acquired global distribution rights to 'Nick the Mechanic,' a 26-episode CG-animated preschool series, ahead of MIPCOM and MIPJunior.",
-      "url": "https://www.awn.com/news/wildbrain-picks-global-rights-polydont-films-nick-mechanic",
-      "source": "Animation World Network",
-      "published_at": "2026-09-18T17:39:02Z",
-      "category": "studios-companies",
-      "tags": [
-        "distribution",
-        "deal"
-      ]
-    },
-    {
-      "id": "awn-adult-swim-smalls-debut",
-      "title": "Adult Swim SMALLS Debuts ‘Edgy Intellectual Animation for High IQ Individuals’",
-      "summary": "Adult Swim's SMALLS platform debuted 'Edgy Intellectual Animation for High IQ Individuals,' a 3-part vertical series for social media and YouTube.",
-      "url": "https://www.awn.com/news/adult-swim-smalls-debuts-edgy-intellectual-animation-high-iq-individuals",
-      "source": "Animation World Network",
-      "published_at": "2026-09-18T17:09:23Z",
-      "category": "productions",
-      "tags": [
-        "animation",
-        "newshow"
-      ]
-    },
-    {
-      "id": "awn-aardman-shaun-sheep-mossy-bottom",
-      "title": "Aardman Unpacks the Hairy Details of 'Shaun the Sheep: The Beast of Mossy Bottom'",
-      "summary": "Aardman detailed the hairy stop-motion craft behind 'Shaun the Sheep: The Beast of Mossy Bottom,' its glued and wired Halloween feature.",
-      "url": "https://www.awn.com/animationworld/aardman-unpacks-hairy-details-shaun-sheep-beast-mossy-bottom",
-      "source": "Animation World Network",
-      "published_at": "2026-09-17T23:51:35Z",
-      "category": "notable-work",
-      "tags": [
-        "stop-motion",
-        "breakdown"
-      ]
-    },
-    {
-      "id": "awn-crunchyroll-stake-link-u",
-      "title": "Crunchyroll Takes 7% Stake in Crunchyroll Manga Builder Link-U",
-      "summary": "Sony-owned Crunchyroll acquired a 7% stake in manga platform Link-U for roughly 917 million yen, becoming its fifth-largest shareholder.",
-      "url": "https://www.awn.com/news/crunchyroll-takes-7-stake-crunchyroll-manga-builder-link-u",
-      "source": "Animation World Network",
-      "published_at": "2026-09-17T20:26:28Z",
-      "category": "business-funding",
-      "tags": [
-        "investment",
-        "anime"
-      ]
-    },
-    {
-      "id": "variety-lego-ninjago-legends-duskfall",
-      "title": "Lego’s ‘Ninjago Legends: Duskfall’ Anime-Style Shorts Premiere in Korea Ahead of YouTube Release",
-      "summary": "Lego's anime-style 'Ninjago Legends: Duskfall' shorts premiered in Korea ahead of a worldwide release on Lego's YouTube channel.",
-      "url": "https://variety.com/2026/tv/global/legos-ninjago-legends-duskfall-premiere-youtube-1236866920/",
-      "source": "Variety",
-      "published_at": "2026-09-19T07:01:00Z",
-      "category": "productions",
-      "tags": [
-        "animation",
-        "YouTube"
-      ]
-    },
-    {
-      "id": "variety-paramount-ca-ag-settlement-talks",
-      "title": "Paramount and California AG Bonta Reportedly in ‘Advanced Talks’ to Settle Antitrust Suit",
-      "summary": "Paramount Skydance and California Attorney General Rob Bonta are reportedly in advanced talks to settle a 12-state antitrust lawsuit.",
-      "url": "https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/",
-      "source": "Variety",
-      "published_at": "2026-09-18T22:43:27Z",
-      "category": "business-funding",
-      "tags": [
-        "antitrust",
-        "legal"
-      ]
-    },
-    {
-      "id": "deadline-gerrit-graham-dies-76",
-      "title": "Gerrit Graham Dead: ‘Star Trek’ & ‘Phantom of the Paradise’ Actor Was 76",
-      "summary": "Actor Gerrit Graham, known for roles in 'Phantom of the Paradise' and 'Star Trek,' has died at age 76.",
-      "url": "https://deadline.com/2026/09/gerrit-graham-dead-1237108310/",
-      "source": "Deadline",
-      "published_at": "2026-09-19T03:28:21Z",
-      "category": "productions",
-      "tags": [
-        "obituary"
-      ]
-    },
-    {
-      "id": "deadline-lollipop-chainsaw-live-action",
-      "title": "‘Lollipop Chainsaw’: Cult Japanese Video Game Getting The Live Action Feature Treatment",
-      "summary": "A live-action feature film adaptation of the cult Japanese video game 'Lollipop Chainsaw' is reportedly in the works.",
-      "url": "https://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/",
-      "source": "Deadline",
-      "published_at": "2026-09-19T01:30:00Z",
-      "category": "productions",
-      "tags": [
-        "adaptation",
-        "videogame"
-      ]
-    },
-    {
-      "id": "deadline-kohner-agency-layoffs",
-      "title": "Kohner Agency Lays Off Its Talent Agents Due To “Profound & Unprecedented Economic Pressures”",
-      "summary": "Talent agency Kohner Agency laid off its three talent agents, citing profound economic pressures, while keeping its department open for existing clients.",
-      "url": "https://deadline.com/2026/09/the-kohner-agency-layoffs-talent-agents-downsizing-1237108249/",
-      "source": "Deadline",
-      "published_at": "2026-09-19T01:13:33Z",
-      "category": "business-funding",
-      "tags": [
-        "layoffs",
-        "talent-agency"
-      ]
-    },
-    {
-      "id": "deadline-visionquest-no-genai-used",
-      "title": "‘VisionQuest’ Creator Terry Matalas Says No GenAI Was Used In Making Of Show: “There Hasn’t Really Been A Need”",
-      "summary": "'VisionQuest' creator Terry Matalas said the Marvel series used no generative AI in production, calling it unnecessary despite the show's AI-themed plot.",
-      "url": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
-      "source": "Deadline",
-      "published_at": "2026-09-19T00:40:52Z",
-      "category": "ai-creative",
-      "tags": [
-        "AI",
-        "production"
-      ]
-    },
-    {
-      "id": "deadline-resident-evil-box-office-previews",
-      "title": "‘Resident Evil’ Scaring Up $50M+ U.S. Franchise Record Opening – Update",
-      "summary": "Zach Cregger's 'Resident Evil' opened to over $50 million domestically, the biggest opening in the 24-year-old film franchise's history.",
-      "url": "https://deadline.com/2026/09/box-office-resident-evil-1237107316/",
-      "source": "Deadline",
-      "published_at": "2026-09-18T22:33:00Z",
-      "category": "productions",
-      "tags": [
-        "boxoffice",
-        "horror"
-      ]
-    },
-    {
-      "id": "deadline-netflix-pride-prejudice-series",
-      "title": "Everything We Know About Netflix’s New ‘Pride & Prejudice’ Series So Far",
-      "summary": "Netflix is developing a new television adaptation of Jane Austen's 'Pride and Prejudice,' with details of the project still emerging.",
-      "url": "https://deadline.com/feature/netflix-pride-amp-prejudice-series-news-updates-1236968654/",
-      "source": "Deadline",
-      "published_at": "2026-09-18T22:20:27Z",
-      "category": "productions",
-      "tags": [
-        "adaptation",
-        "netflix"
-      ]
-    },
-    {
-      "id": "thr-sweet-magnolias-canceled-netflix",
-      "title": "‘Sweet Magnolias’ Canceled at Netflix After Five Seasons",
-      "summary": "Netflix canceled 'Sweet Magnolias' after five seasons, though its showrunner and star are developing a new series, 'Ladies of the House.'",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/sweet-magnolias-canceled-five-seasons-netflix-1236705797/",
-      "source": "The Hollywood Reporter",
-      "published_at": "2026-09-18T23:05:04Z",
-      "category": "streaming",
-      "tags": [
-        "cancellation",
-        "netflix"
-      ]
-    },
-    {
-      "id": "mst-eyeofmidas-threejs-lightning-strike",
-      "title": "A lightning strike VFX walkthrough built in Three.js",
-      "summary": "A developer shared a detailed walkthrough showing how a realistic lightning strike effect was built using Three.js for real-time graphics.",
-      "url": "https://mastodon.gamedev.place/@eyeofmidas/117289675750750930",
-      "source": "@eyeofmidas@mastodon.gamedev.place · Mastodon",
-      "published_at": "2026-09-18T02:27:01Z",
-      "category": "social-vfx",
-      "tags": [
-        "threejs",
-        "tutorial"
-      ]
-    },
-    {
-      "id": "mst-artofvfx-dogstars-vfx-breakdown",
-      "title": "artofvfx breaks down The Dog Stars VFX",
-      "summary": "Production VFX supervisor Charley Henley discussed bringing the post-apocalyptic world of 'The Dog Stars' to life with Ridley Scott.",
-      "url": "https://mastodon.social/@artofvfx/117287158273384390",
-      "source": "@artofvfx@mastodon.social · Mastodon",
-      "published_at": "2026-09-17T15:46:47Z",
-      "category": "social-vfx",
-      "tags": [
-        "breakdown",
-        "ridleyscott"
-      ]
-    },
-    {
-      "id": "mst-artofvfx-last-house-ilm-creatures",
-      "title": "artofvfx on ILM's The Last House creatures",
-      "summary": "VFX supervisor Jan Maroske detailed how ILM-led creature and environment work brought the unsettling world of 'The Last House' to life.",
-      "url": "https://mastodon.social/@artofvfx/117275653098013810",
-      "source": "@artofvfx@mastodon.social · Mastodon",
-      "published_at": "2026-09-15T15:00:52Z",
-      "category": "social-vfx",
-      "tags": [
-        "breakdown",
-        "ilm"
-      ]
-    },
-    {
-      "id": "mst-overgrown-blender-feature-teaser",
-      "title": "Overgrown, an indie feature made entirely in Blender",
-      "summary": "A teaser trailer dropped for 'Overgrown,' an independent feature film being produced entirely using the open-source Blender software.",
-      "url": "https://lamp.leemoon.network/notes/arb0s5bc9owf00vo",
-      "source": "Mastodon #blender",
-      "published_at": "2026-09-18T21:13:25Z",
-      "category": "social-vfx",
-      "tags": [
-        "blender",
-        "indiefilm"
-      ]
-    },
-    {
-      "id": "mst-isotonikstudios-polygrab-maxforlive",
-      "title": "Polygrab Max for Live synth for Push 3",
-      "summary": "Techtronix's Polygrab, a 16-voice Max for Live synth for Ableton and Push 3, is drawing praise for its tight hardware integration.",
-      "url": "https://musician.social/@isotonikstudios/117293817183073933",
-      "source": "@isotonikstudios@musician.social · Mastodon",
-      "published_at": "2026-09-18T20:00:14Z",
-      "category": "social-music",
+      "id": "cdm-sting-acid-line-plugin-launch",
+      "title": "Eminently controllable, accessible by design, Sting is now a plug-in",
+      "summary": "Sting, a generative melody instrument designed for accessibility including blind and visually impaired musicians, is now available as a plug-in.",
+      "url": "https://cdm.link/sting-the-plugin/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-08T18:57:31Z",
+      "category": "music-tech",
       "tags": [
         "plugin",
-        "ableton"
-      ]
-    },
-    {
-      "id": "mst-vibrationofawesome-ai-music-uncanny-valley",
-      "title": "Discussion: why AI music feels uncanny",
-      "summary": "A musician argued that AI music's 'uncanny valley' stems from a philosophical limitation, not a technical one, since models only remix existing works.",
-      "url": "https://mastodon.social/@Vibrationofawesome/117293519360480252",
-      "source": "@Vibrationofawesome@mastodon.social · Mastodon",
-      "published_at": "2026-09-18T18:44:30Z",
-      "category": "social-music",
-      "tags": [
-        "AI",
-        "discussion"
-      ]
-    },
-    {
-      "id": "mst-behringer-jt2-jupiter8-clone-demo",
-      "title": "Behringer JT-2 Jupiter-8 clone demoed",
-      "summary": "A hands-on demo showcased Behringer's JT-2, an affordable clone of the classic Roland Jupiter-8 analog synthesizer.",
-      "url": "https://www.matrixsynth.com/2026/09/behringer-jt-2-even-better-demo-roland.html",
-      "source": "Mastodon #synthesizer",
-      "published_at": "2026-09-18T19:04:52Z",
-      "category": "social-music",
-      "tags": [
-        "synth",
-        "hardware"
-      ]
-    },
-    {
-      "id": "mst-animalfactory-philtersoup-asura-synth",
-      "title": "New Asura wavetable synth unveiled",
-      "summary": "Animal Factory and Philtersoup unveiled Asura, a new polyphonic wavetable synthesizer with analog fuzz circuitry, built in India.",
-      "url": "https://www.matrixsynth.com/2026/09/animal-factory-x-philtersoup-asura.html",
-      "source": "Mastodon #synthesizer",
-      "published_at": "2026-09-18T18:31:09Z",
-      "category": "social-music",
-      "tags": [
-        "synth",
-        "launch"
-      ]
-    },
-    {
-      "id": "mst-jay-piersmorgan-tillynorwood-ai-actor",
-      "title": "Piers Morgan interviews AI actor Tilly Norwood",
-      "summary": "A widely shared clip showed Piers Morgan interviewing Tilly Norwood, the controversial AI-generated 'actor,' reigniting debate over synthetic performers.",
-      "url": "https://mastodon.gamedev.place/@jay/117294984396087785",
-      "source": "@jay@mastodon.gamedev.place · Mastodon",
-      "published_at": "2026-09-19T00:57:04Z",
-      "category": "social-people",
-      "tags": [
-        "AI",
-        "actor"
-      ]
-    },
-    {
-      "id": "mst-scorsese-eva-green-film",
-      "title": "Scorsese to produce new Eva Green film",
-      "summary": "Martin Scorsese is set to produce a new film starring Eva Green, reported under the attention-grabbing working title 'Haunted Chair and Toilet.'",
-      "url": "https://gizmodo.com/martin-scorsese-to-produce-eva-greens-haunted-chair-and-toilet-movie-2000813701",
-      "source": "Mastodon #filmmaking",
-      "published_at": "2026-09-18T14:18:41Z",
-      "category": "social-people",
-      "tags": [
-        "producer",
-        "greenlight"
-      ]
-    },
-    {
-      "id": "mst-bbc-ai-not-threat-shaun-sheep",
-      "title": "Shaun the Sheep creators: AI no threat",
-      "summary": "Aardman's Shaun the Sheep creators told the BBC that AI is not a threat to filmmaking, per a shared news report.",
-      "url": "https://www.bbc.co.uk/news/articles/c8y5z7d37yzzo?at_medium=RSS&at_campaign=rss",
-      "source": "Mastodon #filmmaking",
-      "published_at": "2026-09-18T11:51:22Z",
-      "category": "social-people",
-      "tags": [
-        "AI",
-        "animation"
-      ]
-    },
-    {
-      "id": "gt-fr-shakira-trending",
-      "title": "Shakira trending in France amid Madrid residency",
-      "summary": "Shakira spiked in French search interest, coinciding with the kickoff of her 12-date residency tour in Madrid, Spain.",
-      "url": "https://trends.google.com/trends/explore?q=shakira&geo=FR",
-      "source": "Google Trends (FR)",
-      "published_at": "2026-09-19T06:40:00Z",
-      "category": "social-trends",
-      "tags": [
-        "trending",
-        "touring"
-      ]
-    },
-    {
-      "id": "yt-miniversefx-crocodile-attack-bts",
-      "title": "Giant crocodile attack VFX breakdown",
-      "summary": "A behind-the-scenes video revealing how a giant crocodile attack scene's visual effects were created drew over 2.2 million views.",
-      "url": "https://www.youtube.com/watch?v=CAQuR2j8PKc",
-      "source": "YouTube · VFX",
-      "published_at": "2026-08-29T10:45:14Z",
-      "category": "social-youtube",
-      "tags": [
-        "breakdown",
-        "BTS"
-      ]
-    },
-    {
-      "id": "yt-cinevo-paul-walker-supra-train-fight",
-      "title": "Fast X train fight VFX breakdown",
-      "summary": "A breakdown of the Paul Walker Supra and Vin Diesel train fight visual effects from 'Fast X' gathered nearly 1.9 million views.",
-      "url": "https://www.youtube.com/watch?v=gimQ9Wc-0wg",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-02T15:35:06Z",
-      "category": "social-youtube",
-      "tags": [
-        "FastX",
-        "BTS"
-      ]
-    },
-    {
-      "id": "yt-corridorcrew-hulk-cgi-ranking",
-      "title": "Corridor Crew ranks Hulk CGI",
-      "summary": "VFX channel Corridor Crew ranked the best and worst Hulk CGI across Marvel films, drawing over 1.5 million views.",
-      "url": "https://www.youtube.com/watch?v=FpXQ0QTpKE0",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-06T16:00:07Z",
-      "category": "social-youtube",
-      "tags": [
-        "CGI",
-        "review"
-      ]
-    },
-    {
-      "id": "yt-hexholdrealms-avengers-infinity-war-bts",
-      "title": "Avengers: Infinity War BTS vs final shots",
-      "summary": "A side-by-side comparison of Avengers: Infinity War's behind-the-scenes footage versus final movie shots attracted over 1.3 million views.",
-      "url": "https://www.youtube.com/watch?v=Oed8By-ed0M",
-      "source": "YouTube · VFX",
-      "published_at": "2026-08-22T11:11:12Z",
-      "category": "social-youtube",
-      "tags": [
-        "marvel",
-        "BTS"
-      ]
-    },
-    {
-      "id": "yt-marvelmaster-matrix-neo-dlss5-ue58",
-      "title": "Matrix's Neo recreated in Unreal Engine 5.8",
-      "summary": "A tech demo recreated Neo from 'The Matrix' using Unreal Engine 5.8's City Sample environment with DLSS 5 upscaling.",
-      "url": "https://www.youtube.com/watch?v=ly1vB3fpsZU",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-04T18:30:35Z",
-      "category": "social-youtube",
-      "tags": [
-        "unrealengine",
-        "tech-demo"
+        "accessibility"
       ]
     },
     {
@@ -833,16 +821,81 @@
       ]
     },
     {
-      "id": "yt-benjalorenzo-beat-viral-flstudio",
-      "title": "Viral FL Studio beatmaking short",
-      "summary": "A short clip of a producer building a beat in FL Studio, captioned as 'lowkey viral,' drew over 4 million views.",
-      "url": "https://www.youtube.com/watch?v=xlSW-2t2P2k",
-      "source": "YouTube · Music",
-      "published_at": "2026-08-23T16:24:30Z",
+      "id": "cdm-ardour-9-8-adds-scales-tuning-aware",
+      "title": "Scales among updates to the free Ardour DAW — with tuning on the way",
+      "summary": "Ardour 9.8 update to the free open-source DAW adds scale support and session recovery improvements, with tuning features still to come.",
+      "url": "https://cdm.link/ardour-9-8-scales-and-tuning/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-07T11:39:51Z",
+      "category": "music-tech",
+      "tags": [
+        "DAW",
+        "open-source"
+      ]
+    },
+    {
+      "id": "yt-corridorcrew-hulk-cgi-ranking",
+      "title": "Corridor Crew ranks Hulk CGI",
+      "summary": "VFX channel Corridor Crew ranked the best and worst Hulk CGI across Marvel films, drawing over 1.5 million views.",
+      "url": "https://www.youtube.com/watch?v=FpXQ0QTpKE0",
+      "source": "YouTube · VFX",
+      "published_at": "2026-09-06T16:00:07Z",
       "category": "social-youtube",
       "tags": [
-        "flstudio",
-        "beatmaking"
+        "CGI",
+        "review"
+      ]
+    },
+    {
+      "id": "cdm-throng-3d-bluesky-interface",
+      "title": "Throng, a 3D BlueSky interface, imagines social media as a mob",
+      "summary": "Throng is a new 3D interface for Bluesky that reimagines the social network's crowd of posts as an immersive virtual mob.",
+      "url": "https://cdm.link/create-digital-mobs/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-09-04T22:09:27Z",
+      "category": "music-tech",
+      "tags": [
+        "experimental",
+        "social-media"
+      ]
+    },
+    {
+      "id": "fx-engineering-science-technology-emmy-winners",
+      "title": "Congrats to the Engineering, Science & Technology Emmy Award Winners",
+      "summary": "The Television Academy announced winners of its 2026 Engineering, Science and Technology Emmy Awards, recognizing broadcast and production technology innovations.",
+      "url": "https://www.fxguide.com/quicktakes/congrats-to-the-engineering-science-technology-emmy-award-winners/",
+      "source": "fxguide",
+      "published_at": "2026-09-04T19:42:14Z",
+      "category": "studios-companies",
+      "tags": [
+        "awards",
+        "technology"
+      ]
+    },
+    {
+      "id": "yt-marvelmaster-matrix-neo-dlss5-ue58",
+      "title": "Matrix's Neo recreated in Unreal Engine 5.8",
+      "summary": "A tech demo recreated Neo from 'The Matrix' using Unreal Engine 5.8's City Sample environment with DLSS 5 upscaling.",
+      "url": "https://www.youtube.com/watch?v=ly1vB3fpsZU",
+      "source": "YouTube · VFX",
+      "published_at": "2026-09-04T18:30:35Z",
+      "category": "social-youtube",
+      "tags": [
+        "unrealengine",
+        "tech-demo"
+      ]
+    },
+    {
+      "id": "yt-hugeboi-la-peace-beat-trend",
+      "title": "'La Peace' Beat Meme Goes Viral Among Producers",
+      "summary": "A trending FL Studio beat clip using the 'la peace' sound has pulled in over 2.6 million views across producer accounts.",
+      "url": "https://www.youtube.com/watch?v=TwkJONH9aBc",
+      "source": "YouTube · Music Producer",
+      "published_at": "2026-09-04T10:00:12Z",
+      "category": "social-youtube",
+      "tags": [
+        "viral trend",
+        "FL Studio"
       ]
     },
     {
@@ -859,16 +912,29 @@
       ]
     },
     {
-      "id": "yt-ikmultimedia-tonex-board-demo",
-      "title": "IK Multimedia TONEX pedal sound demo",
-      "summary": "IK Multimedia demoed sound from its TONEX hardware modeling pedal, showcasing its amp and tone-capture capabilities.",
-      "url": "https://www.youtube.com/watch?v=F7_cWKv8Vgw",
-      "source": "YouTube · Music",
-      "published_at": "2026-09-03T09:35:54Z",
+      "id": "yt-cinevo-paul-walker-supra-train-fight",
+      "title": "Fast X train fight VFX breakdown",
+      "summary": "A breakdown of the Paul Walker Supra and Vin Diesel train fight visual effects from 'Fast X' gathered nearly 1.9 million views.",
+      "url": "https://www.youtube.com/watch?v=gimQ9Wc-0wg",
+      "source": "YouTube · VFX",
+      "published_at": "2026-09-02T15:35:06Z",
       "category": "social-youtube",
       "tags": [
-        "gear",
-        "guitar"
+        "FastX",
+        "BTS"
+      ]
+    },
+    {
+      "id": "fxg-craftyapes-ceo-alana-newell",
+      "title": "Crafty Apes CEO Alana Newell on the Studio's Future",
+      "summary": "Crafty Apes CEO Alana Newell discusses her rise from compositor to chief executive and where the VFX studio is headed next.",
+      "url": "https://www.fxguide.com/fxpodcasts/crafty-apes-ceo-alana-newell/",
+      "source": "fxguide",
+      "published_at": "2026-08-31T16:27:25Z",
+      "category": "studios-companies",
+      "tags": [
+        "VFX studios",
+        "leadership"
       ]
     },
     {
@@ -885,29 +951,68 @@
       ]
     },
     {
-      "id": "yt-film-krrish-vfx-breakdown",
-      "title": "Krrish superhero VFX breakdown",
-      "summary": "A behind-the-scenes video breaking down how the Indian film 'Krrish' achieved its superhero visual effects drew nearly 5.9 million views.",
-      "url": "https://www.youtube.com/watch?v=DMEijkPo9nc",
-      "source": "YouTube · Film",
-      "published_at": "2026-08-29T22:00:01Z",
+      "id": "yt-hollywoodunseen-trex-vfx-breakdown",
+      "title": "T-Rex Chase Scene VFX Breakdown Draws Big Views",
+      "summary": "A dinosaur chase VFX breakdown video from Hollywood Unseen has drawn nearly 900,000 views, showing strong appetite for breakdown content.",
+      "url": "https://www.youtube.com/watch?v=f8cbqCHFaOk",
+      "source": "YouTube · VFX",
+      "published_at": "2026-08-30T16:45:23Z",
       "category": "social-youtube",
       "tags": [
-        "bollywood",
-        "VFX"
+        "VFX breakdown",
+        "trending"
       ]
     },
     {
-      "id": "yt-film-shang-chi-bus-scene-breakdown",
-      "title": "How Marvel shot Shang-Chi's bus scene",
-      "summary": "A breakdown video explaining how Marvel shot Shang-Chi's bus action sequence attracted over 4.1 million views.",
-      "url": "https://www.youtube.com/watch?v=YzjjCxOL0w8",
-      "source": "YouTube · Film",
-      "published_at": "2026-09-13T14:00:02Z",
+      "id": "yt-miniversefx-crocodile-attack-bts",
+      "title": "Giant crocodile attack VFX breakdown",
+      "summary": "A behind-the-scenes video revealing how a giant crocodile attack scene's visual effects were created drew over 2.2 million views.",
+      "url": "https://www.youtube.com/watch?v=CAQuR2j8PKc",
+      "source": "YouTube · VFX",
+      "published_at": "2026-08-29T10:45:14Z",
       "category": "social-youtube",
       "tags": [
-        "marvel",
-        "stunts"
+        "breakdown",
+        "BTS"
+      ]
+    },
+    {
+      "id": "fx-on-premises-open-weight-models",
+      "title": "The power of on-premises open-weight models for generative media",
+      "summary": "A new analysis examines how on-premises open-weight AI models can improve workflow stability, security and cost predictability for generative media production.",
+      "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
+      "source": "fxguide",
+      "published_at": "2026-08-28T15:43:50Z",
+      "category": "vfx-tech",
+      "tags": [
+        "AI",
+        "open-weight"
+      ]
+    },
+    {
+      "id": "yt-arturia-pure-sub-synth-demo",
+      "title": "Arturia Demos Pure SUB Bass Design Synthesizer",
+      "summary": "Arturia's official demo of its Pure SUB bass-design synthesizer has racked up over 550,000 views among producers.",
+      "url": "https://www.youtube.com/watch?v=sKQ2nV0ibE0",
+      "source": "YouTube · Music Tech",
+      "published_at": "2026-08-27T14:47:56Z",
+      "category": "social-youtube",
+      "tags": [
+        "synth",
+        "gear demo"
+      ]
+    },
+    {
+      "id": "fx-todorovic-autodesk-flow-studio-3d",
+      "title": "Nikola Todorovic on Autodesk Flow Studio’s new 3D Editor + Canvas",
+      "summary": "Autodesk's Nikola Todorovic detailed Flow Studio's new 3D Editor and Canvas tools, combining interactive scene construction with generative AI filmmaking.",
+      "url": "https://www.fxguide.com/fxpodcasts/nikola-todorovic-on-autodesk-flow-studios-new-3d-editor-canvas/",
+      "source": "fxguide",
+      "published_at": "2026-08-24T15:31:01Z",
+      "category": "vfx-tech",
+      "tags": [
+        "AI",
+        "tool-launch"
       ]
     }
   ]
