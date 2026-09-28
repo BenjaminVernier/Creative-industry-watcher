@@ -1,6 +1,180 @@
 {
-  "generated_at": "2026-09-27T05:17:04Z",
+  "generated_at": "2026-09-28T05:26:33Z",
   "items": [
+    {
+      "title": "Jia Zhangke Readies Road Movie 'Mamma Dunhuang,' Rules Out AI",
+      "summary": "Director Jia Zhangke is preparing road movie 'Mamma Dunhuang,' starring Zhao Tao, and says he will not use AI in production.",
+      "url": "https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776/",
+      "source": "Variety",
+      "published_at": "2026-09-27T09:19:02Z",
+      "category": "productions",
+      "tags": [
+        "AI",
+        "Jia Zhangke"
+      ],
+      "id": "variety-variety-com-2026-film-festivals-jia-zhangke-m"
+    },
+    {
+      "title": "Blender Nation Previews Grease Pencil Shape Keys",
+      "summary": "Blender Nation previewed an in-development Grease Pencil Shape Keys feature and 2D rigging test for the open-source software Blender.",
+      "url": "https://mastodon.online/@blendernation/117341712461504014",
+      "source": "@blendernation · Mastodon",
+      "published_at": "2026-09-27T07:00:38Z",
+      "category": "social-vfx",
+      "tags": [
+        "Blender",
+        "Grease Pencil",
+        "2D animation"
+      ],
+      "id": "blendernation-mastod-mastodon-online-blendernation-117341712461504"
+    },
+    {
+      "title": "Moritz Simon Geist Turns a Motor-Driven Steel Plate Into a Synth",
+      "summary": "Sound artist Moritz Simon Geist demonstrated turning a motor-driven steel plate into an improvised synthesizer for a kinetic sound art piece.",
+      "url": "https://loops.video/v/indrwqJ37I",
+      "source": "Mastodon #synthesizer",
+      "published_at": "2026-09-27T06:51:50Z",
+      "category": "social-music",
+      "tags": [
+        "sound art",
+        "kinetic art",
+        "synthesizer"
+      ],
+      "id": "mastodon-synthesizer-loops-video-v-indrwqj37i"
+    },
+    {
+      "title": "Don Hertzfeldt Releases Trailer for New Film 'Paper Trail'",
+      "summary": "Acclaimed indie animator Don Hertzfeldt released a trailer for his new film 'Paper Trail,' due in 2026.",
+      "url": "https://lemmy.blahaj.zone/post/48453605",
+      "source": "Mastodon #animation",
+      "published_at": "2026-09-27T04:58:21Z",
+      "category": "social-vfx",
+      "tags": [
+        "Don Hertzfeldt",
+        "indie animation",
+        "trailer"
+      ],
+      "id": "mastodon-animation-lemmy-blahaj-zone-post-48453605"
+    },
+    {
+      "title": "Jon Watts to Direct Next 'Star Wars' Movie",
+      "summary": "Director Jon Watts, known for the 'Spider-Man' trilogy, is attached to direct a new 'Star Wars' movie for Lucasfilm.",
+      "url": "https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714/",
+      "source": "Variety",
+      "published_at": "2026-09-27T02:04:00Z",
+      "category": "productions",
+      "tags": [
+        "Star Wars",
+        "Lucasfilm"
+      ],
+      "id": "variety-variety-com-2026-film-news-jon-watts-to-direc"
+    },
+    {
+      "title": "'We Are Aliens,' 'Praying Mantis' Lead OIAF 2026 Winners",
+      "summary": "'We Are Aliens' and 'Praying Mantis' led the winners at the 50th Ottawa International Animation Festival's 2026 awards.",
+      "url": "https://www.awn.com/news/we-are-aliens-praying-mantis-lead-oiaf-2026-winners",
+      "source": "Animation World Network",
+      "published_at": "2026-09-27T01:37:19Z",
+      "category": "notable-work",
+      "tags": [
+        "Ottawa Animation Festival",
+        "awards"
+      ],
+      "id": "animation-world-netw-awn-com-news-we-are-aliens-praying-mantis-lea"
+    },
+    {
+      "title": "Developer Ports VFX Tools Like Gaffer and Blender to FreeBSD",
+      "summary": "A developer is porting VFX tools including Gaffer and Blender to FreeBSD, adding NVIDIA CUDA support via the Linuxulator layer.",
+      "url": "https://mastodon.bsd.cafe/@martin/117339458292592679",
+      "source": "@martin · Mastodon",
+      "published_at": "2026-09-26T21:27:22Z",
+      "category": "social-vfx",
+      "tags": [
+        "FreeBSD",
+        "Blender",
+        "open source"
+      ],
+      "id": "martin-mastodon-mastodon-bsd-cafe-martin-117339458292592679"
+    },
+    {
+      "title": "Mike Leigh's 'Tender Loving Care' Wins Golden Shell at San Sebastián",
+      "summary": "Mike Leigh's 'Tender Loving Care' won the Golden Shell and Best Screenplay at the San Sebastián Film Festival.",
+      "url": "https://deadline.com/2026/09/san-sebastian-mike-leigh-tender-loving-care-golden-shell-1237114543/",
+      "source": "Deadline",
+      "published_at": "2026-09-26T20:43:35Z",
+      "category": "productions",
+      "tags": [
+        "San Sebastian",
+        "awards"
+      ],
+      "id": "deadline-deadline-com-2026-09-san-sebastian-mike-leigh"
+    },
+    {
+      "title": "'X-Files' Theme Recreated Entirely on Synthesizers",
+      "summary": "A blog post shared a video of the 'X-Files' theme recreated entirely on synthesizers, tagged under electronic music and sound design.",
+      "url": "https://www.matrixsynth.com/2026/09/the-x-files-theme-on-synthesizers.html",
+      "source": "matrixsynth · Mastodon",
+      "published_at": "2026-09-26T19:35:54Z",
+      "category": "social-music",
+      "tags": [
+        "synthesizers",
+        "cover",
+        "electronic music"
+      ],
+      "id": "matrixsynth-mastodon-matrixsynth-com-2026-09-the-x-files-theme-on"
+    },
+    {
+      "title": "Art of VFX's Weekend Spotlight Rounds Up Breakdowns and Interviews",
+      "summary": "Art of VFX's Weekend Spotlight roundup featured breakdowns and interviews for 'The End of Oak Street,' 'Masters of the Universe' and 'Coyote vs. Acme.'",
+      "url": "https://mastodon.social/@artofvfx/117338775213153889",
+      "source": "@artofvfx · Mastodon",
+      "published_at": "2026-09-26T18:33:39Z",
+      "category": "social-vfx",
+      "tags": [
+        "VFX breakdown",
+        "roundup"
+      ],
+      "id": "artofvfx-mastodon-mastodon-social-artofvfx-117338775213153889"
+    },
+    {
+      "title": "Engineer Explains XY, ORTF and Blumlein Stereo Mic Techniques",
+      "summary": "A sound engineer explained the psychoacoustic differences between XY, ORTF and Blumlein stereo microphone techniques and when to use each.",
+      "url": "https://mastodon.social/@tonalux/117338411423046519",
+      "source": "@tonalux · Mastodon",
+      "published_at": "2026-09-26T17:01:08Z",
+      "category": "social-music",
+      "tags": [
+        "sound design",
+        "recording technique"
+      ],
+      "id": "tonalux-mastodon-mastodon-social-tonalux-117338411423046519"
+    },
+    {
+      "title": "Robert Eggers' 'Werwulf' Trailer Comes With an Interactive Game",
+      "summary": "Director Robert Eggers released a new trailer for 'Werwulf' alongside an accompanying interactive game as part of its marketing.",
+      "url": "https://www.indiewire.com/news/trailers/werwulf-second-trailer-interactive-game-1235218761/",
+      "source": "IndieWire",
+      "published_at": "2026-09-26T15:15:49Z",
+      "category": "production-tech",
+      "tags": [
+        "interactive",
+        "marketing tech"
+      ],
+      "id": "indiewire-indiewire-com-news-trailers-werwulf-second-tr"
+    },
+    {
+      "title": "Carmelle Performs at Eurovision Asia 2026",
+      "summary": "Filipino artist Carmelle performed at Eurovision Asia 2026, marking the biggest stage of her career so far.",
+      "url": "https://fed.brid.gy/r/https://www.rappler.com/people/artists/carmelle-collado-eurovision-asia-2026/",
+      "source": "Rappler · Mastodon",
+      "published_at": "2026-09-26T10:15:00Z",
+      "category": "social-people",
+      "tags": [
+        "Eurovision Asia",
+        "emerging artist"
+      ],
+      "id": "rappler-mastodon-fed-brid-gy-r-https-rappler-com-people-artist"
+    },
     {
       "title": "Suno confirms v6 is trained on user-generated interactions as new copyright lawsuits surface https://bedroomproducersblo",
       "summary": "Suno confirmed its v6 model was trained on user-generated interactions as new copyright lawsuits against the AI music company surface.",
@@ -79,6 +253,20 @@
         "India"
       ],
       "id": "variety-variety-com-2026-film-news-hanuman-ansh-india"
+    },
+    {
+      "title": "Healy Performs 'Isip' Live on Rappler's Live Jam",
+      "summary": "Filipino duo Healy performed their hit 'Isip' live for the first time on Rappler's Live Jam music session series.",
+      "url": "https://mastodon.social/@justpaste/117334708950827692",
+      "source": "@justpaste · Mastodon",
+      "published_at": "2026-09-26T01:19:33Z",
+      "category": "social-people",
+      "tags": [
+        "Rappler Live Jam",
+        "Filipino music",
+        "live session"
+      ],
+      "id": "justpaste-mastodon-mastodon-social-justpaste-117334708950827692"
     },
     {
       "title": "Taylor Swift Breaks Two Spotify Records for 2026, Including Most-Streamed Female Artist in a Day",
@@ -249,6 +437,32 @@
       "id": "musictech-musictech-com-news-events-apple-music-is-live"
     },
     {
+      "title": "A24's 'Primetime' Earns $2.7 Million in Preview Screenings",
+      "summary": "A24's 'Primetime,' starring Robert Pattinson, earned $2.7 million in preview screenings ahead of its theatrical release.",
+      "url": "https://www.indiewire.com/news/box-office/a24-primetime-box-office-previews-robert-pattinson-chris-hansen-1235218692/",
+      "source": "IndieWire",
+      "published_at": "2026-09-25T15:27:13Z",
+      "category": "business-funding",
+      "tags": [
+        "box office",
+        "A24"
+      ],
+      "id": "indiewire-indiewire-com-news-box-office-a24-primetime-b"
+    },
+    {
+      "title": "Op-Ed: Congress Must Act to Support Cinema Tax Credit",
+      "summary": "An industry op-ed argued Congress must act to preserve the cinema tax credit to keep movie theaters viable on Main Street.",
+      "url": "https://www.indiewire.com/news/analysis/congress-tax-credit-cinema-theater-upgrades-op-ed-1235218635/",
+      "source": "IndieWire",
+      "published_at": "2026-09-25T14:24:01Z",
+      "category": "business-funding",
+      "tags": [
+        "policy",
+        "tax credit"
+      ],
+      "id": "indiewire-indiewire-com-news-analysis-congress-tax-cred"
+    },
+    {
       "title": "Josh Remsberg appointed Head of Commercial Partnerships at direct-to-fan platform EVEN",
       "summary": "Direct-to-fan platform EVEN appointed Josh Remsberg as Head of Commercial Partnerships to run label and distributor relationships.",
       "url": "https://www.musicbusinessworldwide.com/josh-remsberg-appointed-head-of-commercial-partnerships-at-direct-to-fan-platform-even/",
@@ -275,6 +489,19 @@
       "id": "music-business-world-musicbusinessworldwide-com-val-blavatnik-join"
     },
     {
+      "title": "'The Gilded Age' Musical Will Debut as a Christmas Album",
+      "summary": "The long-planned 'Gilded Age' stage musical will debut instead as a Christmas album rather than a traditional theatrical production.",
+      "url": "https://www.indiewire.com/news/breaking-news/gilded-age-christmas-album-cast-musical-episode-hbo-1235218372/",
+      "source": "IndieWire",
+      "published_at": "2026-09-25T14:00:00Z",
+      "category": "productions",
+      "tags": [
+        "The Gilded Age",
+        "album"
+      ],
+      "id": "indiewire-indiewire-com-news-breaking-news-gilded-age-c"
+    },
+    {
       "title": "ASCAP names Jackson Wagener as Senior Vice President and Head of General Licensing",
       "summary": "ASCAP named Jackson Wagener as Senior Vice President and Head of General Licensing, overseeing licensing of its repertoire.",
       "url": "https://www.musicbusinessworldwide.com/ascap-names-jackson-wagener-as-senior-vice-president-and-head-of-general-licensing/",
@@ -286,6 +513,20 @@
         "exec move"
       ],
       "id": "music-business-world-musicbusinessworldwide-com-ascap-names-jackso"
+    },
+    {
+      "title": "BMG's Jim Selby Elected to ASCAP Board of Directors",
+      "summary": "BMG's Jim Selby was elected to ASCAP's Board of Directors as a publisher member under president Paul Williams.",
+      "url": "https://www.musicbusinessworldwide.com/bmgs-jim-selby-elected-to-ascap-board-of-directors/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-09-25T13:25:39Z",
+      "category": "labels-industry",
+      "tags": [
+        "ASCAP",
+        "BMG",
+        "appointment"
+      ],
+      "id": "music-business-world-musicbusinessworldwide-com-bmgs-jim-selby-ele"
     },
     {
       "title": "Man who pocketed $8m using AI songs and bot streams asks for no prison time, arguing ‘no artist suffered any perceptible harm’",
@@ -595,6 +836,19 @@
       "id": "awn-news-knights-guinevere-open-animation-film-2026"
     },
     {
+      "title": "Sugababes Announce First Album as Original Trio in 26 Years",
+      "summary": "Sugababes announced their first album as the original trio in 26 years, after various lineup changes, due out next year.",
+      "url": "https://pitchfork.com/story/sugababes-announces-first-album-as-original-trio-in-26-years/",
+      "source": "Pitchfork",
+      "published_at": "2026-09-24T18:03:13Z",
+      "category": "trends-culture",
+      "tags": [
+        "Sugababes",
+        "reunion"
+      ],
+      "id": "pitchfork-pitchfork-com-story-sugababes-announces-first"
+    },
+    {
       "id": "indiewire-news-breaking-news-strand-releasing-buys-sparks-jodie-foster",
       "title": "Strand Releasing Buys Distribution Rights to ‘Sparks,’ a Drama About Time-Travel Obsessed Teens",
       "summary": "Strand Releasing acquired distribution rights to 'Sparks,' an indie drama about time-travel-obsessed teens.",
@@ -688,6 +942,20 @@
       "id": "musictech-news-gear-maschine-3-7"
     },
     {
+      "title": "LANDR Expands AI Fraud Detection Built With Machine Learning Lab Mila",
+      "summary": "LANDR expanded its AI fraud detection system, built with ML lab Mila, reporting a 95% drop in flagged artificial streams on Spotify.",
+      "url": "https://www.musicbusinessworldwide.com/landr-expands-ai-fraud-detection-built-with-machine-learning-lab-mila-and-says-artificial-streams-flagged-by-spotify-for-music-it-distributes-fell-95-between-q1-2025-and-q2-2026/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-09-24T15:44:52Z",
+      "category": "music-tech",
+      "tags": [
+        "AI",
+        "fraud detection",
+        "LANDR"
+      ],
+      "id": "music-business-world-musicbusinessworldwide-com-landr-expands-ai-f"
+    },
+    {
       "title": "Over 50% of a major streaming service’s tracks come from DistroKid – and other revelations from UMG’s lawsuit",
       "summary": "UMG's lawsuit against DistroKid alleges over half of a major streaming service's tracks come from the DIY distributor, among other claims.",
       "url": "https://www.musicbusinessworldwide.com/over-50-of-a-major-streaming-services-tracks-come-from-distrokid/",
@@ -699,19 +967,6 @@
         "UMG lawsuit"
       ],
       "id": "mbw-over-50-of-a-major-streaming-services-tracks-come-from-distr"
-    },
-    {
-      "title": "A devastated world, a long journey and the seemingly untouched Grand Junction… In our exclusive interview, # VFX Supervi",
-      "summary": "Art of VFX interviewed Outpost VFX supervisor Sebastien Raets about his work on Ridley Scott's The Dog Stars, with before/after images.",
-      "url": "https://mastodon.social/@artofvfx/117326614643683904",
-      "source": "@artofvfx · Mastodon",
-      "published_at": "2026-09-24T15:01:04Z",
-      "category": "social-vfx",
-      "tags": [
-        "VFX supervisor",
-        "breakdown"
-      ],
-      "id": "artofvfxmastodon-artofvfx-117326614643683904"
     },
     {
       "title": "Adobe Completes Topaz Labs Acquisition",
@@ -804,255 +1059,6 @@
         "M&A",
         "music publishing"
       ]
-    },
-    {
-      "id": "variety-2026-tv-news-ghost-in-the-shell-attack-on-titan-ko",
-      "title": "'Ghost in the Shell,' 'Attack on Titan' and 'Blue Lock' IP Lands at Dentsu in New Kodansha Partnership for the Americas",
-      "summary": "Dentsu struck a partnership giving Americas brand marketers access to Kodansha anime and manga IP like Attack on Titan.",
-      "url": "https://variety.com/2026/tv/news/ghost-in-the-shell-attack-on-titan-kodansha-ip-dentsu-1236871991/",
-      "source": "Variety",
-      "published_at": "2026-09-24T09:00:00Z",
-      "category": "business-funding",
-      "tags": [
-        "licensing deal",
-        "Kodansha"
-      ]
-    },
-    {
-      "id": "deadline-2026-09-independent-talent-group-buys-into-tongue",
-      "title": "Independent Talent Group Buys Into Sports Agency Tongue Tied Management",
-      "summary": "Independent Talent Group bought a stake in UK sports talent agency Tongue Tied Management as part of its growth push.",
-      "url": "https://deadline.com/2026/09/independent-talent-group-buys-into-tongue-tied-management-1237112265/",
-      "source": "Deadline",
-      "published_at": "2026-09-24T07:27:14Z",
-      "category": "business-funding",
-      "tags": [
-        "M&A",
-        "talent agency"
-      ]
-    },
-    {
-      "id": "billboard-music-awards-tame-impala-genesis-owusu-2026-aria-a",
-      "title": "Tame Impala, Genesis Owusu Lead 2026 ARIA Awards Nominations: Full List",
-      "summary": "Tame Impala and Genesis Owusu lead nominations for the 2026 ARIA Awards, Australia's top music industry honors.",
-      "url": "https://www.billboard.com/music/awards/tame-impala-genesis-owusu-2026-aria-awards-nomination-1236346060/",
-      "source": "Billboard",
-      "published_at": "2026-09-24T03:00:26Z",
-      "category": "trends-culture",
-      "tags": [
-        "ARIA Awards",
-        "nominations"
-      ]
-    },
-    {
-      "id": "deadline-2026-09-meta-vr-glasses-content-offerings-12371121",
-      "title": "Meta Introduces New VR Glasses With Access To Content From YouTube, Prime Video, HBO Max, Disney+ & More",
-      "summary": "Meta unveiled new VR glasses positioned as an all-in-one media device with access to YouTube, Prime Video, HBO Max and more.",
-      "url": "https://deadline.com/2026/09/meta-vr-glasses-content-offerings-1237112131/",
-      "source": "Deadline",
-      "published_at": "2026-09-24T02:37:30Z",
-      "category": "production-tech",
-      "tags": [
-        "Meta",
-        "VR hardware"
-      ]
-    },
-    {
-      "id": "billboard-culture-product-recommendations-ray-ban-meta-audio",
-      "title": "Ray-Ban Meta Creates First Audio-Only Glasses Amid Online Discussions Over Camera Recording & Privacy",
-      "summary": "Meta launched camera-free, audio-only Ray-Ban smart glasses, responding to privacy concerns about its camera-equipped models.",
-      "url": "https://www.billboard.com/culture/product-recommendations/ray-ban-meta-audio-only-ai-glasses-no-camera-shop-online-1236345627/",
-      "source": "Billboard",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "music-tech",
-      "tags": [
-        "Ray-Ban Meta",
-        "wearables"
-      ]
-    },
-    {
-      "title": "Really fun 11.5 minute featurette on the dinos in ‘The End of Oak Street’",
-      "summary": "A new featurette breaks down ILM's dinosaur visual effects work on the film The End of Oak Street.",
-      "url": "https://beforesandafters.com/2026/09/24/really-fun-11-5-minute-featurette-on-the-dinos-in-the-end-of-oak-street/",
-      "source": "befores & afters",
-      "published_at": "2026-09-23T22:49:01Z",
-      "category": "notable-work",
-      "tags": [
-        "ILM",
-        "dinosaurs"
-      ],
-      "id": "beforesafter-2026-09-24-really-fun-11-5-minute-featurette-on-th"
-    },
-    {
-      "title": "See Image Engine’s breakdown for Avatar: The Last Airbender S2",
-      "summary": "Image Engine released a VFX breakdown of the elemental duel sequences from season 2 of Avatar: The Last Airbender.",
-      "url": "https://www.cgchannel.com/2026/09/see-image-engines-vfx-breakdown-for-avatar-the-last-airbender-season-2/",
-      "source": "CG Channel",
-      "published_at": "2026-09-23T15:21:11Z",
-      "category": "notable-work",
-      "tags": [
-        "Image Engine",
-        "Avatar"
-      ],
-      "id": "cgchannel-2026-09-see-image-engines-vfx-breakdown-for-avatar"
-    },
-    {
-      "title": "James Hype reveals ridiculous new 16-DECK DJ rig – and Deadmau5 loves it",
-      "summary": "DJ James Hype unveiled a 16-deck DJ rig setup that reportedly impressed fellow producer Deadmau5.",
-      "url": "https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/",
-      "source": "MusicTech",
-      "published_at": "2026-09-23T08:55:25Z",
-      "category": "music-tech",
-      "tags": [
-        "DJ gear",
-        "James Hype"
-      ],
-      "id": "musictech-musictech-com-news-music-james-hype-16-deck-d"
-    },
-    {
-      "title": "Elektron is halting sharing of mods and hacks on its forums; official comments",
-      "summary": "Hardware maker Elektron is halting community sharing of device mods and hacks, citing a surge partly driven by AI.",
-      "url": "https://cdm.link/elektron-on-hacks-and-mods/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-09-22T22:55:33Z",
-      "category": "music-tech",
-      "tags": [
-        "Elektron",
-        "policy"
-      ],
-      "id": "cdmcreatedig-elektron-on-hacks-and-mods"
-    },
-    {
-      "id": "awn-dneg-takes-motor-city-back-bloody",
-      "title": "DNEG Takes 'Motor City' Back to the Bloody 1970s",
-      "summary": "DNEG served as sole VFX vendor on 'Motor City,' delivering 302 shots across 15 sequences in seven months for the revenge thriller.",
-      "url": "https://www.awn.com/vfxworld/dneg-takes-motor-city-back-bloody-1970s",
-      "source": "Animation World Network",
-      "published_at": "2026-09-21T20:12:24Z",
-      "category": "notable-work",
-      "tags": [
-        "DNEG",
-        "period film"
-      ]
-    },
-    {
-      "id": "yt-watch-v-ulm2oij5o0i",
-      "title": "VFX Artists Breakdown GTA 6's IMPOSSIBLE Graphics",
-      "summary": "VFX artists at Corridor Crew broke down the graphics powering GTA 6, drawing over 2.2 million views.",
-      "url": "https://www.youtube.com/watch?v=ULM2OIj5o0I",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-20T16:30:31Z",
-      "category": "social-youtube",
-      "tags": [
-        "game VFX",
-        "breakdown"
-      ]
-    },
-    {
-      "id": "cgchannel-2026-09-new-cg-software-you-may-have-missed-20-sep",
-      "title": "New CG software you may have missed: 20 September 2026",
-      "summary": "A roundup of recent CG tool updates, including animation library builder Animcraft, game engine Unigine, and OctaneRender.",
-      "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-20-september-2026/",
-      "source": "CG Channel",
-      "published_at": "2026-09-20T06:00:39Z",
-      "category": "vfx-tech",
-      "tags": [
-        "CG tools",
-        "roundup"
-      ]
-    },
-    {
-      "id": "yt-watch-v-s-odmv2ibw0",
-      "title": "Zach Cregger Breaks Down Scenes From Resident Evil, Weapons & Barbarian (356K views)",
-      "summary": "Director Zach Cregger walked through key scenes from 'Resident Evil,' 'Weapons,' and 'Barbarian' in a Vanity Fair interview.",
-      "url": "https://www.youtube.com/watch?v=S_oDmV2ibw0",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-18T16:00:11Z",
-      "category": "social-youtube",
-      "tags": [
-        "breakdown",
-        "interview"
-      ]
-    },
-    {
-      "id": "youtubemusic-watch-v-bg5dvv-jdtk",
-      "title": "\"Reason Is FREE Now?! This Is HUGE for Producers\" (50K views)",
-      "summary": "A video reports that Reason Studios made its Reason DAW free, a significant shift welcomed by producers.",
-      "url": "https://www.youtube.com/watch?v=bg5DVv_jdtk",
-      "source": "YouTube · Music",
-      "published_at": "2026-09-17T14:36:48Z",
-      "category": "social-youtube",
-      "tags": [
-        "Reason",
-        "DAW",
-        "free software"
-      ]
-    },
-    {
-      "id": "youtubevfx-watch-v-pbweqqknyas",
-      "title": "AI Inside Houdini, Not Instead of It | Avner Engler | HIVEalt",
-      "summary": "SideFX's official Houdini channel discussed integrating AI inside Houdini rather than replacing artists with it.",
-      "url": "https://www.youtube.com/watch?v=PBWEqqkNYas",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-16T19:29:54Z",
-      "category": "social-youtube",
-      "tags": [
-        "Houdini",
-        "AI",
-        "official"
-      ]
-    },
-    {
-      "id": "yt-watch-v-bcplaoon7y0",
-      "title": "Water FX R&D: Custom Wave Curves Simulation in Copernicus",
-      "summary": "A technical R&D video shares a custom wave-curve water simulation setup built in Houdini's Copernicus solver, HIP file included.",
-      "url": "https://www.youtube.com/watch?v=bCPlaoON7y0",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-16T07:15:24Z",
-      "category": "social-youtube",
-      "tags": [
-        "Houdini",
-        "simulation"
-      ]
-    },
-    {
-      "id": "youtubevfx-watch-v-kv-3uxnbvre",
-      "title": "Ramayana VFX changes compared, before and after (1.2M views)",
-      "summary": "A YouTube breakdown examines how the VFX in animated feature Ramayana were revised, comparing before-and-after differences.",
-      "url": "https://www.youtube.com/watch?v=KV_3uxNbvrE",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-15T15:14:56Z",
-      "category": "social-youtube",
-      "tags": [
-        "VFX breakdown",
-        "Ramayana"
-      ]
-    },
-    {
-      "id": "youtubefilm-watch",
-      "title": "How Marvel Shot Shang-Chi's Bus Action Scene",
-      "summary": "A breakdown of how Marvel shot Shang-Chi's bus action scene reached nearly 5 million views.",
-      "url": "https://www.youtube.com/watch?v=YzjjCxOL0w8",
-      "source": "YouTube · Film",
-      "published_at": "2026-09-13T14:00:02Z",
-      "category": "social-youtube",
-      "tags": [
-        "Marvel",
-        "VFX breakdown"
-      ]
-    },
-    {
-      "title": "I Made a “Jab Zid Pe Aa Gai Parwati” Style Song With AI 😳🔱",
-      "summary": "A creator recreated a viral Bollywood-style song using AI music generation tools, drawing over 1.1 million views.",
-      "url": "https://www.youtube.com/watch?v=gyiC4K0gVco",
-      "source": "YouTube · Music",
-      "published_at": "2026-09-11T13:08:10Z",
-      "category": "social-youtube",
-      "tags": [
-        "AI music",
-        "cover"
-      ],
-      "id": "youtube-music-youtube-com-watch-v-gyic4k0gvco"
     }
   ]
 }
