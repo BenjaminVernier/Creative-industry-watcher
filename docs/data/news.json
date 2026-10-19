@@ -1,289 +1,30 @@
 {
-  "generated_at": "2026-10-18T05:20:44Z",
+  "generated_at": "2026-10-19T05:17:30Z",
   "items": [
     {
-      "id": "social-masto-117455354132229949",
-      "title": "Indie Dev Shows Terminal-Style Photo-Loading VFX for Puzzle Game",
-      "summary": "An indie developer shared a VFX technique simulating a corrupted dial-up photo load, now tied into a puzzle game's map system.",
-      "url": "https://mastodon.gamedev.place/@maxim/117455354132229949",
-      "source": "@maxim@mastodon.gamedev.place · Mastodon",
-      "published_at": "2026-10-17T08:41:12Z",
-      "category": "social-vfx",
-      "tags": [
-        "indie-dev",
-        "vfx-breakdown"
-      ]
-    },
-    {
-      "id": "social-trends-attack-20on-20titan",
-      "title": "\"Attack on Titan\" Spikes in US Search Interest",
-      "summary": "Search interest in the anime franchise \"Attack on Titan\" spiked in the United States, according to Google Trends data.",
-      "url": "https://trends.google.com/trends/explore?q=attack%20on%20titan&geo=US",
-      "source": "Google Trends (US)",
-      "published_at": "2026-10-17T08:20:00Z",
-      "category": "social-trends",
-      "tags": [
-        "anime",
-        "search-trend"
-      ]
-    },
-    {
-      "id": "social-trends-denzel-20washington",
-      "title": "Denzel Washington Trends on Google Search",
-      "summary": "Actor Denzel Washington saw a spike in US search interest, according to Google Trends data.",
-      "url": "https://trends.google.com/trends/explore?q=denzel%20washington&geo=US",
-      "source": "Google Trends (US)",
-      "published_at": "2026-10-17T07:50:00Z",
-      "category": "social-trends",
-      "tags": [
-        "actor",
-        "search-trend"
-      ]
-    },
-    {
-      "id": "social-masto-117455101778898751",
-      "title": "Post Claims Gemini 4 Argon Codes 3D Scenes Instead of Generating Video",
-      "summary": "A post argues Google's Gemini 4 Argon demos actually generate working Blender and Three.js scene code with physics, rather than rendering AI video directly.",
-      "url": "https://mastodon.social/@Caramba1/117455101778898751",
-      "source": "@Caramba1@mastodon.social · Mastodon",
-      "published_at": "2026-10-17T07:37:02Z",
-      "category": "social-vfx",
-      "tags": [
-        "ai-tools",
-        "blender"
-      ]
-    },
-    {
-      "id": "social-trends-jennifer-20connelly",
-      "title": "Jennifer Connelly Trends on Google Search",
-      "summary": "Actor Jennifer Connelly saw a spike in US search interest, according to Google Trends data.",
-      "url": "https://trends.google.com/trends/explore?q=jennifer%20connelly&geo=US",
-      "source": "Google Trends (US)",
-      "published_at": "2026-10-17T07:00:00Z",
-      "category": "social-trends",
-      "tags": [
-        "actor",
-        "search-trend"
-      ]
-    },
-    {
-      "id": "news-indiewire-artlist-the-arc-tests-if-ai-can-make-sci-fi-series",
-      "title": "Artlist Tests Whether AI Can Make a Sci-Fi Series for $38,000",
-      "summary": "Artlist's experimental project 'The Arc' examines whether generative AI tools can produce a complete sci-fi series on a $38,000 budget.",
-      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
-      "source": "IndieWire",
-      "published_at": "2026-10-16T22:35:10Z",
-      "category": "ai-creative",
-      "tags": [
-        "ai-production",
-        "budget-test"
-      ]
-    },
-    {
-      "id": "news-hollywoodreporter-hello82-kpop-festival-82-world-ateez-p1harmony-123",
-      "title": "K-pop Firm Hello82 Launches Inaugural 82World Festival in Los Angeles",
-      "summary": "K-pop entertainment company Hello82 launched its first 82World festival in Los Angeles, headlined by ATEEZ, targeting the fan-focused festival market.",
-      "url": "https://www.hollywoodreporter.com/music/music-features/hello82-kpop-festival-82-world-ateez-p1harmony-1236733943/",
-      "source": "The Hollywood Reporter",
-      "published_at": "2026-10-16T22:15:17Z",
+      "id": "news-pitchfork-justice-composed-the-score-for-grand-theft-auto-vi",
+      "title": "Justice Composes Score for Grand Theft Auto VI",
+      "summary": "French electronic duo Justice scored Grand Theft Auto VI and enlisted Tame Impala, SZA and King Gizzard for a soundtrack single.",
+      "url": "https://pitchfork.com/story/justice-composed-the-score-for-grand-theft-auto-vi/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-15T16:52:34Z",
       "category": "trends-culture",
       "tags": [
-        "festival-launch",
-        "k-pop"
+        "gaming",
+        "soundtrack"
       ]
     },
     {
-      "id": "news-deadline-box-office-street-fighter-you-can-see-everything-1",
-      "title": "'Street Fighter' Opens Below Expectations With $30M Weekend",
-      "summary": "Paramount's 'Street Fighter' reboot opened at the low end of forecasts near $30 million at the box office.",
-      "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/",
-      "source": "Deadline",
-      "published_at": "2026-10-16T21:39:00Z",
-      "category": "business-funding",
+      "id": "news-pitchfork-blondie-new-album",
+      "title": "Blondie Announce First Album in Nine Years",
+      "summary": "Blondie revealed a new album, 'High Noon,' featuring Johnny Marr, Glen Matlock and Zach Condon, led by single 'Spectral Eyes.'",
+      "url": "https://pitchfork.com/story/blondie-announce-first-album-in-nine-years/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-15T13:51:05Z",
+      "category": "trends-culture",
       "tags": [
-        "box-office"
-      ]
-    },
-    {
-      "id": "news-deadline-red-rising-movie-francis-lawrence-to-direct-paramo",
-      "title": "Francis Lawrence to Direct 'Red Rising' Adaptation for Paramount",
-      "summary": "Paramount acquired film rights to Pierce Brown's 'Red Rising' book series and set 'Hunger Games' director Francis Lawrence to direct.",
-      "url": "https://deadline.com/2026/10/red-rising-movie-francis-lawrence-to-direct-paramount-1237165870/",
-      "source": "Deadline",
-      "published_at": "2026-10-16T21:18:47Z",
-      "category": "productions",
-      "tags": [
-        "greenlight",
-        "book-adaptation"
-      ]
-    },
-    {
-      "id": "social-masto-117452496158072649",
-      "title": "Artist Shares Chladni-Inspired Particle Effects Made in Blender",
-      "summary": "Motion artist Curtis James Holt shared Blender Cycles particle effects inspired by Chladni patterns for his series 'The Connected Space.'",
-      "url": "https://mas.to/@curtisjamesholt/117452496158072649",
-      "source": "@curtisjamesholt@mas.to · Mastodon",
-      "published_at": "2026-10-16T20:34:23Z",
-      "category": "social-vfx",
-      "tags": [
-        "blender",
-        "particle-fx"
-      ]
-    },
-    {
-      "id": "social-masto-117452483957207001",
-      "title": "Free Course Breaks Down Production of Clairo's 'Bags'",
-      "summary": "A free 48-hour video course featuring Clairo and Rostam Batmanglij covers the production and mixing techniques behind the indie-pop track 'Bags.'",
-      "url": "https://mastodon.social/@legalvst/117452483957207001",
-      "source": "@legalvst@mastodon.social · Mastodon",
-      "published_at": "2026-10-16T20:31:17Z",
-      "category": "social-music",
-      "tags": [
-        "tutorial",
-        "indie-pop"
-      ]
-    },
-    {
-      "id": "news-indiewire-fall-festival-movies-sold-so-far-babies-ink-elsino",
-      "title": "Chase Infiniti's 'The Julia Set' Acquired by Sony Pictures Classics",
-      "summary": "Sony Pictures Classics acquired Niki Byrne's college drama 'The Julia Set,' starring Chase Infiniti, following its TIFF premiere.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "source": "IndieWire",
-      "published_at": "2026-10-16T18:00:00Z",
-      "category": "productions",
-      "tags": [
-        "acquisition",
-        "festival"
-      ]
-    },
-    {
-      "id": "news-indiewire-alex-gibney-elon-musk-documentary-simulated-ai-int",
-      "title": "Alex Gibney Used a CGI Avatar to Simulate an Elon Musk Interview",
-      "summary": "Documentary filmmaker Alex Gibney's team built a CGI avatar to simulate an interview with Elon Musk for his documentary 'Musk.'",
-      "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
-      "source": "IndieWire",
-      "published_at": "2026-10-16T17:00:00Z",
-      "category": "ai-creative",
-      "tags": [
-        "documentary",
-        "cgi-avatar"
-      ]
-    },
-    {
-      "id": "news-awn-explosm-brings-its-cryptid-comedy-animation-and-tu",
-      "title": "Explosm's 'America's Next Top Cryptid' Launches on Animation+ and Tubi",
-      "summary": "The 'Cyanide & Happiness' team's new animated comedy series premiered free on Tubi through a production partnership with Animation+.",
-      "url": "https://www.awn.com/news/explosm-brings-its-cryptid-comedy-animation-and-tubi",
-      "source": "Animation World Network",
-      "published_at": "2026-10-16T14:31:02Z",
-      "category": "streaming",
-      "tags": [
-        "series-launch",
-        "comedy"
-      ]
-    },
-    {
-      "id": "social-masto-117450675301757805",
-      "title": "New Platform Exibeat Aims to Connect DJs Directly With Producers",
-      "summary": "A new platform called Exibeat lets producers send unreleased tracks to DJs, who can play, buy and give feedback, with label integration planned.",
-      "url": "https://mstdn.social/@consint/117450675301757805",
-      "source": "@consint@mstdn.social · Mastodon",
-      "published_at": "2026-10-16T12:51:19Z",
-      "category": "social-music",
-      "tags": [
-        "new-platform",
-        "dj-tools"
-      ]
-    },
-    {
-      "id": "news-variety-hal-hickel-mandalorian-grogu",
-      "title": "'Mandalorian and Grogu' VFX Veteran Hal Hickel Discusses Rotta's Redesign",
-      "summary": "ILM animation supervisor Hal Hickel discusses modeling 'The Mandalorian and Grogu' creature work on stop-motion pioneer Phil Tippett's approach.",
-      "url": "https://variety.com/2026/film/global/the-mandalorian-and-grogu-vfx-hal-hickel-phil-tippett-1236913822/",
-      "source": "Variety",
-      "published_at": "2026-10-16T09:08:16Z",
-      "category": "notable-work",
-      "tags": [
-        "ilm",
-        "mandalorian"
-      ]
-    },
-    {
-      "id": "social-vfx-pruferjan-opus-blender-architecture",
-      "title": "AI Tools Generate Blender Architecture Film, With Mixed Accuracy",
-      "summary": "A creator used Claude Opus to script a Blender architecture visualization short, cutting render time but noting building position and room-label errors.",
-      "url": "https://mastodon.social/@PruferJan/117449773887252958",
-      "source": "@PruferJan · Mastodon",
-      "published_at": "2026-10-16T09:02:05Z",
-      "category": "social-vfx",
-      "tags": [
-        "ai-tools",
-        "blender"
-      ]
-    },
-    {
-      "id": "news-musictech-audient-horizon-review",
-      "title": "Audient Enters High-End Interface Market With Horizon System",
-      "summary": "Audient launched Horizon, a high-end audio interface system aimed at larger studios, expanding beyond its established iD interface range.",
-      "url": "https://musictech.com/reviews/studio-recording-gear/audient-horizon-review/",
-      "source": "MusicTech",
-      "published_at": "2026-10-16T08:00:37Z",
-      "category": "music-tech",
-      "tags": [
-        "hardware",
-        "audio-interface"
-      ]
-    },
-    {
-      "id": "social-trends-morris-chestnut",
-      "title": "Morris Chestnut",
-      "summary": "Actor Morris Chestnut was a spiking US search term, reflecting renewed attention tied to his current film or TV work.",
-      "url": "https://trends.google.com/trends/explore?q=morris%20chestnut&geo=US",
-      "source": "Google Trends (US)",
-      "published_at": "2026-10-16T07:30:00Z",
-      "category": "social-trends",
-      "tags": [
-        "actor",
-        "trending"
-      ]
-    },
-    {
-      "id": "news-billboard-nsw-music-prize-shortlist",
-      "title": "Ninajirachi, Boy Soda, Keli Holiday Shortlisted for 2026 NSW Music Prize",
-      "summary": "Ninajirachi, Boy Soda and Keli Holiday are among the finalists for the 2026 NSW Music Prize, with winners announced November 9 in Sydney.",
-      "url": "https://www.billboard.com/music/awards/ninajirachi-boy-soda-keli-holiday-shortlist-nsw-music-prize-1236361714/",
-      "source": "Billboard",
-      "published_at": "2026-10-16T03:20:40Z",
-      "category": "emerging-artists",
-      "tags": [
-        "award",
-        "nsw-music-prize"
-      ]
-    },
-    {
-      "id": "news-deadline-netflix-shakeup-rice-bajaria",
-      "title": "Netflix Content Chief Shakeup: Peter Rice In, Bela Bajaria Out",
-      "summary": "Netflix co-CEO Ted Sarandos replaced 10-year veteran Bela Bajaria as Chief Content Officer with Peter Rice amid slowing growth and layoffs.",
-      "url": "https://deadline.com/2026/10/netflix-shakeup-analysis-peter-rice-bela-bajaria-whats-next-1237158959/",
-      "source": "Deadline",
-      "published_at": "2026-10-16T03:05:25Z",
-      "category": "streaming",
-      "tags": [
-        "netflix",
-        "exec-change"
-      ]
-    },
-    {
-      "id": "news-thr-ticket-broker-feds-lawsuit",
-      "title": "Feds Sue Ticket Broker Over Alleged $120M Beyoncé, Pitbull Scheme",
-      "summary": "The DOJ and FTC sued a San Diego ticket broker accused of violating the BOTS Act to resell tickets at steep markups.",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/feds-sue-ticket-broker-firm-over-alleged-120m-scheme-1236733407/",
-      "source": "The Hollywood Reporter",
-      "published_at": "2026-10-16T00:12:07Z",
-      "category": "business-funding",
-      "tags": [
-        "ticket-fraud",
-        "lawsuit"
+        "new-album",
+        "blondie"
       ]
     },
     {
@@ -297,31 +38,6 @@
       "tags": [
         "ticketing",
         "legal"
-      ]
-    },
-    {
-      "id": "news-indiewire-batman-part-ii-soderbergh",
-      "title": "'The Batman: Part II' Resumes Production With Soderbergh Filling In",
-      "summary": "Production on 'The Batman: Part II' resumed with Steven Soderbergh stepping in temporarily while director Matt Reeves attends to a family matter.",
-      "url": "https://www.indiewire.com/news/breaking-news/the-batman-part-ii-production-resumes-steven-soderbergh-1235222313/",
-      "source": "IndieWire",
-      "published_at": "2026-10-15T22:28:30Z",
-      "category": "productions",
-      "tags": [
-        "production-update"
-      ]
-    },
-    {
-      "id": "news-cdm-teenage-engineering-op-xy-update",
-      "title": "Teenage Engineering Adds Drum Synth to op-xy",
-      "summary": "Teenage engineering updated its op-xy device with a new built-in drum synth and expanded sound-shaping tools.",
-      "url": "https://cdm.link/teenage-engineering-op-xy-added-a-drum-synth-sound-shaping-more/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-15T20:37:02Z",
-      "category": "music-tech",
-      "tags": [
-        "hardware",
-        "firmware-update"
       ]
     },
     {
@@ -364,68 +80,106 @@
       ]
     },
     {
-      "id": "news-pitchfork-justice-composed-the-score-for-grand-theft-auto-vi",
-      "title": "Justice Composes Score for Grand Theft Auto VI",
-      "summary": "French electronic duo Justice scored Grand Theft Auto VI and enlisted Tame Impala, SZA and King Gizzard for a soundtrack single.",
-      "url": "https://pitchfork.com/story/justice-composed-the-score-for-grand-theft-auto-vi/",
-      "source": "Pitchfork",
-      "published_at": "2026-10-15T16:52:34Z",
-      "category": "trends-culture",
+      "id": "news-musicbusinessworldwide-mohnish-sani-appointed-head-of-strategy-and-growth",
+      "title": "Mohnish Sani Appointed Head of Strategy and Growth at HYBE Americas",
+      "summary": "HYBE Americas created a newly established Head of Strategy and Growth role and appointed Mohnish Sani to fill it.",
+      "url": "https://www.musicbusinessworldwide.com/mohnish-sani-appointed-head-of-strategy-and-growth-for-hybe-americas/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-15T13:24:46Z",
+      "category": "labels-industry",
       "tags": [
-        "gaming",
-        "soundtrack"
+        "exec-move"
       ]
     },
     {
-      "id": "news-indiewire-bleecker-street-outerlight-acquisition",
-      "title": "Bleecker Street Acquired by Outerlight Entertainment",
-      "summary": "Indie distributor Bleecker Street was acquired by Outerlight Entertainment, formerly First Look, with CEO Kent Sanderson continuing to lead it independently.",
-      "url": "https://www.indiewire.com/news/breaking-news/bleecker-street-acquired-formerly-first-look-1235222118/",
-      "source": "IndieWire",
-      "published_at": "2026-10-15T16:34:10Z",
-      "category": "business-funding",
+      "id": "news-mbw-katovsky-pipeline-ceo",
+      "title": "Ben Katovsky Joins Matt Spetzler's Pipeline as CEO",
+      "summary": "Former Recognition Music CEO Ben Katovsky becomes CEO of Pipeline, the $200 million artist-advance platform launched by Matt Spetzler's Jamen Capital.",
+      "url": "https://www.musicbusinessworldwide.com/ben-katovsky-joins-matt-spetzlers-pipeline-as-ceo/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-14T23:01:08Z",
+      "category": "labels-industry",
       "tags": [
-        "acquisition",
-        "bleecker-street"
+        "exec-hire",
+        "music-finance"
       ]
     },
     {
-      "id": "social-music-waldorf-chutney-librarian",
-      "title": "Waldorf Releases Free Chutney Librarian App for Protein Synth",
-      "summary": "Waldorf Music launched Chutney Librarian, a free standalone macOS and Windows app for managing and backing up Waldorf Protein synth sounds.",
-      "url": "https://mastodon.social/@waldorfmusic/117445757912964838",
-      "source": "@waldorfmusic@mastodon.social · Mastodon",
-      "published_at": "2026-10-15T16:00:46Z",
-      "category": "social-music",
+      "id": "news-mbw-streaming-songwriter-rates-2028",
+      "title": "Streaming Services File Songwriter Royalty Rate Proposals for 2028-2032",
+      "summary": "Amazon, Spotify, Apple, Pandora and Google filed proposed mechanical royalty rates for songwriters covering 2028 through 2032 in Phonorecords V.",
+      "url": "https://www.musicbusinessworldwide.com/heres-exactly-what-amazon-spotify-apple-and-other-streaming-services-want-to-pay-songwriters-for-2028-2032/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-14T19:03:58Z",
+      "category": "labels-industry",
       "tags": [
-        "free-tool",
-        "synth"
+        "royalties",
+        "streaming"
       ]
     },
     {
-      "id": "news-awn-astra-studios-astralabs",
-      "title": "Astra Studios Launches AstraLabs, Partners With VerSe on AI Pipeline",
-      "summary": "Hombale Group-backed Astra Studios launched AstraLabs and will co-develop an AI-native production pipeline with Dailyhunt parent VerSe, built on SparkStation.",
-      "url": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline",
-      "source": "Animation World Network",
-      "published_at": "2026-10-15T15:20:00Z",
-      "category": "studios-companies",
+      "id": "news-musictech-audient-horizon-review",
+      "title": "Audient Enters High-End Interface Market With Horizon System",
+      "summary": "Audient launched Horizon, a high-end audio interface system aimed at larger studios, expanding beyond its established iD interface range.",
+      "url": "https://musictech.com/reviews/studio-recording-gear/audient-horizon-review/",
+      "source": "MusicTech",
+      "published_at": "2026-10-16T08:00:37Z",
+      "category": "music-tech",
       "tags": [
-        "ai-pipeline",
-        "partnership"
+        "hardware",
+        "audio-interface"
       ]
     },
     {
-      "id": "social-vfx-artofvfx-avatar-earthbending",
-      "title": "Avatar: The Last Airbender VFX Team Discusses Earthbending Sequences",
-      "summary": "Production VFX supervisor Marion Spates and producer Adam Chazen discussed earthbending work by Accenture Song, Eyeline, Framestore and other studios.",
-      "url": "https://mastodon.social/@artofvfx/117445520670797579",
-      "source": "@artofvfx@mastodon.social · Mastodon",
-      "published_at": "2026-10-15T15:00:26Z",
-      "category": "social-vfx",
+      "id": "news-musictech-alphatheta-hdj-f9-wireless-dj-headphones",
+      "title": "AlphaTheta Launches HDJ-F9 Wireless DJ Headphones",
+      "summary": "AlphaTheta released wireless HDJ-F9 headphones for DJs, using its SonicLink low-latency technology to remove cable restrictions during sets.",
+      "url": "https://musictech.com/news/gear/alphatheta-hdj-f9-wireless-dj-headphones/",
+      "source": "MusicTech",
+      "published_at": "2026-10-15T10:24:33Z",
+      "category": "music-tech",
       "tags": [
-        "breakdown",
-        "tv-vfx"
+        "hardware",
+        "dj-gear"
+      ]
+    },
+    {
+      "id": "news-cdm-teenage-engineering-op-xy-update",
+      "title": "Teenage Engineering Adds Drum Synth to op-xy",
+      "summary": "Teenage engineering updated its op-xy device with a new built-in drum synth and expanded sound-shaping tools.",
+      "url": "https://cdm.link/teenage-engineering-op-xy-added-a-drum-synth-sound-shaping-more/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-10-15T20:37:02Z",
+      "category": "music-tech",
+      "tags": [
+        "hardware",
+        "firmware-update"
+      ]
+    },
+    {
+      "id": "news-cdm-max-9-2",
+      "title": "Cycling '74 Ships Max 9.2 With V8 FFT Updates",
+      "summary": "Cycling '74 released Max 9.2, adding V8 JavaScript FFT improvements, better Windows support, and updates to Jitter, Gen and Ableton abl.",
+      "url": "https://cdm.link/max-9-2/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-10-14T16:03:11Z",
+      "category": "music-tech",
+      "tags": [
+        "software-update",
+        "max-msp"
+      ]
+    },
+    {
+      "id": "news-cdm-cdm-link-beads-is-now-open-source",
+      "title": "Mutable Instruments' Beads Granular Module Goes Fully Open Source",
+      "summary": "Beads, Emilie Gillet's granular texture synthesizer and the last Mutable Instruments module, is now completely open source.",
+      "url": "https://cdm.link/beads-is-now-open-source/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-10-12T14:59:38Z",
+      "category": "music-tech",
+      "tags": [
+        "open-source",
+        "modular"
       ]
     },
     {
@@ -442,41 +196,94 @@
       ]
     },
     {
-      "id": "news-pitchfork-blondie-new-album",
-      "title": "Blondie Announce First Album in Nine Years",
-      "summary": "Blondie revealed a new album, 'High Noon,' featuring Johnny Marr, Glen Matlock and Zach Condon, led by single 'Spectral Eyes.'",
-      "url": "https://pitchfork.com/story/blondie-announce-first-album-in-nine-years/",
-      "source": "Pitchfork",
-      "published_at": "2026-10-15T13:51:05Z",
-      "category": "trends-culture",
+      "id": "news-beforesandafters-framestore-appa",
+      "title": "Framestore Breaks Down Creating Appa for Avatar: The Last Airbender",
+      "summary": "Framestore shared behind-the-scenes detail on building the flying bison Appa for season two of Avatar: The Last Airbender.",
+      "url": "https://beforesandafters.com/2026/10/15/how-framestore-made-appa/",
+      "source": "befores & afters",
+      "published_at": "2026-10-14T16:26:52Z",
+      "category": "notable-work",
       "tags": [
-        "new-album",
-        "blondie"
+        "creature-fx",
+        "breakdown"
       ]
     },
     {
-      "id": "news-musicbusinessworldwide-mohnish-sani-appointed-head-of-strategy-and-growth",
-      "title": "Mohnish Sani Appointed Head of Strategy and Growth at HYBE Americas",
-      "summary": "HYBE Americas created a newly established Head of Strategy and Growth role and appointed Mohnish Sani to fill it.",
-      "url": "https://www.musicbusinessworldwide.com/mohnish-sani-appointed-head-of-strategy-and-growth-for-hybe-americas/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-10-15T13:24:46Z",
-      "category": "labels-industry",
+      "id": "news-beforesandafters-reallusion-escapeai-partnership",
+      "title": "Reallusion and Escape.AI Partner on AI Video Pipeline",
+      "summary": "Reallusion formed a strategic alliance with John Gaeta's Escape.AI, connecting Reallusion's 3D ecosystem to the Neo Cinema AI video platform.",
+      "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/",
+      "source": "befores & afters",
+      "published_at": "2026-10-13T15:49:43Z",
+      "category": "ai-creative",
       "tags": [
-        "exec-move"
+        "partnership",
+        "ai-video"
       ]
     },
     {
-      "id": "social-vfx-killbait-spiderman-hulk-redesign",
-      "title": "'Spider-Man: Brand New Day' VFX Boss Details Hulk Redesign",
-      "summary": "VFX supervisor Jerome Chen discusses redesigning the Hulk and finishing 445 effects shots in a single week on 'Spider-Man: Brand New Day.'",
-      "url": "https://mastodon.social/@killbait/117445125701025604",
-      "source": "@killbait · Mastodon",
-      "published_at": "2026-10-15T13:19:59Z",
-      "category": "social-vfx",
+      "id": "news-beforesandafters-com-2026-10-12-creating-the-spinosaurus-for",
+      "title": "Creating the Spinosaurus Creature for 'The End of Oak Street'",
+      "summary": "Visual effects artists combined practical and digital techniques to build the Spinosaurus creature featured in 'The End of Oak Street.'",
+      "url": "https://beforesandafters.com/2026/10/12/creating-the-spinosaurus-for-the-end-of-oak-street/",
+      "source": "befores & afters",
+      "published_at": "2026-10-12T07:35:58Z",
+      "category": "notable-work",
       "tags": [
-        "spider-man",
-        "hulk"
+        "creature-fx",
+        "breakdown"
+      ]
+    },
+    {
+      "id": "news-fxguide-dneg-on-making-cartoon-logic-work-in-coyote-vs-acm",
+      "title": "DNEG Explains Making Cartoon Physics Work in 'Coyote vs. Acme'",
+      "summary": "DNEG's VFX supervisor and animation director discuss building believable cartoon logic and physics for 'Coyote vs. Acme.'",
+      "url": "https://www.fxguide.com/fxpodcasts/dneg-on-making-cartoon-logic-work-in-coyote-vs-acme/",
+      "source": "fxguide",
+      "published_at": "2026-10-08T01:01:14Z",
+      "category": "notable-work",
+      "tags": [
+        "animation",
+        "breakdown"
+      ]
+    },
+    {
+      "id": "news-fxguide-creating-4k-from-apple-immersive-avp",
+      "title": "New Process Converts Apple Immersive Video to Faithful 4K",
+      "summary": "A new conversion process expands the audience for Apple Immersive Video films by producing faithful 4K versions of the format.",
+      "url": "https://www.fxguide.com/quicktakes/creating-4k-from-apple-immersive-avp/",
+      "source": "fxguide",
+      "published_at": "2026-10-06T07:58:39Z",
+      "category": "vfx-tech",
+      "tags": [
+        "immersive-video",
+        "workflow"
+      ]
+    },
+    {
+      "id": "news-awn-explosm-brings-its-cryptid-comedy-animation-and-tu",
+      "title": "Explosm's 'America's Next Top Cryptid' Launches on Animation+ and Tubi",
+      "summary": "The 'Cyanide & Happiness' team's new animated comedy series premiered free on Tubi through a production partnership with Animation+.",
+      "url": "https://www.awn.com/news/explosm-brings-its-cryptid-comedy-animation-and-tubi",
+      "source": "Animation World Network",
+      "published_at": "2026-10-16T14:31:02Z",
+      "category": "streaming",
+      "tags": [
+        "series-launch",
+        "comedy"
+      ]
+    },
+    {
+      "id": "news-awn-astra-studios-astralabs",
+      "title": "Astra Studios Launches AstraLabs, Partners With VerSe on AI Pipeline",
+      "summary": "Hombale Group-backed Astra Studios launched AstraLabs and will co-develop an AI-native production pipeline with Dailyhunt parent VerSe, built on SparkStation.",
+      "url": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline",
+      "source": "Animation World Network",
+      "published_at": "2026-10-15T15:20:00Z",
+      "category": "studios-companies",
+      "tags": [
+        "ai-pipeline",
+        "partnership"
       ]
     },
     {
@@ -532,96 +339,6 @@
       ]
     },
     {
-      "id": "news-musictech-alphatheta-hdj-f9-wireless-dj-headphones",
-      "title": "AlphaTheta Launches HDJ-F9 Wireless DJ Headphones",
-      "summary": "AlphaTheta released wireless HDJ-F9 headphones for DJs, using its SonicLink low-latency technology to remove cable restrictions during sets.",
-      "url": "https://musictech.com/news/gear/alphatheta-hdj-f9-wireless-dj-headphones/",
-      "source": "MusicTech",
-      "published_at": "2026-10-15T10:24:33Z",
-      "category": "music-tech",
-      "tags": [
-        "hardware",
-        "dj-gear"
-      ]
-    },
-    {
-      "id": "social-trends-halle-berry",
-      "title": "Halle Berry",
-      "summary": "Halle Berry is trending in US Google searches, likely tied to recent film, press or awards-season coverage.",
-      "url": "https://trends.google.com/trends/explore?q=halle%20berry&geo=US",
-      "source": "Google Trends (US)",
-      "published_at": "2026-10-15T09:00:00Z",
-      "category": "social-trends",
-      "tags": [
-        "search-trend"
-      ]
-    },
-    {
-      "id": "news-variety-mipcom-youtube-consolidation",
-      "title": "YouTube's Rise and Industry Consolidation Define a Busy Mipcom",
-      "summary": "Mipcom coverage highlights a 'virtuous circle' forming between legacy media and YouTube, alongside accelerating consolidation among entertainment platforms.",
-      "url": "https://variety.com/2026/tv/global/youtube-consolidation-christie-brinkley-baywatch-mipcom-1236912667/",
-      "source": "Variety",
-      "published_at": "2026-10-15T08:04:00Z",
-      "category": "trends-culture",
-      "tags": [
-        "mipcom",
-        "consolidation"
-      ]
-    },
-    {
-      "id": "news-deadline-friends-channel4-return",
-      "title": "'Friends' Returns to Channel 4 in UK After 15 Years",
-      "summary": "Channel 4 reacquired UK rights to 'Friends,' with all 10 seasons set to air starting January 2027 after the show moved away from the network.",
-      "url": "https://deadline.com/2026/10/friends-returning-channel-4-uk-stays-hbo-max-1237157876/",
-      "source": "Deadline",
-      "published_at": "2026-10-15T08:00:00Z",
-      "category": "streaming",
-      "tags": [
-        "licensing",
-        "channel4"
-      ]
-    },
-    {
-      "id": "news-mbw-katovsky-pipeline-ceo",
-      "title": "Ben Katovsky Joins Matt Spetzler's Pipeline as CEO",
-      "summary": "Former Recognition Music CEO Ben Katovsky becomes CEO of Pipeline, the $200 million artist-advance platform launched by Matt Spetzler's Jamen Capital.",
-      "url": "https://www.musicbusinessworldwide.com/ben-katovsky-joins-matt-spetzlers-pipeline-as-ceo/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-10-14T23:01:08Z",
-      "category": "labels-industry",
-      "tags": [
-        "exec-hire",
-        "music-finance"
-      ]
-    },
-    {
-      "id": "news-indiewire-netflix-box-office-data",
-      "title": "Netflix Begins Reporting Box Office Data, Starting With 'La Bola Negra'",
-      "summary": "Netflix started publicly reporting theatrical box office figures, testing the practice with limited-release awards hopeful 'La Bola Negra' first.",
-      "url": "https://www.indiewire.com/news/box-office/netflix-reporting-box-office-data-la-bola-negra-narnia-cliff-booth-1235221844/",
-      "source": "IndieWire",
-      "published_at": "2026-10-14T22:30:00Z",
-      "category": "streaming",
-      "tags": [
-        "box-office-data",
-        "netflix"
-      ]
-    },
-    {
-      "id": "news-mbw-streaming-songwriter-rates-2028",
-      "title": "Streaming Services File Songwriter Royalty Rate Proposals for 2028-2032",
-      "summary": "Amazon, Spotify, Apple, Pandora and Google filed proposed mechanical royalty rates for songwriters covering 2028 through 2032 in Phonorecords V.",
-      "url": "https://www.musicbusinessworldwide.com/heres-exactly-what-amazon-spotify-apple-and-other-streaming-services-want-to-pay-songwriters-for-2028-2032/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-10-14T19:03:58Z",
-      "category": "labels-industry",
-      "tags": [
-        "royalties",
-        "streaming"
-      ]
-    },
-    {
       "id": "news-awn-exclusive-clip-akira-creator-katsuhiro-otomo-tezuk",
       "title": "Crowdfunded Documentary on 'Akira' Creator Katsuhiro Otomo Launches Campaign",
       "summary": "Filmmakers including 'Spider-Verse' producer Jinko Gotoh are crowdfunding a feature documentary on 'Akira' creator Katsuhiro Otomo.",
@@ -632,58 +349,6 @@
       "tags": [
         "documentary",
         "crowdfunding"
-      ]
-    },
-    {
-      "id": "news-mbw-youtube-music-ai-labels",
-      "title": "YouTube Music Starts Labeling AI-Generated Songs",
-      "summary": "YouTube Music began tagging tracks it determines were primarily AI-generated, combining partner disclosures with its own detection tools.",
-      "url": "https://www.musicbusinessworldwide.com/youtube-music-starts-labeling-ai-generated-songs-using-partner-disclosures-and-its-own-detection-tools/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-10-14T16:37:08Z",
-      "category": "ai-creative",
-      "tags": [
-        "ai-music",
-        "labeling"
-      ]
-    },
-    {
-      "id": "news-beforesandafters-framestore-appa",
-      "title": "Framestore Breaks Down Creating Appa for Avatar: The Last Airbender",
-      "summary": "Framestore shared behind-the-scenes detail on building the flying bison Appa for season two of Avatar: The Last Airbender.",
-      "url": "https://beforesandafters.com/2026/10/15/how-framestore-made-appa/",
-      "source": "befores & afters",
-      "published_at": "2026-10-14T16:26:52Z",
-      "category": "notable-work",
-      "tags": [
-        "creature-fx",
-        "breakdown"
-      ]
-    },
-    {
-      "id": "news-mbw-umg-layoffs-270m",
-      "title": "Multiple Layoffs at Universal Music Group as $270M Cost-Cutting Continues",
-      "summary": "Universal Music Group's ongoing $270 million cost-cutting program claims more executives, including Tunji Balogun, Ben Mortimer and Sam Riback.",
-      "url": "https://www.musicbusinessworldwide.com/multiple-layoffs-at-universal-cutting-program-continues/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-10-14T16:23:53Z",
-      "category": "business-funding",
-      "tags": [
-        "layoffs",
-        "umg"
-      ]
-    },
-    {
-      "id": "news-cdm-max-9-2",
-      "title": "Cycling '74 Ships Max 9.2 With V8 FFT Updates",
-      "summary": "Cycling '74 released Max 9.2, adding V8 JavaScript FFT improvements, better Windows support, and updates to Jitter, Gen and Ableton abl.",
-      "url": "https://cdm.link/max-9-2/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-14T16:03:11Z",
-      "category": "music-tech",
-      "tags": [
-        "software-update",
-        "max-msp"
       ]
     },
     {
@@ -700,129 +365,220 @@
       ]
     },
     {
-      "id": "news-awn-archer-creators-hbo-jack-ripper",
-      "title": "'Archer' Creators Return With Jack the Ripper Time-Travel Comedy at HBO",
-      "summary": "Adam Reed, Casey Willis and Lucky Yates landed a two-season commitment at HBO for a new half-hour comedy set in a secret Victorian temporal unit.",
-      "url": "https://www.awn.com/news/archer-creators-return-jack-ripper-time-travel-comedy-hbo",
-      "source": "Animation World Network",
-      "published_at": "2026-10-14T13:11:32Z",
-      "category": "productions",
-      "tags": [
-        "greenlight",
-        "hbo"
-      ]
-    },
-    {
-      "id": "news-billboard-dom-dolla-good-fortune-records",
-      "title": "Dom Dolla Launches Good Fortune Records",
-      "summary": "Australian DJ-producer Dom Dolla has started his own dance label, Good Fortune Records, debuting Friday with its first release.",
-      "url": "https://www.billboard.com/music/music-news/dom-dolla-lgood-fortune-records-1236360432/",
-      "source": "Billboard",
-      "published_at": "2026-10-14T04:22:26Z",
-      "category": "labels-industry",
-      "tags": [
-        "label-launch",
-        "dance-music"
-      ]
-    },
-    {
-      "id": "news-indiewire-girls-hbo-revival",
-      "title": "'Girls' Is Back: Lena Dunham and Full Cast to Reunite for Five-Episode HBO Revival",
-      "summary": "Lena Dunham and the original cast will reunite for a five-episode 'Girls' limited-series revival on HBO, a decade after the finale.",
-      "url": "https://www.indiewire.com/news/breaking-news/girls-back-lena-dunham-full-cast-reunite-episode-revival-1235221747/",
+      "id": "news-indiewire-artlist-the-arc-tests-if-ai-can-make-sci-fi-series",
+      "title": "Artlist Tests Whether AI Can Make a Sci-Fi Series for $38,000",
+      "summary": "Artlist's experimental project 'The Arc' examines whether generative AI tools can produce a complete sci-fi series on a $38,000 budget.",
+      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
       "source": "IndieWire",
-      "published_at": "2026-10-13T19:12:25Z",
+      "published_at": "2026-10-16T22:35:10Z",
+      "category": "ai-creative",
+      "tags": [
+        "ai-production",
+        "budget-test"
+      ]
+    },
+    {
+      "id": "news-indiewire-fall-festival-movies-sold-so-far-babies-ink-elsino",
+      "title": "Chase Infiniti's 'The Julia Set' Acquired by Sony Pictures Classics",
+      "summary": "Sony Pictures Classics acquired Niki Byrne's college drama 'The Julia Set,' starring Chase Infiniti, following its TIFF premiere.",
+      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
+      "source": "IndieWire",
+      "published_at": "2026-10-16T18:00:00Z",
       "category": "productions",
-      "tags": [
-        "revival",
-        "hbo"
-      ]
-    },
-    {
-      "id": "news-beforesandafters-reallusion-escapeai-partnership",
-      "title": "Reallusion and Escape.AI Partner on AI Video Pipeline",
-      "summary": "Reallusion formed a strategic alliance with John Gaeta's Escape.AI, connecting Reallusion's 3D ecosystem to the Neo Cinema AI video platform.",
-      "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/",
-      "source": "befores & afters",
-      "published_at": "2026-10-13T15:49:43Z",
-      "category": "ai-creative",
-      "tags": [
-        "partnership",
-        "ai-video"
-      ]
-    },
-    {
-      "id": "news-mbw-live-nation-bizarro-chile",
-      "title": "Live Nation Moves to Acquire Majority Stake in Concert Promoter Bizarro Chile",
-      "summary": "Live Nation is acquiring a majority stake in Chilean concert promoter Bizarro Chile, extending a regional buying spree after Bizarro Peru.",
-      "url": "https://www.musicbusinessworldwide.com/live-nation-moves-to-acquire-majority-stake-in-concert-promoter-bizarro-chile-months-after-buying-into-bizarro-peru/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-10-13T13:00:22Z",
-      "category": "business-funding",
-      "tags": [
-        "M&A",
-        "live-nation"
-      ]
-    },
-    {
-      "id": "news-mbw-deezer-block-ai-music-search",
-      "title": "Deezer to Let Users Block AI-Generated Music From Search Results",
-      "summary": "Deezer is rolling out a toggle letting listeners exclude fully AI-generated tracks from appearing in their search results.",
-      "url": "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
-      "source": "Music Business Worldwide",
-      "published_at": "2026-10-13T12:14:11Z",
-      "category": "ai-creative",
-      "tags": [
-        "ai-music",
-        "streaming"
-      ]
-    },
-    {
-      "id": "news-hollywoodreporter-hollywoodreporter-com-business-digital-disney-may-buy-charac",
-      "title": "Disney Circles Character.ai as Chatbot Company Files For Chapter 11 Bankruptcy",
-      "summary": "Disney is reportedly circling a potential acquisition of Character.ai after the chatbot company filed for Chapter 11 bankruptcy.",
-      "url": "https://www.hollywoodreporter.com/business/digital/disney-may-buy-character-ai-chatbot-chapter-11-bankruptcy-1236728629/",
-      "source": "The Hollywood Reporter",
-      "published_at": "2026-10-13T11:52:13Z",
-      "category": "business-funding",
       "tags": [
         "acquisition",
-        "ai"
+        "festival"
       ]
     },
     {
-      "id": "news-hollywoodreporter-artificial-big-tech-giant",
-      "title": "'Artificial' Took on a Big Tech Giant. Hollywood Wasn't Ready.",
-      "summary": "Luca Guadagnino and Andrew Garfield's film about Sam Altman and OpenAI was dropped by Amazon before Neon stepped in to release it.",
-      "url": "https://rbfirehose.com/2026/10/12/hollywood-reporter-artificial-took-on-a-big-tech-giant-hollywood-wasnt-ready/",
-      "source": "Hollywood Reporter",
-      "published_at": "2026-10-12T15:32:05Z",
+      "id": "news-indiewire-alex-gibney-elon-musk-documentary-simulated-ai-int",
+      "title": "Alex Gibney Used a CGI Avatar to Simulate an Elon Musk Interview",
+      "summary": "Documentary filmmaker Alex Gibney's team built a CGI avatar to simulate an interview with Elon Musk for his documentary 'Musk.'",
+      "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
+      "source": "IndieWire",
+      "published_at": "2026-10-16T17:00:00Z",
       "category": "ai-creative",
       "tags": [
-        "distribution",
-        "ai-satire"
+        "documentary",
+        "cgi-avatar"
       ]
     },
     {
-      "id": "news-cdm-cdm-link-beads-is-now-open-source",
-      "title": "Mutable Instruments' Beads Granular Module Goes Fully Open Source",
-      "summary": "Beads, Emilie Gillet's granular texture synthesizer and the last Mutable Instruments module, is now completely open source.",
-      "url": "https://cdm.link/beads-is-now-open-source/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-12T14:59:38Z",
+      "id": "news-billboard-iron-maiden-2027-tour",
+      "title": "Iron Maiden Announce Final Leg of 50th-Anniversary Tour",
+      "summary": "Iron Maiden revealed 2027 North American tour dates for the third and final leg of its 50th-anniversary trek.",
+      "url": "https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
+      "source": "Billboard",
+      "published_at": "2026-10-17T17:52:08Z",
+      "category": "trends-culture",
+      "tags": [
+        "tour",
+        "metal"
+      ]
+    },
+    {
+      "id": "news-pitchfork-lana-del-rey-zach-bryan-lies",
+      "title": "Lana Del Rey Joins Zach Bryan on New Song 'Lies'",
+      "summary": "Lana Del Rey features on Zach Bryan's new song 'Lies,' released alongside the EP he'll support with a 2027 tour.",
+      "url": "https://pitchfork.com/story/lana-del-rey-zach-bryan-new-song/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-16T04:08:05Z",
+      "category": "trends-culture",
+      "tags": [
+        "new-release",
+        "collab"
+      ]
+    },
+    {
+      "id": "news-mbw-chance-the-rapper-wins-trial-pat-corcoran",
+      "title": "Chance the Rapper Wins Second Trial Against Ex-Manager",
+      "summary": "Chance the Rapper won a second trial against ex-manager Pat Corcoran, who may forfeit up to $1.5 million in fees.",
+      "url": "https://www.musicbusinessworldwide.com/chance-the-rapper-wins-second-trial-against-ex-manager-pat-corcoran-who-must-hand-over-merch-vendor-payments-and-up-to-1-5m-in-fees-according-to-chances-team/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-15T13:48:19Z",
+      "category": "business-funding",
+      "tags": [
+        "legal",
+        "royalties"
+      ]
+    },
+    {
+      "id": "news-mbw-trump-american-music-tourism-act",
+      "title": "Trump Signs American Music Tourism Act Into Law",
+      "summary": "President Trump signed the American Music Tourism Act, directing the Commerce Department to promote travel to festivals, concerts and music events.",
+      "url": "https://www.musicbusinessworldwide.com/donald-trump-signs-american-music-tourism-act-into-law-tasking-commerce-department-with-promoting-travel-to-us-music-sites-and-events/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-15T13:20:56Z",
+      "category": "business-funding",
+      "tags": [
+        "policy",
+        "tourism"
+      ]
+    },
+    {
+      "id": "news-musictech-plugin-boutique-membership",
+      "title": "Plugin Boutique Launches Tiered Membership Programme",
+      "summary": "Plugin Boutique introduced a tiered membership programme with Silver and Gold tiers unlocked by monthly spend, rewarding frequent plugin buyers.",
+      "url": "https://musictech.com/news/gear/plugin-boutique-membership/",
+      "source": "MusicTech",
+      "published_at": "2026-10-15T09:41:53Z",
       "category": "music-tech",
       "tags": [
-        "open-source",
-        "modular"
+        "retail",
+        "plugins"
       ]
     },
     {
-      "id": "news-beforesandafters-com-2026-10-12-creating-the-spinosaurus-for",
-      "title": "Creating the Spinosaurus Creature for 'The End of Oak Street'",
-      "summary": "Visual effects artists combined practical and digital techniques to build the Spinosaurus creature featured in 'The End of Oak Street.'",
-      "url": "https://beforesandafters.com/2026/10/12/creating-the-spinosaurus-for-the-end-of-oak-street/",
+      "id": "news-musictech-bubblegum-free-pitch-plugin",
+      "title": "Bubblegum Brings Free Detailed Pitch Editing to Producers",
+      "summary": "Your Smile Is Art released Bubblegum, a free plugin with note-level pitch, timing and formant editing for Windows, macOS and a Linux beta.",
+      "url": "https://musictech.com/news/gear/bubblegum-pitch-editing-plugin/",
+      "source": "MusicTech",
+      "published_at": "2026-10-14T16:41:52Z",
+      "category": "music-tech",
+      "tags": [
+        "free-plugin",
+        "pitch-editing"
+      ]
+    },
+    {
+      "id": "news-musictech-bitwig-rekordbox-import",
+      "title": "Bitwig Adds Direct Track Import From Rekordbox",
+      "summary": "Bitwig now lets producers import tracks directly from rekordbox, marking the start of a new partnership between Bitwig and AlphaTheta.",
+      "url": "https://musictech.com/news/industry/bitwig-rekordbox-alphatheta-partnership/",
+      "source": "MusicTech",
+      "published_at": "2026-10-14T13:48:03Z",
+      "category": "music-tech",
+      "tags": [
+        "software-update",
+        "partnership"
+      ]
+    },
+    {
+      "id": "news-musictech-lewitt-lw6-headphones",
+      "title": "Lewitt Releases LW6 Wireless Studio Headphones",
+      "summary": "Lewitt launched the LW6 wireless studio headphones, aimed at producers and engineers seeking a cable-free option for monitoring and tracking.",
+      "url": "https://musictech.com/reviews/studio-recording-gear/lewitt-lw6-wireless-studio-headphones-review/",
+      "source": "MusicTech",
+      "published_at": "2026-10-13T16:11:18Z",
+      "category": "music-tech",
+      "tags": [
+        "hardware",
+        "headphones"
+      ]
+    },
+    {
+      "id": "news-cdm-drexciya-toronto-biennial",
+      "title": "Drexciya Myth Comes to the Toronto Biennial",
+      "summary": "The Drexciya myth, retold by Underground Resistance, is featured at the Toronto Biennial through December 20, accompanied by a companion playlist.",
+      "url": "https://cdm.link/drexciya-toronto/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-10-16T14:59:10Z",
+      "category": "trends-culture",
+      "tags": [
+        "exhibit",
+        "electronic-music"
+      ]
+    },
+    {
+      "id": "news-cdm-ua-volt-gen2",
+      "title": "Universal Audio Updates Volt Interfaces With Gen 2 Line",
+      "summary": "Universal Audio refreshed its Volt USB audio interface line with built-in preamp and dynamics processing, plus smart displays on higher-end models starting at $149.",
+      "url": "https://cdm.link/ua-volt-gen-2-max/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-10-13T20:18:38Z",
+      "category": "music-tech",
+      "tags": [
+        "hardware",
+        "audio-interface"
+      ]
+    },
+    {
+      "id": "news-beforesandafters-flow-studio-canvas",
+      "title": "Autodesk Flow Studio Adds Canvas Story-Development Tool",
+      "summary": "Autodesk's Flow Studio added Canvas, a new tool using AI models to help creators develop characters, worlds and story moments.",
+      "url": "https://beforesandafters.com/2026/10/14/give-your-stories-more-ways-to-take-shape-with-canvas-in-flow-studio/",
       "source": "befores & afters",
-      "published_at": "2026-10-12T07:35:58Z",
+      "published_at": "2026-10-14T10:08:52Z",
+      "category": "vfx-tech",
+      "tags": [
+        "ai-tool",
+        "pipeline"
+      ]
+    },
+    {
+      "id": "news-beforesandafters-backrooms-vfx-breakdown",
+      "title": "'Backrooms' VFX Breakdown Reveals Found-Footage Techniques",
+      "summary": "A new VFX breakdown detailed the found-footage visual effects behind 'Backrooms,' covering its opening sequence, alleyway scenes and the Vertigo Room.",
+      "url": "https://beforesandafters.com/2026/10/10/brand-new-backrooms-vfx-breakdown-is-out/",
+      "source": "befores & afters",
+      "published_at": "2026-10-09T20:45:51Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "found-footage"
+      ]
+    },
+    {
+      "id": "news-beforesandafters-the-bat-vehicle",
+      "title": "VFX Breakdown Details Vehicle Build for 'The Dark Knight Rises'",
+      "summary": "A new breakdown covers the motion-base vehicle, wirework and visual effects built for the Bat vehicle in 'The Dark Knight Rises.'",
+      "url": "https://beforesandafters.com/2026/10/10/the-crazy-vehicle-they-built-for-the-bat/",
+      "source": "befores & afters",
+      "published_at": "2026-10-09T14:13:03Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "practical-fx"
+      ]
+    },
+    {
+      "id": "news-beforesandafters-beast-man-cg",
+      "title": "Beast Man Was Fully CG in 'Masters of the Universe'",
+      "summary": "A new magazine excerpt reveals Beast Man was a fully CG character in 'Masters of the Universe,' with plates shot at a former RAF runway.",
+      "url": "https://beforesandafters.com/2026/10/09/beast-man-was-fully-cg-and-the-plates-shot-at-a-former-raf-runway/",
+      "source": "befores & afters",
+      "published_at": "2026-10-09T08:05:59Z",
       "category": "notable-work",
       "tags": [
         "creature-fx",
@@ -830,68 +586,250 @@
       ]
     },
     {
-      "id": "social-yt-https-www-youtube-com-watch-v-ZOIJNE8AXi",
-      "title": "Creators Detail AI Filmmaking Workflow Behind 'Primordia' Episode 1",
-      "summary": "A behind-the-scenes video explains the AI filmmaking pipeline used with TapNow's Creative OS to produce the first episode of 'Primordia.'",
-      "url": "https://www.youtube.com/watch?v=ZOIJNE8AXiE",
-      "source": "YouTube · Film",
-      "published_at": "2026-10-10T14:46:19Z",
-      "category": "social-youtube",
-      "tags": [
-        "ai-filmmaking",
-        "workflow"
-      ]
-    },
-    {
-      "id": "social-youtube-moviesdecoded-moana-sound",
-      "title": "Breakdown Reveals How Sound Effects for 'Moana' Were Created",
-      "summary": "A short explainer covers the sound design and foley techniques used to create effects for Disney's 'Moana.'",
-      "url": "https://www.youtube.com/watch?v=Pi7ZFhauAqA",
-      "source": "YouTube · Film",
-      "published_at": "2026-10-09T17:40:27Z",
-      "category": "social-youtube",
-      "tags": [
-        "sound-design",
-        "animation"
-      ]
-    },
-    {
-      "id": "news-fxguide-dneg-on-making-cartoon-logic-work-in-coyote-vs-acm",
-      "title": "DNEG Explains Making Cartoon Physics Work in 'Coyote vs. Acme'",
-      "summary": "DNEG's VFX supervisor and animation director discuss building believable cartoon logic and physics for 'Coyote vs. Acme.'",
-      "url": "https://www.fxguide.com/fxpodcasts/dneg-on-making-cartoon-logic-work-in-coyote-vs-acme/",
-      "source": "fxguide",
-      "published_at": "2026-10-08T01:01:14Z",
-      "category": "notable-work",
-      "tags": [
-        "animation",
-        "breakdown"
-      ]
-    },
-    {
-      "id": "social-youtube-arixo-spiderman-bite-scene",
-      "title": "Video Explains How Spider-Man's Famous Spider-Bite Scene Was Filmed",
-      "summary": "A breakdown video details the practical filming techniques behind the famous spider-bite scene from the Spider-Man franchise.",
-      "url": "https://www.youtube.com/watch?v=nU1OMGvDSwE",
-      "source": "YouTube · Film",
-      "published_at": "2026-10-07T07:08:08Z",
-      "category": "social-youtube",
-      "tags": [
-        "practical-fx",
-        "breakdown"
-      ]
-    },
-    {
-      "id": "news-fxguide-creating-4k-from-apple-immersive-avp",
-      "title": "New Process Converts Apple Immersive Video to Faithful 4K",
-      "summary": "A new conversion process expands the audience for Apple Immersive Video films by producing faithful 4K versions of the format.",
-      "url": "https://www.fxguide.com/quicktakes/creating-4k-from-apple-immersive-avp/",
-      "source": "fxguide",
-      "published_at": "2026-10-06T07:58:39Z",
+      "id": "news-beforesandafters-flow-studio-3d-editor",
+      "title": "Autodesk Flow Studio Debuts 3D Editor for Scene Staging",
+      "summary": "Autodesk's Flow Studio launched a 3D Editor letting creators stage scenes with controllable characters, CG worlds and cameras.",
+      "url": "https://beforesandafters.com/2026/10/07/step-into-the-directors-seat-with-3d-editor-in-flow-studio/",
+      "source": "befores & afters",
+      "published_at": "2026-10-07T09:11:03Z",
       "category": "vfx-tech",
       "tags": [
-        "immersive-video",
+        "ai-tool",
+        "pipeline"
+      ]
+    },
+    {
+      "id": "news-variety-ryan-gosling-zero-g-project-hail-mary",
+      "title": "VFX Supervisors Break Down Ryan Gosling's Zero-G Stunts",
+      "summary": "VFX supervisor Paul Lambert detailed how his team achieved convincing zero-gravity effects for Ryan Gosling's space epic 'Project Hail Mary.'",
+      "url": "https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/",
+      "source": "Variety",
+      "published_at": "2026-10-18T07:28:23Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "vfx-supervisor"
+      ]
+    },
+    {
+      "id": "news-variety-tarantino-tenth-film-script",
+      "title": "Quentin Tarantino Confirms He's Finished the Script for His Tenth Film",
+      "summary": "Quentin Tarantino said he has finished writing the script for his planned tenth and reportedly final feature, though he won't pursue production yet.",
+      "url": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/",
+      "source": "Variety",
+      "published_at": "2026-10-17T23:59:24Z",
+      "category": "productions",
+      "tags": [
+        "director",
+        "development"
+      ]
+    },
+    {
+      "id": "news-indiewire-dirty-dancing-sequel",
+      "title": "'Dirty Dancing' Sequel in Development to Honor Patrick Swayze",
+      "summary": "Producers are developing a 'Dirty Dancing' sequel honoring Patrick Swayze, working with Jennifer Grey to write the next chapter of Baby's story.",
+      "url": "https://www.indiewire.com/news/events/dirty-dancing-2-honor-patrick-swayze-baby-90s-1235222530/",
+      "source": "IndieWire",
+      "published_at": "2026-10-18T01:29:20Z",
+      "category": "productions",
+      "tags": [
+        "sequel",
+        "development"
+      ]
+    },
+    {
+      "id": "news-indiewire-bill-hader-they-know",
+      "title": "Bill Hader Reveals Details of Directorial Debut 'They Know'",
+      "summary": "Bill Hader shared new details about his upcoming feature directorial debut, the horror film 'They Know,' at IndieWire's Future of Filmmaking Summit.",
+      "url": "https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/",
+      "source": "IndieWire",
+      "published_at": "2026-10-17T21:43:45Z",
+      "category": "productions",
+      "tags": [
+        "director",
+        "feature-debut"
+      ]
+    },
+    {
+      "id": "news-indiewire-john-wilson-harry-styles-documentary",
+      "title": "John Wilson's Next Documentary to Follow Harry Styles's Tour",
+      "summary": "Documentarian John Wilson has turned his camera to Harry Styles's recent tour for his next project, following his feature debut 'The History of Concrete.'",
+      "url": "https://www.indiewire.com/news/breaking-news/john-wilson-documentary-harry-styles-tour-1235222552/",
+      "source": "IndieWire",
+      "published_at": "2026-10-17T19:44:28Z",
+      "category": "productions",
+      "tags": [
+        "documentary",
+        "development"
+      ]
+    },
+    {
+      "id": "news-indiewire-you-can-see-everything-previews",
+      "title": "A24's Elizabeth Holmes Documentary Scores Strong Preview Numbers",
+      "summary": "A24's 'You Can See Everything,' Nathan Fielder and Lance Oppenheim's documentary on Elizabeth Holmes, posted a $1.75 million Thursday preview gross.",
+      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-a24-elizabeth-holmes-previews-gross-1235222385/",
+      "source": "IndieWire",
+      "published_at": "2026-10-16T15:04:29Z",
+      "category": "business-funding",
+      "tags": [
+        "box-office",
+        "documentary"
+      ]
+    },
+    {
+      "id": "social-masto-117455354132229949",
+      "title": "Indie Dev Shows Terminal-Style Photo-Loading VFX for Puzzle Game",
+      "summary": "An indie developer shared a VFX technique simulating a corrupted dial-up photo load, now tied into a puzzle game's map system.",
+      "url": "https://mastodon.gamedev.place/@maxim/117455354132229949",
+      "source": "@maxim@mastodon.gamedev.place · Mastodon",
+      "published_at": "2026-10-17T08:41:12Z",
+      "category": "social-vfx",
+      "tags": [
+        "indie-dev",
+        "vfx-breakdown"
+      ]
+    },
+    {
+      "id": "social-masto-117457520570911432",
+      "title": "Framestore's 'Heart of the Beast' VFX Story Gets New Interview",
+      "summary": "Befores & Afters updated its feature on Framestore's work on 'Heart of the Beast' with a new interview with VFX supervisor Francois Dumoulin.",
+      "url": "https://mastodon.social/@beforesmag/117457520570911432",
+      "source": "@beforesmag@mastodon.social · Mastodon",
+      "published_at": "2026-10-17T17:52:10Z",
+      "category": "social-vfx",
+      "tags": [
+        "breakdown",
+        "interview"
+      ]
+    },
+    {
+      "id": "social-masto-117452496158072649",
+      "title": "Artist Shares Chladni-Inspired Particle VFX Made in Blender",
+      "summary": "A VFX artist shared Chladni-inspired particle effects created in Blender's Cycles renderer for an episode of their sci-fi series 'The Connected Space.'",
+      "url": "https://mas.to/@curtisjamesholt/117452496158072649",
+      "source": "@curtisjamesholt@mas.to · Mastodon",
+      "published_at": "2026-10-16T20:34:23Z",
+      "category": "social-vfx",
+      "tags": [
+        "blender",
+        "particle-fx"
+      ]
+    },
+    {
+      "id": "social-masto-117461024802912040",
+      "title": "UVI Releases Free UVI Player, Replacing UVI Workstation",
+      "summary": "UVI launched UVI Player, a free standalone and plugin instrument replacing UVI Workstation with Falcon Expansions support and a built-in browser.",
+      "url": "https://mastodon.social/@legalvst/117461024802912040",
+      "source": "@legalvst@mastodon.social · Mastodon",
+      "published_at": "2026-10-18T08:43:20Z",
+      "category": "social-music",
+      "tags": [
+        "free-plugin",
+        "sampler"
+      ]
+    },
+    {
+      "id": "social-masto-117458523973989969",
+      "title": "discoDSP Releases Free AI Text-to-Music Plugin WavePrompt",
+      "summary": "discoDSP launched WavePrompt, a free plugin generating music from text prompts across 34 genres with local GPU generation and MIDI export.",
+      "url": "https://mastodon.social/@legalvst/117458523973989969",
+      "source": "@legalvst@mastodon.social · Mastodon",
+      "published_at": "2026-10-17T22:07:20Z",
+      "category": "social-music",
+      "tags": [
+        "ai-music",
+        "free-plugin"
+      ]
+    },
+    {
+      "id": "social-masto-117459693387048306",
+      "title": "Free Linux Synth Plugin Formator Draws Praise Online",
+      "summary": "A musician highlighted Formator, a new free synthesizer plugin built for Linux audio users, praising its sound and intuitive interface.",
+      "url": "https://mstdn.social/@amadeus/117459693387048306",
+      "source": "@amadeus@mstdn.social · Mastodon",
+      "published_at": "2026-10-18T03:04:44Z",
+      "category": "social-music",
+      "tags": [
+        "linux-audio",
+        "free-plugin"
+      ]
+    },
+    {
+      "id": "social-masto-korg-multi-poly-review",
+      "title": "Korg's Multi/Poly Synthesizer Reviewed as Mono/Poly-Inspired Hybrid",
+      "summary": "A German outlet reviewed Korg's new Multi/Poly hardware synthesizer, combining analog-modeling sound design with wavetable synthesis and up to four layers.",
+      "url": "https://soundchills.de/korg-multi-poly-test/",
+      "source": "Mastodon #synthesizer",
+      "published_at": "2026-10-18T03:01:00Z",
+      "category": "social-music",
+      "tags": [
+        "hardware",
+        "synthesizer"
+      ]
+    },
+    {
+      "id": "social-masto-117460867502006773",
+      "title": "Filmmaker Pushes Back on Festival Fee Criticism",
+      "summary": "A film festival consultant argued that steep festival submission fees reflect real costs, calling for more transparency in how selection works.",
+      "url": "https://mastodon.social/@festforge/117460867502006773",
+      "source": "@festforge@mastodon.social · Mastodon",
+      "published_at": "2026-10-18T08:03:20Z",
+      "category": "social-people",
+      "tags": [
+        "film-festivals",
+        "commentary"
+      ]
+    },
+    {
+      "id": "social-masto-117450436468367030",
+      "title": "Editor Shares Folder-Structure Workflow for Video Projects",
+      "summary": "A filmmaking account shared editor Ben Gill's folder-structure workflow, organizing camera cards by shooting day and separating review cuts from finals.",
+      "url": "https://mastodon.social/@garyritchie/117450436468367030",
+      "source": "@garyritchie@mastodon.social · Mastodon",
+      "published_at": "2026-10-16T11:50:35Z",
+      "category": "social-people",
+      "tags": [
+        "editing",
         "workflow"
+      ]
+    },
+    {
+      "id": "social-masto-117446066405623998",
+      "title": "Filmmaking Account Breaks Down How Blocking Reveals Character",
+      "summary": "A filmmaking account explained how actor blocking, including distance and body position, conveys character psychology without dialogue.",
+      "url": "https://mastodon.social/@macwinstudios/117446066405623998",
+      "source": "@macwinstudios@mastodon.social · Mastodon",
+      "published_at": "2026-10-15T17:19:13Z",
+      "category": "social-people",
+      "tags": [
+        "directing",
+        "technique"
+      ]
+    },
+    {
+      "id": "social-trends-robin-20williams",
+      "title": "Robin Williams Trends on Google Search",
+      "summary": "Actor and comedian Robin Williams saw a spike in US search interest, according to Google Trends data.",
+      "url": "https://trends.google.com/trends/explore?q=robin%20williams&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-10-18T08:20:00Z",
+      "category": "social-trends",
+      "tags": [
+        "actor",
+        "search-trend"
+      ]
+    },
+    {
+      "id": "social-youtube-corridorcrew-gta6-vfx-breakdown",
+      "title": "VFX Artists Break Down GTA 6's Graphics",
+      "summary": "Corridor Crew's VFX artists analyzed the graphics and rendering techniques shown in Grand Theft Auto VI trailers.",
+      "url": "https://www.youtube.com/watch?v=ULM2OIj5o0I",
+      "source": "YouTube · VFX",
+      "published_at": "2026-09-20T16:30:31Z",
+      "category": "social-youtube",
+      "tags": [
+        "gaming",
+        "breakdown"
       ]
     },
     {
@@ -921,68 +859,107 @@
       ]
     },
     {
-      "id": "social-yt-https-www-youtube-com-watch-v-Owvc3p4Hrn",
-      "title": "Video Asks Whether Jacob Brashears Reinvented the Synthesizer With 'The Relic'",
-      "summary": "A feature video examines synth builder Jacob Brashears' instrument 'The Relic' and whether it represents a reinvention of the synthesizer.",
-      "url": "https://www.youtube.com/watch?v=Owvc3p4HrnA",
+      "id": "social-youtube-moviesdecoded-moana-sound",
+      "title": "Breakdown Reveals How Sound Effects for 'Moana' Were Created",
+      "summary": "A short explainer covers the sound design and foley techniques used to create effects for Disney's 'Moana.'",
+      "url": "https://www.youtube.com/watch?v=Pi7ZFhauAqA",
+      "source": "YouTube · Film",
+      "published_at": "2026-10-09T17:40:27Z",
+      "category": "social-youtube",
+      "tags": [
+        "sound-design",
+        "animation"
+      ]
+    },
+    {
+      "id": "social-youtube-arixo-spiderman-bite-scene",
+      "title": "Video Explains How Spider-Man's Famous Spider-Bite Scene Was Filmed",
+      "summary": "A breakdown video details the practical filming techniques behind the famous spider-bite scene from the Spider-Man franchise.",
+      "url": "https://www.youtube.com/watch?v=nU1OMGvDSwE",
+      "source": "YouTube · Film",
+      "published_at": "2026-10-07T07:08:08Z",
+      "category": "social-youtube",
+      "tags": [
+        "practical-fx",
+        "breakdown"
+      ]
+    },
+    {
+      "id": "social-yt-jfGVMfle07g",
+      "title": "VFX Artist Asks 'Is AI the New VFX?'",
+      "summary": "VFX creator ErikDoesVFX examined how generative AI tools are reshaping visual effects work, in a video drawing over 1.2 million views.",
+      "url": "https://www.youtube.com/watch?v=jfGVMfle07g",
+      "source": "YouTube · VFX",
+      "published_at": "2026-10-03T16:36:12Z",
+      "category": "social-youtube",
+      "tags": [
+        "ai",
+        "vfx-industry"
+      ]
+    },
+    {
+      "id": "social-yt-XzaO2Bcw3ng",
+      "title": "Untold Studios Shows Creature VFX From 'Alien: Earth'",
+      "summary": "Untold Studios presented its creature visual effects work on 'Alien: Earth' at Houdini's Equinox 2026 conference.",
+      "url": "https://www.youtube.com/watch?v=XzaO2Bcw3ng",
+      "source": "YouTube · VFX",
+      "published_at": "2026-10-09T18:08:23Z",
+      "category": "social-youtube",
+      "tags": [
+        "creature-fx",
+        "houdini"
+      ]
+    },
+    {
+      "id": "social-yt-DUOyXi-x1U8",
+      "title": "Houdini Delivers 'State of Houdini' Keynote at Equinox 2026",
+      "summary": "SideFX presented its State of Houdini keynote at the Equinox 2026 conference, outlining updates to the VFX and animation software.",
+      "url": "https://www.youtube.com/watch?v=DUOyXi-x1U8",
+      "source": "YouTube · VFX",
+      "published_at": "2026-09-30T18:06:33Z",
+      "category": "social-youtube",
+      "tags": [
+        "houdini",
+        "conference"
+      ]
+    },
+    {
+      "id": "social-yt-oRErBesuMwM",
+      "title": "Tame Impala and JENNIE Discuss 'Dracula' Collaboration",
+      "summary": "Variety spoke with Tame Impala about the making of 'Dracula,' their collaboration with JENNIE, in a Behind the Song video.",
+      "url": "https://www.youtube.com/watch?v=oRErBesuMwM",
       "source": "YouTube · Music",
-      "published_at": "2026-09-25T18:00:09Z",
+      "published_at": "2026-10-02T15:30:33Z",
       "category": "social-youtube",
       "tags": [
-        "synth",
-        "hardware"
+        "collab",
+        "behind-the-song"
       ]
     },
     {
-      "id": "social-yt-https-www-youtube-com-watch-v-RPb4mZJD39",
-      "title": "Behind-the-Scenes Reel Shows Making of 'Resident Evil' (2026)",
-      "summary": "A behind-the-scenes compilation covers practical effects, sets and production design on Zach Cregger's 'Resident Evil' adaptation.",
-      "url": "https://www.youtube.com/watch?v=RPb4mZJD39Q",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-22T05:17:54Z",
+      "id": "social-yt-ZoPchvfW4V0",
+      "title": "Spotify India Revisits the Music of 'Dil Chahta Hai'",
+      "summary": "Spotify India's 'Behind the Beats' series explored the making of the soundtrack for the Bollywood classic 'Dil Chahta Hai.'",
+      "url": "https://www.youtube.com/watch?v=ZoPchvfW4V0",
+      "source": "YouTube · Music",
+      "published_at": "2026-09-24T06:40:50Z",
       "category": "social-youtube",
       "tags": [
-        "behind-the-scenes",
+        "bollywood",
+        "soundtrack"
+      ]
+    },
+    {
+      "id": "social-yt-f-ruAt1tWfE",
+      "title": "Video Explains How Stunt Actors Fake Gunshot Scenes",
+      "summary": "A film breakdown video explained the stunt and effects techniques used to make movie gunshot scenes look realistic.",
+      "url": "https://www.youtube.com/watch?v=f-ruAt1tWfE",
+      "source": "YouTube · Film",
+      "published_at": "2026-10-12T10:58:52Z",
+      "category": "social-youtube",
+      "tags": [
+        "stunts",
         "practical-fx"
-      ]
-    },
-    {
-      "id": "social-youtube-corridorcrew-gta6-vfx-breakdown",
-      "title": "VFX Artists Break Down GTA 6's Graphics",
-      "summary": "Corridor Crew's VFX artists analyzed the graphics and rendering techniques shown in Grand Theft Auto VI trailers.",
-      "url": "https://www.youtube.com/watch?v=ULM2OIj5o0I",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-20T16:30:31Z",
-      "category": "social-youtube",
-      "tags": [
-        "gaming",
-        "breakdown"
-      ]
-    },
-    {
-      "id": "social-yt-https-www-youtube-com-watch-v-S_oDmV2ibw",
-      "title": "Zach Cregger Breaks Down Scenes From 'Resident Evil,' 'Weapons' and 'Barbarian'",
-      "summary": "In a Vanity Fair interview, director Zach Cregger walks through key scenes from 'Resident Evil,' 'Weapons' and 'Barbarian.'",
-      "url": "https://www.youtube.com/watch?v=S_oDmV2ibw0",
-      "source": "YouTube · Film",
-      "published_at": "2026-09-18T16:00:11Z",
-      "category": "social-youtube",
-      "tags": [
-        "director-interview",
-        "breakdown"
-      ]
-    },
-    {
-      "id": "social-youtube-cineebaa-inception-oscar-shot",
-      "title": "Video Revisits the Oscar-Winning Visual Effects Shot in 'Inception'",
-      "summary": "A retrospective breakdown examines the Oscar-winning visual effects shot from Christopher Nolan's 'Inception.'",
-      "url": "https://www.youtube.com/watch?v=pD4CoExvZWI",
-      "source": "YouTube · Film",
-      "published_at": "2026-09-17T10:33:40Z",
-      "category": "social-youtube",
-      "tags": [
-        "retrospective",
-        "breakdown"
       ]
     }
   ]
