@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:15:00Z",
+  "generated_at": "2026-10-24T05:11:38Z",
   "items": [
     {
       "id": "news-the-hollywood-reporter-you-can-see-everything-docs",
@@ -24,19 +24,6 @@
       "category": "social-trends",
       "tags": [
         "gaming"
-      ]
-    },
-    {
-      "id": "social-masto-ujam-detunicorn",
-      "title": "UJAM Detunicorn ist ein Hypersaw-Synthesizer, den der Entwickler für 666 Stunden",
-      "summary": "Plugin maker UJAM is offering Detunicorn, a hypersaw synthesizer, free for a limited Halloween promotion.",
-      "url": "https://soundchills.de/ujam-detunicorn/",
-      "source": "Mastodon",
-      "published_at": "2026-10-22T09:02:00Z",
-      "category": "social-music",
-      "tags": [
-        "plugin",
-        "free"
       ]
     },
     {
@@ -323,19 +310,6 @@
       "tags": [
         "midi",
         "tool"
-      ]
-    },
-    {
-      "id": "news-indiewire-whalefall-production-designer-ramsey-avery-interview",
-      "title": "When VFX and Practical Sets Work Together, Sometimes You Invent New Cameras",
-      "summary": "'Whalefall' production designer Ramsey Avery explained how combining practical sets with VFX led the team to invent new camera rigs.",
-      "url": "https://www.indiewire.com/features/craft/whalefall-production-designer-ramsey-avery-interview-1235222681/",
-      "source": "IndieWire",
-      "published_at": "2026-10-21T22:30:00Z",
-      "category": "notable-work",
-      "tags": [
-        "production-design",
-        "craft"
       ]
     },
     {
@@ -690,19 +664,6 @@
       ]
     },
     {
-      "id": "news-cdm-teenage-engineering-op-xy-drum-synth",
-      "title": "teenage engineering op-xy added a drum synth, sound shaping, more",
-      "summary": "Teenage engineering shipped a free op-xy firmware update adding a new drum synth, sound-shaping tools and multichannel features.",
-      "url": "https://cdm.link/teenage-engineering-op-xy-added-a-drum-synth-sound-shaping-more/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-15T20:37:02Z",
-      "category": "music-tech",
-      "tags": [
-        "firmware",
-        "hardware"
-      ]
-    },
-    {
       "id": "social-youtube-flickverse-ramayana-trailer2",
       "title": "Ramayana Trailer 2 Breakdown!",
       "summary": "A breakdown of the second 'Ramayana' trailer analyzing its visual effects drew 1.6M views.",
@@ -713,71 +674,6 @@
       "tags": [
         "breakdown",
         "trailer"
-      ]
-    },
-    {
-      "id": "news-befores-hugh-jackman-de-aging",
-      "title": "Turning Hugh Jackman into his younger clone",
-      "summary": "Image Engine detailed how it digitally de-aged Hugh Jackman to create his younger clone character in 'Logan.'",
-      "url": "https://beforesandafters.com/2026/10/16/turning-hugh-jackman-into-his-younger-clone/",
-      "source": "befores & afters",
-      "published_at": "2026-10-15T14:12:07Z",
-      "category": "notable-work",
-      "tags": [
-        "breakdown",
-        "de-aging"
-      ]
-    },
-    {
-      "id": "news-beforesandafters-framestore-appa",
-      "title": "How Framestore made Appa",
-      "summary": "Framestore explained how it created the flying bison Appa for 'Avatar: The Last Airbender' season two.",
-      "url": "https://beforesandafters.com/2026/10/15/how-framestore-made-appa/",
-      "source": "befores & afters",
-      "published_at": "2026-10-14T16:26:52Z",
-      "category": "notable-work",
-      "tags": [
-        "breakdown",
-        "animation"
-      ]
-    },
-    {
-      "id": "news-cdm-max-9-2",
-      "title": "Max 9.2: V8 FFTs, better Windows support, Ableton abl goodies, more",
-      "summary": "Cycling '74 released Max 9.2, adding V8-based FFTs, better Windows video support and new Ableton abl integration.",
-      "url": "https://cdm.link/max-9-2/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-14T16:03:11Z",
-      "category": "music-tech",
-      "tags": [
-        "software",
-        "update"
-      ]
-    },
-    {
-      "id": "news-beforesandafters-flow-studio-canvas",
-      "title": "Give your stories more ways to take shape with Canvas in Flow Studio",
-      "summary": "A new Canvas tool in Flow Studio lets filmmakers use generative AI models to design and refine characters, worlds and story moments.",
-      "url": "https://beforesandafters.com/2026/10/14/give-your-stories-more-ways-to-take-shape-with-canvas-in-flow-studio/",
-      "source": "befores & afters",
-      "published_at": "2026-10-14T10:08:52Z",
-      "category": "ai-creative",
-      "tags": [
-        "ai",
-        "tool"
-      ]
-    },
-    {
-      "id": "news-beforesandafters-reallusion-escapeai-partnership",
-      "title": "Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution",
-      "summary": "Reallusion partnered with Escape.AI to connect its 3D character ecosystem with John Gaeta's Neo Cinema AI video platform.",
-      "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/",
-      "source": "befores & afters",
-      "published_at": "2026-10-13T15:49:43Z",
-      "category": "ai-creative",
-      "tags": [
-        "partnership",
-        "ai"
       ]
     },
     {
@@ -807,19 +703,6 @@
       ]
     },
     {
-      "id": "news-beforesandafters-com-2026-10-12-creating-the-spinosaurus-for",
-      "title": "Creating the Spinosaurus for ‘The End of Oak Street’",
-      "summary": "A VFX breakdown shows how practical and digital effects combined to create the Spinosaurus for 'The End of Oak Street.'",
-      "url": "https://beforesandafters.com/2026/10/12/creating-the-spinosaurus-for-the-end-of-oak-street/",
-      "source": "befores & afters",
-      "published_at": "2026-10-12T07:35:58Z",
-      "category": "notable-work",
-      "tags": [
-        "breakdown",
-        "creature"
-      ]
-    },
-    {
       "id": "social-yt-ZOIJNE8AXiE",
       "title": "How We Made Primordia EP.1 | AI Filmmaking Breakdown with TapNow Creative OS",
       "summary": "TapNow detailed its AI-assisted filmmaking process behind the short 'Primordia,' built with its Creative OS tools.",
@@ -833,32 +716,6 @@
       ]
     },
     {
-      "id": "news-beforesandafters-backrooms-vfx-breakdown",
-      "title": "Brand new ‘Backrooms’ VFX breakdown is out",
-      "summary": "A new breakdown reveals the visual effects behind 'Backrooms,' including its found-footage opener and the Vertigo Room sequence.",
-      "url": "https://beforesandafters.com/2026/10/10/brand-new-backrooms-vfx-breakdown-is-out/",
-      "source": "befores & afters",
-      "published_at": "2026-10-09T20:45:51Z",
-      "category": "notable-work",
-      "tags": [
-        "breakdown",
-        "vfx"
-      ]
-    },
-    {
-      "id": "news-befores-afters-beast-man-was-fully-cg-and-the-plates-shot-at-a-former-raf",
-      "title": "Beast Man was fully CG (and the plates shot at a former RAF runway)",
-      "summary": "An excerpt details how Beast Man was rendered fully in CG for 'Masters of the Universe,' shot partly on a former RAF runway.",
-      "url": "https://beforesandafters.com/2026/10/09/beast-man-was-fully-cg-and-the-plates-shot-at-a-former-raf-runway/",
-      "source": "befores & afters",
-      "published_at": "2026-10-09T08:05:59Z",
-      "category": "notable-work",
-      "tags": [
-        "breakdown",
-        "creature"
-      ]
-    },
-    {
       "id": "social-yt-DEz-v05PD1I",
       "title": "Behind the Live Mix of Bruno Mars 2026",
       "summary": "Waves Audio published a behind-the-scenes look at the live sound mix for Bruno Mars' 2026 tour.",
@@ -869,19 +726,6 @@
       "tags": [
         "live-sound",
         "engineering"
-      ]
-    },
-    {
-      "id": "news-fxguide-dneg-on-making-cartoon-logic-work-in-coyote-vs-acm",
-      "title": "DNEG on Making Cartoon Logic Work in Coyote vs. Acme",
-      "summary": "DNEG's VFX supervisor and animation director discussed building the cartoon-physics visual effects for 'Coyote vs. Acme.'",
-      "url": "https://www.fxguide.com/fxpodcasts/dneg-on-making-cartoon-logic-work-in-coyote-vs-acme/",
-      "source": "fxguide",
-      "published_at": "2026-10-08T01:01:14Z",
-      "category": "notable-work",
-      "tags": [
-        "breakdown",
-        "dneg"
       ]
     },
     {
@@ -921,19 +765,6 @@
       "tags": [
         "synth",
         "launch"
-      ]
-    },
-    {
-      "id": "news-fxguide-creating-4k-from-apple-immersive-avp",
-      "title": "Creating 4K from Apple Immersive (AIV)",
-      "summary": "A new workflow converts Apple Immersive Video content into faithful 4K versions, aiming to widen the format's audience.",
-      "url": "https://www.fxguide.com/quicktakes/creating-4k-from-apple-immersive-avp/",
-      "source": "fxguide",
-      "published_at": "2026-10-06T07:58:39Z",
-      "category": "vfx-tech",
-      "tags": [
-        "immersive",
-        "conversion"
       ]
     },
     {
@@ -989,29 +820,327 @@
       ]
     },
     {
-      "id": "social-yt-opus-5-5-just-took-over-unreal-engine",
-      "title": "Opus 5.5 Just Took Over Unreal Engine",
-      "summary": "A video titled 'Opus 5.5 Just Took Over Unreal Engine' showcased an AI model driving real-time scene work in the game engine.",
-      "url": "https://www.youtube.com/watch?v=0zNQSPiy8fM",
-      "source": "YouTube · VFX",
-      "published_at": "2026-09-24T23:35:10Z",
-      "category": "social-youtube",
+      "id": "news-pitchfork-raye-wins-2026-mercury-prize",
+      "title": "Raye Wins 2026 Mercury Prize",
+      "summary": "Raye won the 2026 Mercury Prize, beating a shortlist that included Paul McCartney, Olivia Dean and Nia Archives.",
+      "url": "https://pitchfork.com/story/raye-wins-2026-mercury-prize/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-22T23:09:47Z",
+      "category": "trends-culture",
       "tags": [
-        "ai",
-        "unreal-engine"
+        "awards",
+        "uk"
       ]
     },
     {
-      "id": "social-yt-y77wax9zvvu",
-      "title": "International Beat + Rajinism = Pure Goosebumps 💥 #jailer2 #superstarrajinikanth #anirudh #nelson",
-      "summary": "A clip pairing composer Anirudh Ravichander's score with Rajinikanth's screen presence in 'Jailer 2' drew nearly 5.8M views.",
-      "url": "https://www.youtube.com/watch?v=y77waX9zVVU",
-      "source": "YouTube · Music",
-      "published_at": "2026-09-24T06:09:39Z",
+      "id": "news-pitchfork-charli-xcx-martin-scorsese-film",
+      "title": "Charli XCX Will Appear in a Martin Scorsese Film",
+      "summary": "Charli XCX will reportedly appear in Martin Scorsese's upcoming film alongside Leonardo DiCaprio and Jennifer Lawrence.",
+      "url": "https://pitchfork.com/story/charli-xcx-will-appear-in-a-martin-scorsese-film/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-22T21:47:19Z",
+      "category": "trends-culture",
+      "tags": [
+        "casting",
+        "film"
+      ]
+    },
+    {
+      "id": "news-pitchfork-being-dead-sign-polyvinyl",
+      "title": "Being Dead Sign to Polyvinyl, Plan to “Take Over the World”",
+      "summary": "Austin rock trio Being Dead signed to Polyvinyl Records and shared two new songs ahead of upcoming releases.",
+      "url": "https://pitchfork.com/story/being-dead-sign-to-polyvinyl-plan-to-take-over-the-world/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-22T14:02:52Z",
+      "category": "emerging-artists",
+      "tags": [
+        "signing",
+        "label"
+      ]
+    },
+    {
+      "id": "news-pitchfork-fleetwood-mac-documentary",
+      "title": "Fleetwood Mac Announce Fleetwood Mac Documentary",
+      "summary": "Fleetwood Mac announced a documentary, \"The Chain,\" set to premiere on Apple TV in January.",
+      "url": "https://pitchfork.com/story/fleetwood-mac-announces-fleetwood-mac-documentary/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-22T15:40:56Z",
+      "category": "trends-culture",
+      "tags": [
+        "documentary"
+      ]
+    },
+    {
+      "id": "news-mbw-tony-berg-warner-jv-label",
+      "title": "Phoebe Bridgers and Sombr producer, Tony Berg, launches new JV label with Warner Records",
+      "summary": "Producer Tony Berg launched a joint-venture label, Crime & Punishment Records, with Warner Records, signing Elle Bramhall.",
+      "url": "https://www.musicbusinessworldwide.com/phoebe-bridgers-and-sombr-producer-tony-berg-launches-new-jv-label-with-warner-records/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-22T18:36:45Z",
+      "category": "labels-industry",
+      "tags": [
+        "new-label",
+        "warner"
+      ]
+    },
+    {
+      "id": "news-mbw-suno-admits-recordings-not-deleted",
+      "title": "Suno admits it has not deleted all the recordings used to train its AI, in answer to UMG and Sony’s ‘laundering’ lawsuit",
+      "summary": "AI music company Suno admitted it has not deleted all recordings used to train its model, in its court response to UMG and Sony.",
+      "url": "https://www.musicbusinessworldwide.com/suno-admits-it-has-not-deleted-all-the-recordings-used-to-train-its-ai-in-answer-to-umg-and-sonys-laundering-lawsuit/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-22T14:25:36Z",
+      "category": "ai-creative",
+      "tags": [
+        "ai",
+        "lawsuit"
+      ]
+    },
+    {
+      "id": "news-mbw-umg-licenses-tyger-ai-gameplay",
+      "title": "Universal Music Group becomes first major music company to license TYGER, which uses AI to adapt songs to gameplay in real time",
+      "summary": "Universal Music Group became the first major label to license TYGER, an AI system that adapts songs to gameplay in real time.",
+      "url": "https://www.musicbusinessworldwide.com/umg-becomes-first-major-music-company-to-license-tyger-which-uses-ai-to-adapt-songs-to-gameplay-in-real-time/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-22T14:23:14Z",
+      "category": "ai-creative",
+      "tags": [
+        "ai",
+        "licensing"
+      ]
+    },
+    {
+      "id": "news-mbw-spotify-audi-in-car-app",
+      "title": "Spotify launches native in-car app with Audi – less than two years after switching off Car Thing",
+      "summary": "Spotify launched a native in-car app with Audi, about two years after discontinuing its own Car Thing hardware.",
+      "url": "https://www.musicbusinessworldwide.com/spotify-launches-native-in-car-app-with-audi-less-than-two-years-after-switching-off-car-thing/",
+      "source": "Music Business Worldwide",
+      "published_at": "2026-10-22T14:24:57Z",
+      "category": "music-tech",
+      "tags": [
+        "product-launch",
+        "streaming"
+      ]
+    },
+    {
+      "id": "news-musictech-akai-mpk-mini-plus-ii",
+      "title": "Akai just launched its next-gen MPK Mini Plus keyboard controller – here’s what’s new",
+      "summary": "Akai launched the MPK Mini Plus II, the next generation of its compact keyboard controller aimed at hands-on beatmakers.",
+      "url": "https://musictech.com/news/gear/akai-mpk-mini-plus-ii/",
+      "source": "MusicTech",
+      "published_at": "2026-10-22T14:54:26Z",
+      "category": "music-tech",
+      "tags": [
+        "hardware",
+        "controller"
+      ]
+    },
+    {
+      "id": "news-befores-afters-dykstraflex-changed-vfx",
+      "title": "How the Dykstraflex changed VFX",
+      "summary": "A retrospective traces how ILM's Dykstraflex camera rig shaped the visual effects of the original \"Star Wars\" and modern filmmaking.",
+      "url": "https://beforesandafters.com/2026/10/23/how-the-dykstraflex-changed-vfx/",
+      "source": "befores & afters",
+      "published_at": "2026-10-22T13:44:05Z",
+      "category": "notable-work",
+      "tags": [
+        "history",
+        "ilm"
+      ]
+    },
+    {
+      "id": "news-awn-keentools-keenface",
+      "title": "KeenTools' KeenFace Turns Photos Into MetaHuman-Ready 3D Heads",
+      "summary": "KeenTools launched KeenFace, a browser and API tool that builds production-ready MetaHuman heads from ordinary reference photos.",
+      "url": "https://www.awn.com/news/keentools-keenface-turns-photos-metahuman-ready-3d-heads",
+      "source": "Animation World Network",
+      "published_at": "2026-10-22T17:33:52Z",
+      "category": "vfx-tech",
+      "tags": [
+        "ai",
+        "tool"
+      ]
+    },
+    {
+      "id": "news-cgchannel-maxon-redshift-2027",
+      "title": "Maxon releases Redshift 2027.0",
+      "summary": "Maxon released Redshift 2027.0, adding a new fur procedural, ACES 2 support and updates to its real-time Redshift Live engine.",
+      "url": "https://www.cgchannel.com/2026/10/maxon-releases-redshift-2027-0/",
+      "source": "CG Channel",
+      "published_at": "2026-10-18T10:30:45Z",
+      "category": "vfx-tech",
+      "tags": [
+        "software",
+        "renderer"
+      ]
+    },
+    {
+      "id": "news-awn-sony-ramayana-rise-of-a-legend-trailer",
+      "title": "Sony Pictures Drops 'Ramayana: Rise of a Legend' Trailer",
+      "summary": "Sony released a trailer for DNEG's two-part epic \"Ramayana: Rise of a Legend,\" scored by Hans Zimmer and A.R. Rahman.",
+      "url": "https://www.awn.com/news/sony-pictures-drops-ramayana-rise-legend-trailer",
+      "source": "Animation World Network",
+      "published_at": "2026-10-22T16:15:18Z",
+      "category": "productions",
+      "tags": [
+        "trailer",
+        "dneg"
+      ]
+    },
+    {
+      "id": "news-awn-coolabi-rebrands-four-trees-media",
+      "title": "'Warrior Cats,' 'Beast Quest' Owner Coolabi Rebrands as Four Trees Media",
+      "summary": "Kids and family company Coolabi rebranded as Four Trees Media and added three senior hires across its franchise business.",
+      "url": "https://www.awn.com/news/warrior-cats-beast-quest-owner-coolabi-rebrands-four-trees-media",
+      "source": "Animation World Network",
+      "published_at": "2026-10-22T14:28:44Z",
+      "category": "studios-companies",
+      "tags": [
+        "rebrand",
+        "executive"
+      ]
+    },
+    {
+      "id": "news-cgchannel-accenture-song-lanterns-breakdown",
+      "title": "Check out Accenture Song’s VFX breakdown for Lanterns",
+      "summary": "Accenture Song shared a VFX breakdown of the hard-light energy constructs it built for DC series \"Lanterns,\" including a tunnel-boring machine.",
+      "url": "https://www.cgchannel.com/2026/10/check-out-accenture-songs-vfx-breakdown-for-lanterns/",
+      "source": "CG Channel",
+      "published_at": "2026-10-22T07:50:18Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "dc"
+      ]
+    },
+    {
+      "id": "social-masto-corridorkey-2",
+      "title": "just insane how good this green screen keyer is from Corridor Crew",
+      "summary": "Corridor Crew released CorridorKey 2.0, a next-level green-screen keying tool built by the YouTube production studio.",
+      "url": "https://ohai.social/@tweak/117486455310719493",
+      "source": "@tweak@ohai.social · Mastodon",
+      "published_at": "2026-10-22T20:30:39Z",
+      "category": "social-vfx",
+      "tags": [
+        "tool",
+        "keying"
+      ]
+    },
+    {
+      "id": "social-masto-artofvfx-mayday-interview",
+      "title": "From spectacular aerial sequences and massive digital environments to Red Square",
+      "summary": "VFX account @artofvfx published an interview with Mayday's VFX supervisor and producer on work by WetaFX, RodeoFX and RaynaultVFX.",
+      "url": "https://mastodon.social/@artofvfx/117485161342021322",
+      "source": "@artofvfx@mastodon.social · Mastodon",
+      "published_at": "2026-10-22T15:01:34Z",
+      "category": "social-vfx",
+      "tags": [
+        "breakdown",
+        "interview"
+      ]
+    },
+    {
+      "id": "social-masto-carlosedubarreto-nanite-blender",
+      "title": "Bringing UE5 Nanite architecture directly into Blender!",
+      "summary": "A developer demoed bringing Unreal Engine 5 Nanite's continuous-cluster LOD system directly into Blender's real-time viewport.",
+      "url": "https://mastodon.art/@carlosedubarreto/117489352750535673",
+      "source": "@carlosedubarreto@mastodon.art · Mastodon",
+      "published_at": "2026-10-23T08:47:30Z",
+      "category": "social-vfx",
+      "tags": [
+        "blender",
+        "tool"
+      ]
+    },
+    {
+      "id": "social-masto-justpaste-wahlberg-ai",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’",
+      "summary": "Mark Wahlberg said he is open to using AI in filmmaking \"the right way,\" including an AI clone continuing his legacy.",
+      "url": "https://mastodon.social/@justpaste/117484995808027415",
+      "source": "@justpaste@mastodon.social · Mastodon",
+      "published_at": "2026-10-22T14:19:29Z",
+      "category": "social-people",
+      "tags": [
+        "ai",
+        "discussion"
+      ]
+    },
+    {
+      "id": "social-trends-google-trends-fr-ryu-murakami",
+      "title": "ryū murakami",
+      "summary": "Search interest in France spiked for Japanese author and filmmaker Ryu Murakami following his death at 74.",
+      "url": "https://trends.google.com/trends/explore?q=ry%C5%AB%20murakami&geo=FR",
+      "source": "Google Trends (FR)",
+      "published_at": "2026-10-23T07:40:00Z",
+      "category": "social-trends",
+      "tags": [
+        "obituary",
+        "literature"
+      ]
+    },
+    {
+      "id": "social-trends-google-trends-fr-sting-clermont-ferrand",
+      "title": "sting clermont ferrand",
+      "summary": "French search interest spiked for a Sting concert date in Clermont-Ferrand.",
+      "url": "https://trends.google.com/trends/explore?q=sting%20clermont%20ferrand&geo=FR",
+      "source": "Google Trends (FR)",
+      "published_at": "2026-10-23T08:00:00Z",
+      "category": "social-trends",
+      "tags": [
+        "concert",
+        "music"
+      ]
+    },
+    {
+      "id": "social-yt-zcbcuz9fluе-ramayana-trailer3",
+      "title": "Ramayana Trailer 3 Hidden Details Breakdown",
+      "summary": "A breakdown of the third 'Ramayana' trailer explaining its hidden easter eggs drew over 1.2M views.",
+      "url": "https://www.youtube.com/watch?v=ZcBCUz9FLuE",
+      "source": "YouTube · VFX",
+      "published_at": "2026-10-17T12:30:21Z",
       "category": "social-youtube",
       "tags": [
-        "composer",
-        "tamil-cinema"
+        "breakdown",
+        "trailer"
+      ]
+    },
+    {
+      "id": "social-yt-bplrb4otrjk-ramayana-trailer2-vfx",
+      "title": "Ramayana trailer 2 VFX breakdown: still not done!!",
+      "summary": "A VFX breakdown of the second 'Ramayana' trailer examining its unfinished effects shots reached over 1.2M views.",
+      "url": "https://www.youtube.com/watch?v=BPLRB4OtRJk",
+      "source": "YouTube · VFX",
+      "published_at": "2026-10-17T13:28:34Z",
+      "category": "social-youtube",
+      "tags": [
+        "breakdown",
+        "vfx"
+      ]
+    },
+    {
+      "id": "social-yt-xzqejmkzz4e-disney-sound",
+      "title": "COMO a Disney Cria os SONS dos Filmes?",
+      "summary": "A video explaining how Disney designs its film sound effects and score drew over 1.5M views.",
+      "url": "https://www.youtube.com/watch?v=XZQEjmKZZ4E",
+      "source": "YouTube · Film",
+      "published_at": "2026-09-26T01:45:57Z",
+      "category": "social-youtube",
+      "tags": [
+        "sound-design",
+        "disney"
+      ]
+    },
+    {
+      "id": "social-yt-5n1moucsvhi-claude-capcut",
+      "title": "Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
+      "summary": "A creator showed an AI model editing an entire CapCut video project without manual timeline edits, drawing nearly 700K views.",
+      "url": "https://www.youtube.com/watch?v=5N1moUCsVhI",
+      "source": "YouTube · VFX",
+      "published_at": "2026-10-09T12:27:39Z",
+      "category": "social-youtube",
+      "tags": [
+        "ai",
+        "editing"
       ]
     }
   ]
