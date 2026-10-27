@@ -1,375 +1,128 @@
 {
-  "generated_at": "2026-10-26T05:15:49Z",
+  "generated_at": "2026-10-27T05:14:24Z",
   "items": [
     {
-      "id": "news-variety-variety-com-2026-film-global-egyptian-cinema-el-gouna-film-i",
-      "title": "Egyptian Cinema Eyes Its Next Act as Industry Veterans Call for Better Scripts, Wider Distribution",
-      "summary": "Industry veterans at Egypt's El Gouna Film Festival called for better scripts and wider distribution to help Egyptian cinema reach bigger audiences.",
-      "url": "https://variety.com/2026/film/global/egyptian-cinema-el-gouna-film-industry-future-1236930557/",
-      "source": "Variety",
-      "published_at": "2026-10-25T09:16:11Z",
-      "category": "productions",
-      "tags": [
-        "market-data",
-        "egypt"
-      ]
-    },
-    {
-      "id": "social-gt-trends-google-com-trends-explore-q-cin-c3-a9ma-20fran-c3-a7a",
-      "title": "cinéma français",
-      "summary": "The term \"French cinema\" spiked in French search interest, according to Google Trends data.",
-      "url": "https://trends.google.com/trends/explore?q=cin%C3%A9ma%20fran%C3%A7ais&geo=FR",
-      "source": "Google Trends (FR)",
-      "published_at": "2026-10-25T09:00:00Z",
-      "category": "social-trends",
-      "tags": [
-        "film",
-        "trending"
-      ]
-    },
-    {
-      "id": "social-gt-trends-google-com-trends-explore-q-the-20office-geo-us",
-      "title": "the office",
-      "summary": "The sitcom The Office spiked in U.S. search interest, according to Google Trends data.",
-      "url": "https://trends.google.com/trends/explore?q=the%20office&geo=US",
-      "source": "Google Trends (US)",
-      "published_at": "2026-10-25T08:40:00Z",
-      "category": "social-trends",
-      "tags": [
-        "tv",
-        "trending"
-      ]
-    },
-    {
-      "id": "social-masto-helvede-net-jwcph-117500536670945788",
-      "title": "A VFX community member praised compositor Beth D'Amato's paint-in work after Corridor Crew highlighted her ILM visual effects skills.",
-      "summary": "A VFX community member praised compositor Beth D'Amato's paint-in work after Corridor Crew highlighted her ILM visual effects skills.",
-      "url": "https://helvede.net/@jwcph/117500536670945788",
-      "source": "@jwcph@helvede.net · Mastodon",
-      "published_at": "2026-10-25T08:11:43Z",
-      "category": "social-vfx",
-      "tags": [
-        "vfx",
-        "praise"
-      ]
-    },
-    {
-      "id": "social-masto-metalhead-club-moshhead-117500377856372635",
-      "title": "King Buffalo released a music video for new single Vagabond, ahead of their upcoming studio album Doomsayer out December 4.",
-      "summary": "King Buffalo released a music video for new single Vagabond, ahead of their upcoming studio album Doomsayer out December 4.",
-      "url": "https://metalhead.club/@moshhead/117500377856372635",
-      "source": "@moshhead@metalhead.club · Mastodon",
-      "published_at": "2026-10-25T07:31:20Z",
-      "category": "social-music",
-      "tags": [
-        "release",
-        "rock"
-      ]
-    },
-    {
-      "id": "news-befores-afters-beforesandafters-com-2026-10-25-watch-image-engines-vfx-brea",
-      "title": "Watch Image Engine’s VFX breakdown for ‘The Mandalorian & Grogu’",
-      "summary": "Image Engine released a new VFX breakdown showing its visual effects work on Lucasfilm's The Mandalorian & Grogu.",
-      "url": "https://beforesandafters.com/2026/10/25/watch-image-engines-vfx-breakdown-for-the-mandalorian-grogu/",
-      "source": "befores & afters",
-      "published_at": "2026-10-25T07:10:02Z",
-      "category": "notable-work",
-      "tags": [
-        "vfx-breakdown",
-        "star-wars"
-      ]
-    },
-    {
-      "id": "social-masto-mastodon-social-r3js-117500212563490817",
-      "title": "R3 launched R3 Builder, a browser tool that generates editable 3D models in Blender from plain-text descriptions, with no install required.",
-      "summary": "R3 launched R3 Builder, a browser tool that generates editable 3D models in Blender from plain-text descriptions, with no install required.",
-      "url": "https://mastodon.social/@r3js/117500212563490817",
-      "source": "@r3js@mastodon.social · Mastodon",
-      "published_at": "2026-10-25T06:49:18Z",
-      "category": "social-vfx",
-      "tags": [
-        "3d",
-        "tool",
-        "blender"
-      ]
-    },
-    {
-      "id": "news-variety-variety-com-2026-film-news-soccer-drama-forza-ac-milan-aless",
-      "title": "Soccer Drama ‘Forza,’ With AC Milan Great Alessandro Costacurta, Heads to Tokyo Market With EST N8 (EXCLUSIVE)",
-      "summary": "Soccer drama Forza, starring AC Milan great Alessandro Costacurta, was picked up for international sales ahead of Tokyo's TIFFCOM market.",
-      "url": "https://variety.com/2026/film/news/soccer-drama-forza-ac-milan-alessandro-costacurta-tokyo-market-est-n8-1236930538/",
-      "source": "Variety",
-      "published_at": "2026-10-25T03:32:14Z",
-      "category": "productions",
-      "tags": [
-        "sales",
-        "market"
-      ]
-    },
-    {
-      "id": "news-variety-variety-com-2026-tv-news-kpop-demon-hunters-squid-game-stars",
-      "title": "‘KPop Demon Hunters,’ ‘Squid Game’ Stars Fete Netflix’s Korea Decade as Ted Sarandos Teases ‘Tantara,’ ‘All of Us Are Dead’ Season 2",
-      "summary": "Netflix marked ten years in Korea with a Seoul fan festival, where Ted Sarandos teased Tantara and a new All of Us Are Dead season.",
-      "url": "https://variety.com/2026/tv/news/kpop-demon-hunters-squid-game-stars-netflix-korea-decade-1236930528/",
-      "source": "Variety",
-      "published_at": "2026-10-25T03:21:03Z",
-      "category": "streaming",
-      "tags": [
-        "market-data",
-        "korea"
-      ]
-    },
-    {
-      "id": "news-variety-variety-com-2026-tv-news-ai-india-mahabharat-series-indonesi",
-      "title": "AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE)",
-      "summary": "The AI technology behind India's Mahabharat series is expanding to Indonesia, where developer Galleri5 plans new film and series properties from local myths.",
-      "url": "https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/",
-      "source": "Variety",
-      "published_at": "2026-10-25T02:30:00Z",
-      "category": "ai-creative",
-      "tags": [
-        "ai",
-        "cross-border"
-      ]
-    },
-    {
-      "id": "news-variety-variety-com-2026-film-news-sag-aftra-duncan-crabtree-ireland",
-      "title": "SAG-AFTRA Extends Duncan Crabtree-Ireland’s Contract and Adds CEO to Title",
-      "summary": "SAG-AFTRA's board extended national executive director Duncan Crabtree-Ireland's contract through 2032 and added CEO to his title.",
-      "url": "https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503/",
-      "source": "Variety",
-      "published_at": "2026-10-25T01:20:54Z",
-      "category": "business-funding",
-      "tags": [
-        "exec-move",
-        "union"
-      ]
-    },
-    {
-      "id": "social-masto-mastodon-social-artofvfx-117497902845071560",
-      "title": "Art of VFX's weekly spotlight covered Coyote vs. Acme interviews with DNEG and Mayday plus Digital Domain's Disclosure Day breakdown.",
-      "summary": "Art of VFX's weekly spotlight covered Coyote vs. Acme interviews with DNEG and Mayday plus Digital Domain's Disclosure Day breakdown.",
-      "url": "https://mastodon.social/@artofvfx/117497902845071560",
-      "source": "@artofvfx@mastodon.social · Mastodon",
-      "published_at": "2026-10-24T21:01:54Z",
-      "category": "social-vfx",
-      "tags": [
-        "vfx",
-        "roundup"
-      ]
-    },
-    {
-      "id": "news-deadline-deadline-com-2026-10-these-summer-storms-hulu-tv-series-erin",
-      "title": "‘These Summer Storms’ Series Adaptation In Works At Hulu From Melanie Marnich, Erin & Sara Foster",
-      "summary": "A series adaptation of Sarah MacLean's novel These Summer Storms is in development at Hulu from Erin and Sara Foster's Fatigue Sisters.",
-      "url": "https://deadline.com/2026/10/these-summer-storms-hulu-tv-series-erin-sara-foster-1237172245/",
-      "source": "Deadline",
-      "published_at": "2026-10-24T21:00:00Z",
-      "category": "productions",
-      "tags": [
-        "greenlight",
-        "adaptation"
-      ]
-    },
-    {
-      "id": "news-deadline-deadline-com-2026-10-amc-theatres-kips-bay-multiplex-1237172",
-      "title": "AMC Theatres Wants NYC’s Endangered Kips Bay Multiplex To Remain But Decision “Not Ours To Make”; Scheduled Closing Date Announced",
-      "summary": "AMC Theatres said it wants to keep operating NYC's endangered Kips Bay multiplex, though it conceded the closure decision isn't the chain's to make.",
-      "url": "https://deadline.com/2026/10/amc-theatres-kips-bay-multiplex-1237172359/",
-      "source": "Deadline",
-      "published_at": "2026-10-24T16:50:06Z",
-      "category": "streaming",
-      "tags": [
-        "exhibition",
-        "theaters"
-      ]
-    },
-    {
-      "id": "news-the-hollywood-report-www-hollywoodreporter-com-movies-movie-news-clayface-box-off",
-      "title": "‘You Can See Everything’ Eyes $20M Second Weekend as ‘Clayface’ Leads Box Office",
-      "summary": "Clayface led the weekend box office as You Can See Everything eyed a $20 million second weekend, with Wicker and Wildwood opening in theaters.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/",
-      "source": "The Hollywood Reporter",
-      "published_at": "2026-10-24T15:56:55Z",
-      "category": "streaming",
-      "tags": [
-        "box-office",
-        "market-data"
-      ]
-    },
-    {
-      "id": "news-billboard-www-billboard-com-pro-elvis-presley-estate-sues-suno-anthrop",
-      "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’",
-      "summary": "Elvis Presley's estate sued Anthropic, adding the AI company to a widening legal battle over unauthorized use of music to train AI models.",
-      "url": "https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
+      "id": "news-billboard-www-billboard-com-business-publishing-kenny-macpherson-big-deal-music-",
+      "title": "Kenny MacPherson, Veteran Music Publisher and Big Deal Music Co-Founder, Dies at 71",
+      "summary": "Veteran music publisher and Big Deal Music co-founder Kenny MacPherson, who worked with Radiohead and St. Vincent, has died at 71.",
+      "url": "https://www.billboard.com/business/publishing/kenny-macpherson-big-deal-music-publisher-dies-71-1236367718/",
       "source": "Billboard",
-      "published_at": "2026-10-24T14:34:54Z",
+      "published_at": "2026-10-26T06:07:07Z",
+      "category": "labels-industry",
+      "tags": [
+        "obituary",
+        "publishing"
+      ]
+    },
+    {
+      "id": "news-pitchfork-pitchfork-com-story-elvis-presley-catalog-owners-sue-ai-company-anthro",
+      "title": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
+      "summary": "Elvis Presley's catalog owners sued AI company Anthropic, alleging unauthorized use of 274 of his songs to train its Claude model.",
+      "url": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-25T18:06:26Z",
       "category": "ai-creative",
       "tags": [
-        "ai",
         "lawsuit",
-        "music-rights"
-      ]
-    },
-    {
-      "id": "social-masto-metalhead-club-moshhead-117496131004999223",
-      "title": "Nickelback announced new arena shows, according to a social post shared by a rock and metal music community account.",
-      "summary": "Nickelback announced new arena shows, according to a social post shared by a rock and metal music community account.",
-      "url": "https://metalhead.club/@moshhead/117496131004999223",
-      "source": "@moshhead@metalhead.club · Mastodon",
-      "published_at": "2026-10-24T13:31:18Z",
-      "category": "social-music",
-      "tags": [
-        "tour",
-        "rock"
-      ]
-    },
-    {
-      "id": "news-billboard-com-music-rb-hip-hop-drake-new-certifications-riaa",
-      "title": "Drake Becomes First Act to Surpass 350 Million RIAA-Certified Units, With 30 New Certifications",
-      "summary": "Drake became the first act to surpass 350 million RIAA-certified units, adding 30 new certifications and extending his record for diamond plaques.",
-      "url": "https://www.billboard.com/music/rb-hip-hop/drake-new-certifications-riaa-diamond-views-marvins-room-1236367433/",
-      "source": "Billboard",
-      "published_at": "2026-10-23T22:43:14Z",
-      "category": "trends-culture",
-      "tags": [
-        "drake",
-        "certifications"
-      ]
-    },
-    {
-      "id": "news-awn-com-news-territory-group-launches-ai-native-studio-lux-m",
-      "title": "Territory Group Launches AI-Native Studio Lux Meridian",
-      "summary": "Territory Group launched Lux Meridian, an AI-native studio collective developing theatrical features and series using Adobe Firefly Foundry workflows.",
-      "url": "https://www.awn.com/news/territory-group-launches-ai-native-studio-lux-meridian",
-      "source": "Animation World Network",
-      "published_at": "2026-10-23T20:09:44Z",
-      "category": "studios-companies",
-      "tags": [
-        "studio-launch",
+        "copyright",
         "ai"
       ]
     },
     {
-      "id": "news-awn-com-news-bad-guys-authors-game-pets-lands-animated-featu",
-      "title": "'Bad Guys' Author's 'Game of Pets' Lands Animated Feature at Amazon MGM",
-      "summary": "Rideback and Foundation Media Partners are adapting Aaron Blabey's Game of Pets into an animated feature at Amazon MGM Studios.",
-      "url": "https://www.awn.com/news/bad-guys-authors-game-pets-lands-animated-feature-amazon-mgm",
-      "source": "Animation World Network",
-      "published_at": "2026-10-23T18:49:09Z",
-      "category": "productions",
+      "id": "news-pitchfork-raye-wins-2026-mercury-prize",
+      "title": "Raye Wins 2026 Mercury Prize",
+      "summary": "British singer Raye won the 2026 Mercury Prize, beating nominees including Paul McCartney, Olivia Dean, Jade and Nia Archives.",
+      "url": "https://pitchfork.com/story/raye-wins-2026-mercury-prize/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-22T23:09:47Z",
+      "category": "trends-culture",
       "tags": [
-        "greenlight",
-        "animation"
+        "award",
+        "mercury-prize"
       ]
     },
     {
-      "id": "news-awn-com-news-tangles-iron-boy-take-top-honors-9th-animation-",
-      "title": "'Tangles,' 'Iron Boy' Take Top Honors at 9th Animation Is Film Festival",
-      "summary": "Tangles and Iron Boy led winners at the 9th Animation Is Film Festival, with shorts prizes going to Don Hertzfeldt and Anna Mantzaris.",
-      "url": "https://www.awn.com/news/tangles-iron-boy-take-top-honors-9th-animation-film-festival",
-      "source": "Animation World Network",
-      "published_at": "2026-10-23T18:24:57Z",
-      "category": "notable-work",
+      "id": "news-pitchfork-charli-xcx-martin-scorsese-film",
+      "title": "Charli XCX Will Appear in a Martin Scorsese Film",
+      "summary": "Pop star Charli XCX is set to appear in Martin Scorsese's upcoming film alongside Leonardo DiCaprio and Jennifer Lawrence, reports say.",
+      "url": "https://pitchfork.com/story/charli-xcx-will-appear-in-a-martin-scorsese-film/",
+      "source": "Pitchfork",
+      "published_at": "2026-10-22T21:47:19Z",
+      "category": "trends-culture",
       "tags": [
-        "awards",
-        "animation"
+        "casting",
+        "film"
       ]
     },
     {
       "id": "news-music-business-world-www-musicbusinessworldwide-com-lego-group-partners-with-daft",
       "title": "LEGO Group partners with Daft Punk – starting with a fan-designed set based on the duo’s 2007 Alive tour stage",
-      "summary": "LEGO Group greenlit a Daft Punk-themed set inspired by the duo's 2007 Alive tour stage, originally submitted as a fan design.",
+      "summary": "LEGO partnered with Daft Punk on a fan-designed set recreating the duo's 2007 Alive tour pyramid stage, greenlit via LEGO Ideas.",
       "url": "https://www.musicbusinessworldwide.com/lego-group-partners-with-daft-punk-starting-with-a-fan-designed-set-based-on-the-duos-2007-alive-tour-stage/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-23T16:30:17Z",
       "category": "trends-culture",
       "tags": [
         "partnership",
-        "brand"
-      ]
-    },
-    {
-      "id": "news-musictech-com-news-gear-loopmasters-loopcloud-8",
-      "title": "Loopmasters’ sampling powerhouse Loopcloud just got a massive update – here’s what’s new",
-      "summary": "Loopmasters released a major Loopcloud 8 update adding intelligent idea-generation tools, new effects, fresh FLIP presets and a new iOS companion app.",
-      "url": "https://musictech.com/news/gear/loopmasters-loopcloud-8/",
-      "source": "MusicTech",
-      "published_at": "2026-10-23T15:17:15Z",
-      "category": "music-tech",
-      "tags": [
-        "sampling",
-        "update"
+        "merchandise"
       ]
     },
     {
       "id": "news-musicbusinessworldwide-com-john-mayer-launches-sob-rock-reco",
       "title": "John Mayer launches Sob Rock Records in partnership with Universal’s Mercury",
-      "summary": "John Mayer launched Sob Rock Records, a new label created in partnership with Universal's Mercury Records, named after his 2021 album.",
+      "summary": "John Mayer launched a new label, Sob Rock Records, in partnership with Universal Music's Mercury Records imprint.",
       "url": "https://www.musicbusinessworldwide.com/john-mayer-launches-sob-rock-records-in-partnership-with-universals-mercury/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-23T15:04:40Z",
       "category": "labels-industry",
       "tags": [
-        "label-launch"
-      ]
-    },
-    {
-      "id": "social-masto-mastodon-social-macwinstudios-117490723904338830",
-      "title": "A VFX educator explained the face-replacement pipeline used to swap a stunt double's face for an actor's in post-production.",
-      "summary": "A VFX educator explained the face-replacement pipeline used to swap a stunt double's face for an actor's in post-production.",
-      "url": "https://mastodon.social/@macwinstudios/117490723904338830",
-      "source": "@macwinstudios@mastodon.social · Mastodon",
-      "published_at": "2026-10-23T14:36:12Z",
-      "category": "social-vfx",
-      "tags": [
-        "vfx",
-        "technique"
+        "new-label",
+        "universal"
       ]
     },
     {
       "id": "news-musicbusinessworldwide-com-position-music-hires-ex-big-deal-",
       "title": "Position Music hires ex-Big Deal Music and RCA exec Pete Robinson as GM, Creative Nashville",
-      "summary": "Position Music hired former Big Deal Music and RCA executive Pete Robinson as GM of Creative Nashville, reporting to the label's founders.",
+      "summary": "Position Music hired former Big Deal Music and RCA executive Pete Robinson as GM of its Creative Nashville division.",
       "url": "https://www.musicbusinessworldwide.com/position-music-hires-ex-big-deal-music-and-rca-exec-pete-robinson-as-gm-creative-nashville/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-23T14:04:10Z",
       "category": "labels-industry",
       "tags": [
         "exec-move",
-        "nashville"
+        "hire"
       ]
     },
     {
       "id": "news-musicbusinessworldwide-com-former-eminem-employee-pleads-gui",
       "title": "Former Eminem employee pleads guilty to selling unreleased tracks that were later accessed 8M+ times on streaming platforms",
-      "summary": "A former Eminem employee pleaded guilty to selling unreleased tracks later streamed over eight million times, according to federal court documents.",
+      "summary": "A former Eminem staffer pleaded guilty to selling unreleased tracks later streamed more than eight million times, per federal prosecutors.",
       "url": "https://www.musicbusinessworldwide.com/former-eminem-employee-pleads-guilty-to-selling-unreleased-tracks-that-were-later-accessed-8m-times-on-streaming-platforms/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-23T14:03:59Z",
       "category": "labels-industry",
       "tags": [
         "legal",
-        "piracy"
+        "leak"
       ]
     },
     {
       "id": "news-musicbusinessworldwide-com-seeker-music-acquires-original-an",
       "title": "Seeker Music acquires original and re-recorded versions of JoJo’s first two albums",
-      "summary": "Seeker Music acquired original and re-recorded versions of JoJo's first two albums, covering her 2004 debut and 2006 follow-up The High Road.",
+      "summary": "Seeker Music acquired the original and re-recorded masters of JoJo's first two albums, covering her 2004 debut and 2006 follow-up.",
       "url": "https://www.musicbusinessworldwide.com/seeker-music-acquires-original-and-re-recorded-versions-of-jojos-first-two-albums/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-23T14:03:39Z",
       "category": "business-funding",
       "tags": [
-        "catalog-deal",
-        "acquisition"
+        "acquisition",
+        "catalog"
       ]
     },
     {
       "id": "news-musicbusinessworldwide-com-house-democrats-escalate-probe-of",
       "title": "House Democrats escalate probe of StubHub CEO Eric Baker, now targeting his role at ticket reseller Andro Capital",
-      "summary": "House Democrats escalated their probe of StubHub CEO Eric Baker, now scrutinizing his role at ticket-reseller Andro Capital amid ongoing scrutiny.",
+      "summary": "House Democrats expanded their probe of StubHub CEO Eric Baker to scrutinize his role at ticket reseller Andro Capital.",
       "url": "https://www.musicbusinessworldwide.com/house-democrats-escalate-probe-of-stubhub-ceo-eric-baker-now-targeting-his-role-at-ticket-reseller-andro-capital/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-23T14:03:15Z",
@@ -382,304 +135,228 @@
     {
       "id": "news-musicbusinessworldwide-com-chris-brown-producer-sues-sony-mu",
       "title": "Chris Brown producer sues Sony Music for $1.25M, claiming it stalled the sale of his ‘Party’ royalties and paid him half the agreed rate",
-      "summary": "A Chris Brown producer sued Sony Music for $1.25 million, alleging the label stalled a royalty sale and paid him half the agreed rate.",
+      "summary": "A producer for Chris Brown sued Sony Music for $1.25 million, alleging it stalled a royalty sale and underpaid him.",
       "url": "https://www.musicbusinessworldwide.com/chris-brown-producer-sues-sony-music-for-1-25m-claiming-it-stalled-the-sale-of-his-party-royalties-and-paid-him-half-the-agreed-rate/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-23T14:02:43Z",
       "category": "business-funding",
       "tags": [
-        "legal",
+        "lawsuit",
         "royalties"
-      ]
-    },
-    {
-      "id": "social-masto-mastodon-social-crewmade-117487330155075162",
-      "title": "A new filmmaking account, CREW MADE, launched to tell sourced, credited stories about every department behind how films actually get made.",
-      "summary": "A new filmmaking account, CREW MADE, launched to tell sourced, credited stories about every department behind how films actually get made.",
-      "url": "https://mastodon.social/@crewmade/117487330155075162",
-      "source": "@crewmade@mastodon.social · Mastodon",
-      "published_at": "2026-10-23T00:13:08Z",
-      "category": "social-people",
-      "tags": [
-        "community",
-        "filmmaking"
-      ]
-    },
-    {
-      "id": "news-pitchfork-raye-wins-2026-mercury-prize",
-      "title": "Raye Wins 2026 Mercury Prize",
-      "summary": "Raye won the 2026 Mercury Prize, beating nominees including Paul McCartney, Olivia Dean, Jade and Nia Archives for the UK album award.",
-      "url": "https://pitchfork.com/story/raye-wins-2026-mercury-prize/",
-      "source": "Pitchfork",
-      "published_at": "2026-10-22T23:09:47Z",
-      "category": "trends-culture",
-      "tags": [
-        "awards",
-        "uk"
-      ]
-    },
-    {
-      "id": "news-pitchfork-charli-xcx-martin-scorsese-film",
-      "title": "Charli XCX Will Appear in a Martin Scorsese Film",
-      "summary": "Pop artist Charli XCX will reportedly appear in Martin Scorsese's upcoming film What Happens At Night, alongside Leonardo DiCaprio and Jennifer Lawrence.",
-      "url": "https://pitchfork.com/story/charli-xcx-will-appear-in-a-martin-scorsese-film/",
-      "source": "Pitchfork",
-      "published_at": "2026-10-22T21:47:19Z",
-      "category": "productions",
-      "tags": [
-        "casting",
-        "crossover"
-      ]
-    },
-    {
-      "id": "social-mast-mstdn-business-seedancecheap-117486458003205060",
-      "title": "A filmmaking account shared an internal Seedance 2.0 AI video model test, comparing a text prompt against its generated paper-boat footage.",
-      "summary": "A filmmaking account shared an internal Seedance 2.0 AI video model test, comparing a text prompt against its generated paper-boat footage.",
-      "url": "https://mstdn.business/@SeedanceCheap/117486458003205060",
-      "source": "@SeedanceCheap@mstdn.business · Mastodon",
-      "published_at": "2026-10-22T20:31:20Z",
-      "category": "social-vfx",
-      "tags": [
-        "ai-video",
-        "seedance"
-      ]
-    },
-    {
-      "id": "social-masto-corridorkey-2",
-      "title": "A filmmaker praised Corridor Crew's CorridorKey 2.0 green-screen keyer as a next-level production tool built by the YouTube group.",
-      "summary": "A filmmaker praised Corridor Crew's CorridorKey 2.0 green-screen keyer as a next-level production tool built by the YouTube group.",
-      "url": "https://ohai.social/@tweak/117486455310719493",
-      "source": "@tweak@ohai.social · Mastodon",
-      "published_at": "2026-10-22T20:30:39Z",
-      "category": "social-vfx",
-      "tags": [
-        "vfx",
-        "tool"
       ]
     },
     {
       "id": "news-musicbusinessworldwide-com-latin-america-is-catching-north-a",
       "title": "Latin America is catching North America as Spotify’s second-biggest subscriber market – and over 1 in 10 people there now pay for it.",
-      "summary": "Latin America is closing in on North America as Spotify's second-biggest subscriber market, with over one in ten people there now paying.",
+      "summary": "Spotify's Q3 2026 results show Latin America overtaking North America as its second-largest Premium market, with over 10% now paying.",
       "url": "https://www.musicbusinessworldwide.com/latin-america-is-catching-north-america-as-spotifys-second-biggest-subscriber-market-and-over-1-in-10-people-there-now-pay-for-it/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-22T20:09:25Z",
-      "category": "trends-culture",
+      "category": "business-funding",
       "tags": [
-        "market-data",
-        "streaming"
+        "spotify",
+        "market-data"
       ]
     },
     {
       "id": "news-mbw-tony-berg-warner-jv-label",
       "title": "Phoebe Bridgers and Sombr producer, Tony Berg, launches new JV label with Warner Records",
-      "summary": "Producer Tony Berg launched a new joint-venture label, Crime & Punishment Records, with Warner Records and Phoebe Bridgers backing, signing Elle Bramhall.",
+      "summary": "Producer Tony Berg, known for work with Phoebe Bridgers and Sombr, launched a joint-venture label with Warner Records signing Elle Bramhall.",
       "url": "https://www.musicbusinessworldwide.com/phoebe-bridgers-and-sombr-producer-tony-berg-launches-new-jv-label-with-warner-records/",
       "source": "Music Business Worldwide",
       "published_at": "2026-10-22T18:36:45Z",
       "category": "labels-industry",
       "tags": [
-        "label-launch",
-        "jv"
+        "new-label",
+        "warner"
+      ]
+    },
+    {
+      "id": "news-musictech-com-news-gear-loopmasters-loopcloud-8",
+      "title": "Loopmasters’ sampling powerhouse Loopcloud just got a massive update – here’s what’s new",
+      "summary": "Loopmasters released Loopcloud 8, adding intelligent idea-generation tools, new effects, fresh FLIP presets, and a new iOS companion app.",
+      "url": "https://musictech.com/news/gear/loopmasters-loopcloud-8/",
+      "source": "MusicTech",
+      "published_at": "2026-10-23T15:17:15Z",
+      "category": "music-tech",
+      "tags": [
+        "software",
+        "sampling"
       ]
     },
     {
       "id": "news-musictech-akai-mpk-mini-plus-ii",
       "title": "Akai just launched its next-gen MPK Mini Plus keyboard controller – here’s what’s new",
-      "summary": "Akai launched its next-generation MPK Mini Plus II keyboard controller, aimed at creators ready to move beyond entry-level music-making gear.",
+      "summary": "Akai launched the next-generation MPK Mini Plus II keyboard controller, aimed at creators ready to move beyond entry-level production gear.",
       "url": "https://musictech.com/news/gear/akai-mpk-mini-plus-ii/",
       "source": "MusicTech",
       "published_at": "2026-10-22T14:54:26Z",
       "category": "music-tech",
       "tags": [
-        "launch",
-        "controller"
+        "hardware",
+        "launch"
       ]
     },
     {
-      "id": "social-masto-justpaste-wahlberg-ai",
-      "title": "Actor Mark Wahlberg said he's open to using AI in filmmaking \"the right way\" and to an AI clone continuing his legacy.",
-      "summary": "Actor Mark Wahlberg said he's open to using AI in filmmaking \"the right way\" and to an AI clone continuing his legacy.",
-      "url": "https://mastodon.social/@justpaste/117484995808027415",
-      "source": "@justpaste@mastodon.social · Mastodon",
-      "published_at": "2026-10-22T14:19:29Z",
-      "category": "social-people",
-      "tags": [
-        "ai",
-        "actor"
-      ]
-    },
-    {
-      "id": "news-cdm-link-roland-tr-1000-1-5-update",
-      "title": "Roland TR-1000 1.5: keyboard mode, seamless kit switching, more",
-      "summary": "Roland released a 1.5 firmware update for its TR-1000 drum machine, adding keyboard mode, seamless kit switching, note sequencing and UI fixes.",
-      "url": "https://cdm.link/roland-tr-1000-1-5-update/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-22T13:05:31Z",
+      "id": "news-musictech-musictech-com-features-interviews-l-acoustics-carlos-mosquera-intervie",
+      "title": "What the ultimate nostalgia gig showed me about the future of live sound",
+      "summary": "L-Acoustics' L-ISA spatial audio system powered a stadium-scale live mix for the Backstreet Boys in Dusseldorf, showcased as the future of live sound.",
+      "url": "https://musictech.com/features/interviews/l-acoustics-carlos-mosquera-interview-backstreet-boys-l-isa-spatial-audio/",
+      "source": "MusicTech",
+      "published_at": "2026-10-22T13:35:13Z",
       "category": "music-tech",
       "tags": [
-        "update",
-        "drum-machine"
+        "spatial-audio",
+        "live-sound"
       ]
     },
     {
       "id": "news-musictech-com-news-gear-tantrum-audio-nexus",
       "title": "Tantrum Audio NEXUS: a compact hardware DSP processor built for room correction",
-      "summary": "Tantrum Audio unveiled NEXUS, a compact hardware DSP processor built for room correction, now available for preorder ahead of mid-November shipping.",
+      "summary": "Tantrum Audio opened preorders for NEXUS, a compact hardware DSP processor built for room correction, shipping from mid-November.",
       "url": "https://musictech.com/news/gear/tantrum-audio-nexus/",
       "source": "MusicTech",
       "published_at": "2026-10-22T11:51:39Z",
       "category": "music-tech",
       "tags": [
-        "launch",
-        "hardware"
+        "hardware",
+        "preorder"
+      ]
+    },
+    {
+      "id": "news-cdm-link-roland-tr-1000-1-5-update",
+      "title": "Roland TR-1000 1.5: keyboard mode, seamless kit switching, more",
+      "summary": "Roland released a 1.5 firmware update for its TR-1000 drum machine, adding keyboard mode and seamless kit switching.",
+      "url": "https://cdm.link/roland-tr-1000-1-5-update/",
+      "source": "CDM (Create Digital Music)",
+      "published_at": "2026-10-22T13:05:31Z",
+      "category": "music-tech",
+      "tags": [
+        "firmware",
+        "roland"
       ]
     },
     {
       "id": "news-cdm-create-digital-music-mulch-box-patch-bay-and-multiplier",
       "title": "The world is your modular: Mulch Box, an all-jacks patch bay and multiplier",
-      "summary": "Go Outside launched Mulch Box, a pedal-sized, powerless all-jacks patch bay and signal multiplier for routing gear with mini and full-size jacks.",
+      "summary": "New hardware company Go Outside launched Mulch Box, a pedal-sized, all-jacks patch bay and signal multiplier for modular setups.",
       "url": "https://cdm.link/mulch-box-patch-bay-and-multiplier/",
       "source": "CDM (Create Digital Music)",
       "published_at": "2026-10-21T16:15:03Z",
       "category": "music-tech",
       "tags": [
-        "launch",
+        "modular",
         "hardware"
-      ]
-    },
-    {
-      "id": "news-befores-afters-watch-framestores-vfx-breakdown-for-east",
-      "title": "Watch Framestore’s VFX breakdown for ‘East of Eden’",
-      "summary": "Framestore shared a new VFX breakdown detailing its visual effects work on the drama series East of Eden.",
-      "url": "https://beforesandafters.com/2026/10/21/watch-framestores-vfx-breakdown-for-east-of-eden/",
-      "source": "befores & afters",
-      "published_at": "2026-10-21T07:06:30Z",
-      "category": "notable-work",
-      "tags": [
-        "vfx-breakdown"
-      ]
-    },
-    {
-      "id": "news-cdm-link-arturia-minifreak-49-review",
-      "title": "Arturia’s new MiniFreak 49 synth is tactile, exploration-friendly: tested",
-      "summary": "A hands-on test found Arturia's new MiniFreak 49 synthesizer more tactile and exploration-friendly, evolving the range beyond its original compact model.",
-      "url": "https://cdm.link/arturia-minifreak-49-review/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-20T16:04:15Z",
-      "category": "music-tech",
-      "tags": [
-        "synth",
-        "review"
       ]
     },
     {
       "id": "news-cdm-link-roland-boutique-jupiter-nvision",
       "title": "Baby Roland is back: Boutique JUPITER-08, n/vision wavetable synths",
-      "summary": "Roland revived its Boutique series with a fully polyphonic JUPITER-08 remake and launched the all-new n/vision wavetable synthesizer.",
+      "summary": "Roland revived its mini Boutique synth line with a full-polyphony JUPITER-08 remake and a new n/vision wavetable synthesizer.",
       "url": "https://cdm.link/roland-boutique-jupiter-nvision/",
       "source": "CDM (Create Digital Music)",
       "published_at": "2026-10-20T09:06:05Z",
       "category": "music-tech",
       "tags": [
-        "launch",
-        "synth"
-      ]
-    },
-    {
-      "id": "news-beforesandafters-digital-domain-disclosure-day",
-      "title": "Digital Domain’s VFX breakdown for ‘Disclosure Day’ is here",
-      "summary": "Digital Domain released a VFX breakdown of Disclosure Day, showing its work on a train sequence and alien effects.",
-      "url": "https://beforesandafters.com/2026/10/20/digital-domains-vfx-breakdown-for-disclosure-day-is-here/",
-      "source": "befores & afters",
-      "published_at": "2026-10-19T17:42:03Z",
-      "category": "notable-work",
-      "tags": [
-        "vfx-breakdown"
-      ]
-    },
-    {
-      "id": "news-cdm-create-digital-m-cdm-link-abed-eyad-gaza-interview",
-      "title": "Abed Eyad is making beats in Gaza: interview, call for support",
-      "summary": "Palestinian producer Abed Eyad continues making beats amid the ongoing crisis in Gaza, drawing attention to his work and calls for support.",
-      "url": "https://cdm.link/abed-eyad-gaza-interview/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-18T12:44:02Z",
-      "category": "emerging-artists",
-      "tags": [
-        "gaza",
-        "producer"
-      ]
-    },
-    {
-      "id": "news-cdm-create-digital-m-cdm-link-drexciya-toronto",
-      "title": "The myth of Drexciya is coming to the Toronto Biennial — with playlist",
-      "summary": "The Drexciya myth, retold by Underground Resistance, comes to the Toronto Biennial through December, accompanied by a new playlist from the label.",
-      "url": "https://cdm.link/drexciya-toronto/",
-      "source": "CDM (Create Digital Music)",
-      "published_at": "2026-10-16T14:59:10Z",
-      "category": "trends-culture",
-      "tags": [
-        "exhibition",
-        "legacy"
+        "synth",
+        "launch"
       ]
     },
     {
       "id": "news-cdm-link-teenage-engineering-op-xy-added-a-drum-synth-sound-",
       "title": "teenage engineering op-xy added a drum synth, sound shaping, more",
-      "summary": "teenage engineering shipped an official op-xy firmware update adding a new drum synth, multichannel audio, a dynamic filter and detune controls.",
+      "summary": "Teenage Engineering updated its op-xy groovebox with a new drum synth engine and expanded sound-shaping tools via firmware.",
       "url": "https://cdm.link/teenage-engineering-op-xy-added-a-drum-synth-sound-shaping-more/",
       "source": "CDM (Create Digital Music)",
       "published_at": "2026-10-15T20:37:02Z",
       "category": "music-tech",
       "tags": [
         "firmware",
-        "update"
+        "teenage-engineering"
+      ]
+    },
+    {
+      "id": "news-befores-afters-beforesandafters-com-2026-10-25-watch-image-engines-vfx-brea",
+      "title": "Watch Image Engine’s VFX breakdown for ‘The Mandalorian & Grogu’",
+      "summary": "Image Engine released a VFX breakdown showing its visual effects work on 'The Mandalorian & Grogu.'",
+      "url": "https://beforesandafters.com/2026/10/25/watch-image-engines-vfx-breakdown-for-the-mandalorian-grogu/",
+      "source": "befores & afters",
+      "published_at": "2026-10-25T07:10:02Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "mandalorian"
+      ]
+    },
+    {
+      "id": "news-befores-afters-watch-framestores-vfx-breakdown-for-east",
+      "title": "Watch Framestore’s VFX breakdown for ‘East of Eden’",
+      "summary": "Framestore published a VFX breakdown detailing its visual effects work on the film 'East of Eden.'",
+      "url": "https://beforesandafters.com/2026/10/21/watch-framestores-vfx-breakdown-for-east-of-eden/",
+      "source": "befores & afters",
+      "published_at": "2026-10-21T07:06:30Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "framestore"
+      ]
+    },
+    {
+      "id": "news-beforesandafters-digital-domain-disclosure-day",
+      "title": "Digital Domain’s VFX breakdown for ‘Disclosure Day’ is here",
+      "summary": "Digital Domain shared a VFX breakdown of its train-scene and alien effects work on 'Disclosure Day.'",
+      "url": "https://beforesandafters.com/2026/10/20/digital-domains-vfx-breakdown-for-disclosure-day-is-here/",
+      "source": "befores & afters",
+      "published_at": "2026-10-19T17:42:03Z",
+      "category": "notable-work",
+      "tags": [
+        "breakdown",
+        "digital-domain"
       ]
     },
     {
       "id": "news-befores-afters-beforesandafters-com-2026-10-16-turning-hugh-jackman-into-hi",
       "title": "Turning Hugh Jackman into his younger clone",
-      "summary": "Befores & Afters detailed how Image Engine's VFX team digitally de-aged Hugh Jackman to create his younger clone character in Logan.",
+      "summary": "A retrospective breakdown explains how Image Engine created Hugh Jackman's younger X-24 clone for the film 'Logan.'",
       "url": "https://beforesandafters.com/2026/10/16/turning-hugh-jackman-into-his-younger-clone/",
       "source": "befores & afters",
       "published_at": "2026-10-15T14:12:07Z",
       "category": "notable-work",
       "tags": [
         "de-aging",
-        "vfx"
+        "logan"
       ]
     },
     {
       "id": "news-beforesandafters-com-2026-10-15-how-framestore-made-appa",
       "title": "How Framestore made Appa",
-      "summary": "Framestore detailed how it created the flying bison Appa for season two of Avatar: The Last Airbender.",
+      "summary": "Framestore detailed how it created Appa for 'Avatar: The Last Airbender' season 2 in a new VFX breakdown.",
       "url": "https://beforesandafters.com/2026/10/15/how-framestore-made-appa/",
       "source": "befores & afters",
       "published_at": "2026-10-14T16:26:52Z",
       "category": "notable-work",
       "tags": [
-        "vfx-breakdown",
-        "avatar"
+        "breakdown",
+        "framestore"
       ]
     },
     {
       "id": "news-beforesandafters-com-2026-10-14-give-your-stories-more-ways-",
       "title": "Give your stories more ways to take shape with Canvas in Flow Studio",
-      "summary": "Autodesk's Flow Studio added a new Canvas tool giving filmmakers more ways to create and refine characters, worlds and story moments with AI models.",
+      "summary": "Autodesk's Flow Studio added a new Canvas feature letting filmmakers use AI models to shape characters, worlds and story moments.",
       "url": "https://beforesandafters.com/2026/10/14/give-your-stories-more-ways-to-take-shape-with-canvas-in-flow-studio/",
       "source": "befores & afters",
       "published_at": "2026-10-14T10:08:52Z",
       "category": "ai-creative",
       "tags": [
-        "tool-launch",
+        "ai-tool",
         "generative"
       ]
     },
     {
       "id": "news-beforesandafters-com-2026-10-14-reallusion-and-escape-ai-par",
       "title": "Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution",
-      "summary": "Reallusion and Escape.AI formed a strategic alliance connecting Reallusion's 3D ecosystem with John Gaeta's Neo Cinema platform to ease AI video bottlenecks.",
+      "summary": "Reallusion and Escape.AI formed a partnership connecting Reallusion's 3D ecosystem with John Gaeta's Neo Cinema AI video platform.",
       "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/",
       "source": "befores & afters",
       "published_at": "2026-10-13T15:49:43Z",
@@ -692,182 +369,624 @@
     {
       "id": "news-beforesandafters-com-2026-10-12-creating-the-spinosaurus-for",
       "title": "Creating the Spinosaurus for ‘The End of Oak Street’",
-      "summary": "Befores & Afters detailed how practical and digital effects combined to create the Spinosaurus for The End of Oak Street.",
+      "summary": "A new breakdown shows how practical and digital effects combined to create the Spinosaurus for 'The End of Oak Street.'",
       "url": "https://beforesandafters.com/2026/10/12/creating-the-spinosaurus-for-the-end-of-oak-street/",
       "source": "befores & afters",
       "published_at": "2026-10-12T07:35:58Z",
       "category": "notable-work",
       "tags": [
-        "vfx-breakdown",
-        "creature"
-      ]
-    },
-    {
-      "id": "social-yt-ZOIJNE8AXiE",
-      "title": "How We Made Primordia EP.1 | AI Filmmaking Breakdown with TapNow Creative OS",
-      "summary": "TapNow broke down how it made animated short Primordia using its AI filmmaking Creative OS, drawing over 640,000 views.",
-      "url": "https://www.youtube.com/watch?v=ZOIJNE8AXiE",
-      "source": "YouTube · Film",
-      "published_at": "2026-10-10T14:46:19Z",
-      "category": "social-youtube",
-      "tags": [
-        "ai",
-        "filmmaking"
+        "creature",
+        "breakdown"
       ]
     },
     {
       "id": "news-beforesandafters-com-2026-10-10-brand-new-backrooms-vfx-brea",
       "title": "Brand new ‘Backrooms’ VFX breakdown is out",
-      "summary": "A new VFX breakdown showed behind-the-scenes work on Backrooms, covering its found-footage opener, alleyway sequence and Vertigo Room effects.",
+      "summary": "A new VFX breakdown reveals the effects behind 'Backrooms,' including its found-footage opener and the Vertigo Room sequence.",
       "url": "https://beforesandafters.com/2026/10/10/brand-new-backrooms-vfx-breakdown-is-out/",
       "source": "befores & afters",
       "published_at": "2026-10-09T20:45:51Z",
       "category": "notable-work",
       "tags": [
-        "vfx-breakdown"
-      ]
-    },
-    {
-      "id": "social-yt-5n1moucsvhi-claude-capcut",
-      "title": "Claude Edited My Entire CapCut Video (I Didn’t Touch the Timeline)",
-      "summary": "A creator demonstrated using Claude to automatically edit an entire CapCut video without manually touching the timeline, drawing over 750,000 views.",
-      "url": "https://www.youtube.com/watch?v=5N1moUCsVhI",
-      "source": "YouTube · VFX",
-      "published_at": "2026-10-09T12:27:39Z",
-      "category": "social-youtube",
-      "tags": [
-        "ai",
-        "video-editing"
-      ]
-    },
-    {
-      "id": "social-yt-DEz-v05PD1I",
-      "title": "Behind the Live Mix of Bruno Mars 2026",
-      "summary": "Waves Audio profiled the live sound engineering behind Bruno Mars' 2026 tour mix, drawing over 600,000 views.",
-      "url": "https://www.youtube.com/watch?v=DEz-v05PD1I",
-      "source": "YouTube · Music",
-      "published_at": "2026-10-08T15:36:49Z",
-      "category": "social-youtube",
-      "tags": [
-        "live-sound",
-        "tour"
+        "breakdown",
+        "backrooms"
       ]
     },
     {
       "id": "news-fxguide-com-fxpodcasts-dneg-on-making-cartoon-logic-work-in-",
       "title": "DNEG on Making Cartoon Logic Work in Coyote vs. Acme",
-      "summary": "DNEG's VFX supervisor and animation director discussed making cartoon physics work for the live-action animated feature Coyote vs. Acme.",
+      "summary": "DNEG's VFX supervisor and animation director discussed building the cartoon physics for 'Coyote vs. Acme' in a new podcast.",
       "url": "https://www.fxguide.com/fxpodcasts/dneg-on-making-cartoon-logic-work-in-coyote-vs-acme/",
       "source": "fxguide",
       "published_at": "2026-10-08T01:01:14Z",
       "category": "notable-work",
       "tags": [
-        "vfx-breakdown",
-        "animation"
-      ]
-    },
-    {
-      "id": "social-yt-introducing-dmno-on-desktop-synthesizer",
-      "title": "Introducing DMNO ON — Desktop Synthesizer",
-      "summary": "UDO Audio introduced DMNO ON, a new desktop synthesizer, in a launch video for the hardware instrument.",
-      "url": "https://www.youtube.com/watch?v=wR9FqYS0twY",
-      "source": "YouTube · Music",
-      "published_at": "2026-10-06T13:30:19Z",
-      "category": "social-youtube",
-      "tags": [
-        "synth",
-        "launch"
+        "podcast",
+        "dneg"
       ]
     },
     {
       "id": "news-fxguide-www-fxguide-com-quicktakes-creating-4k-from-apple-immersive",
       "title": "Creating 4K from Apple Immersive (AIV)",
-      "summary": "fxguide detailed a new technique for converting Apple Immersive Video content into faithful 4K versions, expanding potential audiences for immersive films.",
+      "summary": "A new process converts Apple Immersive Video footage into faithful 4K versions, widening the potential audience for immersive films.",
       "url": "https://www.fxguide.com/quicktakes/creating-4k-from-apple-immersive-avp/",
       "source": "fxguide",
       "published_at": "2026-10-06T07:58:39Z",
       "category": "vfx-tech",
       "tags": [
-        "immersive",
-        "format"
+        "immersive-video",
+        "apple"
       ]
     },
     {
-      "id": "social-yt-Iwh_BnClTJM",
-      "title": "How Dune Created the Giant Sandworms",
-      "summary": "A VFX breakdown video explaining how Dune's giant sandworms were created drew over 1.6 million views.",
-      "url": "https://www.youtube.com/watch?v=Iwh_BnClTJM",
+      "id": "news-animation-world-network-www-awn-com-news-play-all-dispatch-through-its-original-storyboard-ani",
+      "title": "Play All of 'Dispatch' Through Its Original Storyboard Animatics",
+      "summary": "The animated superhero game 'Dispatch' added a free update letting players replay the full story through its original storyboard animatics.",
+      "url": "https://www.awn.com/news/play-all-dispatch-through-its-original-storyboard-animatics",
+      "source": "Animation World Network",
+      "published_at": "2026-10-23T23:48:01Z",
+      "category": "notable-work",
+      "tags": [
+        "animatics",
+        "game"
+      ]
+    },
+    {
+      "id": "news-animation-world-network-www-awn-com-animationworld-simpsons-finally-gets-its-nightmare-christm",
+      "title": "'The Simpsons' Finally Gets Its 'Nightmare Before Christmas' Moment",
+      "summary": "Stoopid Buddy Stoodios crafted a stop-motion 'Nightmare Before Christmas' homage for this year's 'Simpsons' Treehouse of Horror episode.",
+      "url": "https://www.awn.com/animationworld/simpsons-finally-gets-its-nightmare-christmas-moment",
+      "source": "Animation World Network",
+      "published_at": "2026-10-23T23:21:35Z",
+      "category": "notable-work",
+      "tags": [
+        "stop-motion",
+        "simpsons"
+      ]
+    },
+    {
+      "id": "news-awn-com-news-territory-group-launches-ai-native-studio-lux-m",
+      "title": "Territory Group Launches AI-Native Studio Lux Meridian",
+      "summary": "Territory Group launched Lux Meridian, an AI-native studio collective that will develop features and series using Adobe Firefly Foundry models.",
+      "url": "https://www.awn.com/news/territory-group-launches-ai-native-studio-lux-meridian",
+      "source": "Animation World Network",
+      "published_at": "2026-10-23T20:09:44Z",
+      "category": "studios-companies",
+      "tags": [
+        "new-studio",
+        "ai"
+      ]
+    },
+    {
+      "id": "news-awn-com-news-tangles-iron-boy-take-top-honors-9th-animation-",
+      "title": "'Tangles,' 'Iron Boy' Take Top Honors at 9th Animation Is Film Festival",
+      "summary": "Leah Nelson's 'Tangles' led winners at the 9th Animation Is Film Festival, with Louis Clichy's 'Iron Boy' also taking top honors.",
+      "url": "https://www.awn.com/news/tangles-iron-boy-take-top-honors-9th-animation-film-festival",
+      "source": "Animation World Network",
+      "published_at": "2026-10-23T18:24:57Z",
+      "category": "notable-work",
+      "tags": [
+        "award",
+        "animation-is-film"
+      ]
+    },
+    {
+      "id": "news-animation-world-network-www-awn-com-vfxworld-bringing-pandora-focus-dylan-cole-talks-avatar",
+      "title": "Bringing Pandora Into Focus: Dylan Cole Talks 'Avatar'",
+      "summary": "Avatar co-production designer Dylan Cole explained how concept art becomes sets James Cameron can shoot, with Weta FX maintaining visual consistency.",
+      "url": "https://www.awn.com/vfxworld/bringing-pandora-focus-dylan-cole-talks-avatar",
+      "source": "Animation World Network",
+      "published_at": "2026-10-23T15:14:48Z",
+      "category": "notable-work",
+      "tags": [
+        "avatar",
+        "weta-fx"
+      ]
+    },
+    {
+      "id": "news-variety-variety-com-2026-film-festivals-velocipastor-2-filmquest-audience-laug",
+      "title": "‘VelociPastor 2’ Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+      "summary": "'VelociPastor 2' drew an enthusiastic FilmQuest crowd celebrating deliberately homemade, human-crafted filmmaking amid growing AI film production.",
+      "url": "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949/",
+      "source": "Variety",
+      "published_at": "2026-10-26T08:53:16Z",
+      "category": "ai-creative",
+      "tags": [
+        "festival",
+        "human-made"
+      ]
+    },
+    {
+      "id": "news-variety-variety-com-2026-film-global-apple-cadabra-i-shrunk-epsilon-film-12369",
+      "title": "Animated Movie ‘Apple Cadabra – I Shrunk Myself’ Boarded by Epsilon Film (EXCLUSIVE)",
+      "summary": "Epsilon Film acquired worldwide rights to the animated feature 'Apple Cadabra - I Shrunk Myself,' based on a German children's book series.",
+      "url": "https://variety.com/2026/film/global/apple-cadabra-i-shrunk-epsilon-film-1236931009/",
+      "source": "Variety",
+      "published_at": "2026-10-26T08:30:00Z",
+      "category": "productions",
+      "tags": [
+        "acquisition",
+        "animated-feature"
+      ]
+    },
+    {
+      "id": "news-variety-variety-com-2026-film-festivals-tokyo-film-festival-reassess-global-st",
+      "title": "Tokyo Film Festival to Reassess Its Global Standing Ahead of 40th Edition, Says Director Hisamatsu Takeo",
+      "summary": "The Tokyo International Film Festival plans to reassess its global standing after this edition, ahead of its 40th anniversary next year.",
+      "url": "https://variety.com/2026/film/festivals/tokyo-film-festival-reassess-global-standing-40th-edition-1236930996/",
+      "source": "Variety",
+      "published_at": "2026-10-26T07:28:12Z",
+      "category": "productions",
+      "tags": [
+        "festival",
+        "tokyo"
+      ]
+    },
+    {
+      "id": "news-variety-variety-com-2026-film-festivals-star-flops-dent-china-festival-presenc",
+      "title": "Star Flops and Slowing Investment Help Explain China’s Thin Festival Presence, Says Tokyo Programming Director",
+      "summary": "Box-office flops, slowing investment and stricter censorship are cited for China's reduced presence at this year's Tokyo Film Festival.",
+      "url": "https://variety.com/2026/film/festivals/star-flops-dent-china-festival-presence-tokyo-ichiyama-shozo-1236930989/",
+      "source": "Variety",
+      "published_at": "2026-10-26T07:00:42Z",
+      "category": "productions",
+      "tags": [
+        "festival",
+        "china"
+      ]
+    },
+    {
+      "id": "news-variety-variety-com-2026-film-festivals-anime-pay-divide-studios-appetite-risk",
+      "title": "Anime’s Pay Divide Runs Between Studios That Take Risks and Those That Don’t, Says Tokyo Festival Advisor",
+      "summary": "A Tokyo festival advisor says anime pay gaps are widening between studios willing to risk their own capital and those that aren't.",
+      "url": "https://variety.com/2026/film/festivals/anime-pay-divide-studios-appetite-risk-tokyo-advisor-1236930984/",
+      "source": "Variety",
+      "published_at": "2026-10-26T06:42:07Z",
+      "category": "studios-companies",
+      "tags": [
+        "anime",
+        "labor"
+      ]
+    },
+    {
+      "id": "news-deadline-deadline-com-2026-10-bbc-gives-lucie-kon-storyville-antisemitism-payou",
+      "title": "BBC Pays $530,000 To ‘Mr. Nobody Against Putin’ Exec Over Antisemitism Claims",
+      "summary": "The BBC paid roughly $534,000 to a 'Mr. Nobody Against Putin' producer who said she faced antisemitism at the broadcaster.",
+      "url": "https://deadline.com/2026/10/bbc-gives-lucie-kon-storyville-antisemitism-payout-1237172923/",
+      "source": "Deadline",
+      "published_at": "2026-10-26T09:41:14Z",
+      "category": "studios-companies",
+      "tags": [
+        "bbc",
+        "legal"
+      ]
+    },
+    {
+      "id": "news-deadline-deadline-com-2026-10-disney-plus-the-walsh-sisters-marian-keyes-rte-bb",
+      "title": "Disney+ Among Buyers For RTÉ & BBC Drama ‘The Walsh Sisters’",
+      "summary": "Disney+ is among several buyers acquiring RTE and BBC comedy-drama 'The Walsh Sisters,' based on Marian Keyes' bestselling book series.",
+      "url": "https://deadline.com/2026/10/disney-plus-the-walsh-sisters-marian-keyes-rte-bbc-series-1237172919/",
+      "source": "Deadline",
+      "published_at": "2026-10-26T09:08:40Z",
+      "category": "streaming",
+      "tags": [
+        "disney-plus",
+        "acquisition"
+      ]
+    },
+    {
+      "id": "news-deadline-deadline-com-2026-10-ted-sarandos-netflix-korea-ten-year-anniversary-1",
+      "title": "Ted Sarandos Shrugs Off U.S. Troubles To Mark Netflix’s 10 Years In Korea",
+      "summary": "Netflix co-CEO Ted Sarandos marked the streamer's tenth anniversary in Korea at a Seoul event, shrugging off U.S. criticism.",
+      "url": "https://deadline.com/2026/10/ted-sarandos-netflix-korea-ten-year-anniversary-1237172907/",
+      "source": "Deadline",
+      "published_at": "2026-10-26T08:21:40Z",
+      "category": "streaming",
+      "tags": [
+        "netflix",
+        "korea"
+      ]
+    },
+    {
+      "id": "news-deadline-deadline-com-2026-10-risingjoy-ntt-docomo-studio-international-distrib",
+      "title": "RisingJoy Signs International Distribution Pact With NTT DOCOMO",
+      "summary": "Singapore's RisingJoy signed an international distribution pact with Japan's NTT DOCOMO Studio & Live for its content catalog.",
+      "url": "https://deadline.com/2026/10/risingjoy-ntt-docomo-studio-international-distribution-1237172884/",
+      "source": "Deadline",
+      "published_at": "2026-10-26T06:23:00Z",
+      "category": "streaming",
+      "tags": [
+        "distribution",
+        "docomo"
+      ]
+    },
+    {
+      "id": "news-deadline-deadline-com-2026-10-eric-bauza-dead-voice-of-bugs-bunny-1237172857",
+      "title": "Eric Bauza Dies: Emmy-Winning Voice Of Bugs Bunny & Daffy Duck & Much More Was 46",
+      "summary": "Emmy-winning voice actor Eric Bauza, known for voicing Bugs Bunny and Daffy Duck, has died at age 46.",
+      "url": "https://deadline.com/2026/10/eric-bauza-dead-voice-of-bugs-bunny-1237172857/",
+      "source": "Deadline",
+      "published_at": "2026-10-26T04:46:10Z",
+      "category": "studios-companies",
+      "tags": [
+        "obituary",
+        "voice-actor"
+      ]
+    },
+    {
+      "id": "news-deadline-deadline-com-2026-10-indie-film-box-office-naza-neon-la-bola-negra-net",
+      "title": "‘NAZA’ Tops $1 Million With Neon, Solid Limited Expansion For ‘La Bola Negra’ — Specialty Box Office",
+      "summary": "Documentary 'NAZA,' recently acquired by Neon, passed $1 million at the specialty box office following its Venice premiere.",
+      "url": "https://deadline.com/2026/10/indie-film-box-office-naza-neon-la-bola-negra-netflix-1237172763/",
+      "source": "Deadline",
+      "published_at": "2026-10-25T19:31:12Z",
+      "category": "productions",
+      "tags": [
+        "box-office",
+        "documentary"
+      ]
+    },
+    {
+      "id": "news-indiewire-www-indiewire-com-news-box-office-clayface-tops-box-office-24-million-",
+      "title": "‘Clayface’ Tops the Box Office with $24 Million. What Does It Signal About DC Studios’ Latest Reboot?",
+      "summary": "'Clayface' topped the box office with $24 million, prompting debate over what the result signals for DC Studios' ongoing reboot.",
+      "url": "https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/",
+      "source": "IndieWire",
+      "published_at": "2026-10-25T16:36:38Z",
+      "category": "productions",
+      "tags": [
+        "box-office",
+        "dc-studios"
+      ]
+    },
+    {
+      "id": "news-indiewire-www-indiewire-com-news-box-office-box-office-you-can-see-everything-hu",
+      "title": "Box Office: A24’s ‘You Can See Everything’ Scores Huge $19.5 Million Second Weekend",
+      "summary": "A24's 'You Can See Everything,' from Nathan Fielder and Lance Oppenheim, scored a huge $19.5 million second weekend at the box office.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-huge-second-weekend-a24-1235223679/",
+      "source": "IndieWire",
+      "published_at": "2026-10-25T13:48:18Z",
+      "category": "productions",
+      "tags": [
+        "box-office",
+        "a24"
+      ]
+    },
+    {
+      "id": "news-indiewire-www-indiewire-com-news-festivals-quentin-tarantino-cliff-booth-surpris",
+      "title": "Quentin Tarantino Surprises Fans with an Early Look at ‘The Further Mis-Adventures of Cliff Booth’",
+      "summary": "Quentin Tarantino surprised an AFI Fest audience with an early 17-minute look at his David Fincher collaboration 'The Further Mis-Adventures of Cliff Booth.'",
+      "url": "https://www.indiewire.com/news/festivals/quentin-tarantino-cliff-booth-surprise-afi-fest-1235223109/",
+      "source": "IndieWire",
+      "published_at": "2026-10-24T13:00:00Z",
+      "category": "productions",
+      "tags": [
+        "tarantino",
+        "preview"
+      ]
+    },
+    {
+      "id": "social-masto-helvede-net-jwcph-117500536670945788",
+      "title": "I'm with Jordan on this one - the work Beth D'Amato does is flippin' mind-blowing 🤯🤯🤯 https://www. youtube.com/watch?v=OD0xBGaoqbY # VFX # C",
+      "summary": "A VFX fan highlighted compositor Beth D'Amato's acclaimed paint-in work, pointing to her feature on Corridor Crew's YouTube channel.",
+      "url": "https://helvede.net/@jwcph/117500536670945788",
+      "source": "@jwcph · Mastodon",
+      "published_at": "2026-10-25T08:11:43Z",
+      "category": "social-vfx",
+      "tags": [
+        "paint-in",
+        "corridor-crew"
+      ]
+    },
+    {
+      "id": "social-masto-mastodon-social-artofvfx-117497902845071560",
+      "title": "Two exclusive # VFX interviews, two epic trailers and one impressive breakdown! This week's # WeekendSpotlight takes you behind the scenes o",
+      "summary": "Industry account Art of VFX's Weekend Spotlight featured two VFX interviews and a breakdown covering 'Coyote vs. Acme,' DNEG and Mayday.",
+      "url": "https://mastodon.social/@artofvfx/117497902845071560",
+      "source": "@artofvfx · Mastodon",
+      "published_at": "2026-10-24T21:01:54Z",
+      "category": "social-vfx",
+      "tags": [
+        "weekend-spotlight",
+        "dneg"
+      ]
+    },
+    {
+      "id": "social-md-mastodon-lertsenem-com-lertsenem-117506538618607438",
+      "title": "I recommend Electro Andes first episode by Bellolanda Studio if you like cool (and a bit rough) animation with a sick OST, set in a cyberpun",
+      "summary": "A Mastodon user recommended 'Electro Andes,' a cyberpunk animated series by Bellolanda Studio set in a South American-inspired universe.",
+      "url": "https://mastodon.lertsenem.com/@lertsenem/117506538618607438",
+      "source": "@lertsenem · Mastodon",
+      "published_at": "2026-10-26T09:38:06Z",
+      "category": "social-vfx",
+      "tags": [
+        "indie-animation",
+        "recommendation"
+      ]
+    },
+    {
+      "id": "social-md-livellosegreto-it-overcesium-117505664228276923",
+      "title": "Cosa che frega solo a me, ieri ho ottenuto finalmente l'accesso alla closed beta di # umoupen su Ipad. Sono genuinamente convinto che questo",
+      "summary": "An artist reported gaining closed-beta access to umoupen on iPad, predicting the new tool will meaningfully change animation workflows.",
+      "url": "https://livellosegreto.it/@Overcesium/117505664228276923",
+      "source": "@Overcesium · Mastodon",
+      "published_at": "2026-10-26T05:55:44Z",
+      "category": "social-vfx",
+      "tags": [
+        "new-tool",
+        "beta"
+      ]
+    },
+    {
+      "id": "social-md-mastodon-social-vibrationofawesome-117505648022477791",
+      "title": "Most of the creative calls I still make myself are the ones that feel impossible to explain, like a chorus that just lands wrong or right wi",
+      "summary": "A musician reflected on how AI tools are increasingly handling technical tasks, leaving only the hardest-to-explain creative calls to humans.",
+      "url": "https://mastodon.social/@Vibrationofawesome/117505648022477791",
+      "source": "@Vibrationofawesome · Mastodon",
+      "published_at": "2026-10-26T05:51:36Z",
+      "category": "social-music",
+      "tags": [
+        "ai-music",
+        "discussion"
+      ]
+    },
+    {
+      "id": "social-md-mastodon-social-h4ckernews-117503503197782373",
+      "title": "What goes into making an animated film? https://www. disneyanimation.com/process/ Comments: https:// news.ycombinator.com/item?id=5 0235738 ",
+      "summary": "A Hacker News account shared Disney Animation's public page detailing its filmmaking process, sparking discussion among industry followers.",
+      "url": "https://mastodon.social/@h4ckernews/117503503197782373",
+      "source": "@h4ckernews · Mastodon",
+      "published_at": "2026-10-25T20:46:09Z",
+      "category": "social-people",
+      "tags": [
+        "disney",
+        "process"
+      ]
+    },
+    {
+      "id": "social-gt-trends-google-com-trends-explore-q-apple-20tv-20sci-20fi-20thriller-20",
+      "title": "apple tv sci fi thriller silo",
+      "summary": "Search interest spiked in the US for Apple TV's sci-fi thriller 'Silo.'",
+      "url": "https://trends.google.com/trends/explore?q=apple%20tv%20sci%20fi%20thriller%20silo&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-10-26T10:00:00Z",
+      "category": "social-trends",
+      "tags": [
+        "apple-tv",
+        "sci-fi"
+      ]
+    },
+    {
+      "id": "social-gt-trends-google-com-trends-explore-q-horror-20movies-geo-us",
+      "title": "horror movies",
+      "summary": "US search interest in 'horror movies' spiked heading into the Halloween season.",
+      "url": "https://trends.google.com/trends/explore?q=horror%20movies&geo=US",
+      "source": "Google Trends (US)",
+      "published_at": "2026-10-26T10:00:00Z",
+      "category": "social-trends",
+      "tags": [
+        "film",
+        "horror"
+      ]
+    },
+    {
+      "id": "social-gt-trends-google-com-trends-explore-q-phantom-20blade-20zero-20ps5-geo-fr",
+      "title": "phantom blade zero ps5",
+      "summary": "French search interest spiked for 'Phantom Blade Zero' on PS5 ahead of its release.",
+      "url": "https://trends.google.com/trends/explore?q=phantom%20blade%20zero%20ps5&geo=FR",
+      "source": "Google Trends (FR)",
+      "published_at": "2026-10-26T10:10:00Z",
+      "category": "social-trends",
+      "tags": [
+        "video-game",
+        "playstation"
+      ]
+    },
+    {
+      "id": "social-youtube-corridorcrew-cgi245",
+      "title": "VFX Artists React to Bad & Great CGi 245",
+      "summary": "Corridor Crew's 'VFX Artists React to Bad & Great CGi' episode 245 drew over 2.2 million views.",
+      "url": "https://www.youtube.com/watch?v=HN1PW5JpTJY",
       "source": "YouTube · VFX",
-      "published_at": "2026-10-05T12:30:11Z",
+      "published_at": "2026-10-03T16:00:13Z",
       "category": "social-youtube",
       "tags": [
-        "vfx",
+        "vfx-reaction"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-fipgq07t05u",
+      "title": "Ramayana Trailer 2 Breakdown!",
+      "summary": "FlickVerse's breakdown of the 'Ramayana' trailer 2 drew more than 1.6 million views, dissecting its VFX sequences.",
+      "url": "https://www.youtube.com/watch?v=fipGq07t05U",
+      "source": "YouTube · Film",
+      "published_at": "2026-10-15T17:21:48Z",
+      "category": "social-youtube",
+      "tags": [
+        "ramayana",
         "breakdown"
       ]
     },
     {
       "id": "social-yt-jfGVMfle07g",
       "title": "Is AI The New VFX?",
-      "summary": "A video essay asking whether AI is replacing traditional VFX work drew nearly 1.3 million views.",
+      "summary": "ErikDoesVFX's video asking 'Is AI The New VFX?' drew over 1.3 million views amid industry debate on AI tools.",
       "url": "https://www.youtube.com/watch?v=jfGVMfle07g",
       "source": "YouTube · VFX",
       "published_at": "2026-10-03T16:36:12Z",
       "category": "social-youtube",
       "tags": [
         "ai",
-        "vfx"
-      ]
-    },
-    {
-      "id": "social-youtube-corridorcrew-cgi245",
-      "title": "VFX Artists React to Bad & Great CGi 245",
-      "summary": "Corridor Crew's VFX Artists React series reviewed bad and great CGI in its 245th episode, drawing over 2.2 million views.",
-      "url": "https://www.youtube.com/watch?v=HN1PW5JpTJY",
-      "source": "YouTube · VFX",
-      "published_at": "2026-10-03T16:00:13Z",
-      "category": "social-youtube",
-      "tags": [
-        "vfx",
-        "reaction"
-      ]
-    },
-    {
-      "id": "social-yt-oRErBesuMwM",
-      "title": "Tame Impala - Dracula (with JENNIE) | Behind the Song",
-      "summary": "Variety's Behind the Song series covered Tame Impala's collaboration with JENNIE on \"Dracula,\" drawing over 640,000 views.",
-      "url": "https://www.youtube.com/watch?v=oRErBesuMwM",
-      "source": "YouTube · Music",
-      "published_at": "2026-10-02T15:30:33Z",
-      "category": "social-youtube",
-      "tags": [
-        "collab",
-        "feature"
+        "vfx-debate"
       ]
     },
     {
       "id": "social-yt-3Q0Ffli827Y",
       "title": "Recreating Spider-Man BND Behind The Scenes! #spiderman #spidermanbrandnewday #vfx #marvel #diy",
-      "summary": "A creator's behind-the-scenes recreation of Spider-Man: Brand New Day visual effects drew nearly 2.9 million views.",
+      "summary": "Jake Offline's DIY recreation of Spider-Man: Brand New Day behind-the-scenes effects drew nearly 3 million views.",
       "url": "https://www.youtube.com/watch?v=3Q0Ffli827Y",
       "source": "YouTube · VFX",
       "published_at": "2026-09-26T12:00:04Z",
       "category": "social-youtube",
       "tags": [
-        "vfx",
-        "fan-recreation"
+        "spider-man",
+        "diy-vfx"
       ]
     },
     {
-      "id": "social-yt-xzqejmkzz4e-disney-sound",
-      "title": "COMO a Disney Cria os SONS dos Filmes?",
-      "summary": "A video explaining how Disney creates film sound design drew over 1.5 million views.",
-      "url": "https://www.youtube.com/watch?v=XZQEjmKZZ4E",
-      "source": "YouTube · Film",
-      "published_at": "2026-09-26T01:45:57Z",
+      "id": "social-yt-www-youtube-com-watch-v-ii1cut6ezjc",
+      "title": "Ghost Stride - Animated Short Film by Dardo Studios",
+      "summary": "Independent studio Dardo Studios' animated short film 'Ghost Stride' gained nearly 300,000 views.",
+      "url": "https://www.youtube.com/watch?v=II1cuT6eZjc",
+      "source": "YouTube · Animation",
+      "published_at": "2026-10-13T12:02:31Z",
       "category": "social-youtube",
       "tags": [
-        "sound-design",
-        "disney"
+        "animated-short",
+        "indie"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-egwn4qntlou",
+      "title": "Magic FX: Beyond the Preset | Rina Okuno | Equinox 2026",
+      "summary": "SideFX's Houdini channel posted Rina Okuno's 'Magic FX: Beyond the Preset' talk from its Equinox 2026 conference.",
+      "url": "https://www.youtube.com/watch?v=EGwn4QNtLoU",
+      "source": "YouTube · VFX",
+      "published_at": "2026-09-30T18:06:32Z",
+      "category": "social-youtube",
+      "tags": [
+        "houdini",
+        "conference"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-duoyxi-x1u8",
+      "title": "The State of Houdini | Equinox Keynote 2026",
+      "summary": "SideFX published its 'State of Houdini' Equinox 2026 keynote, outlining the software's roadmap for VFX artists.",
+      "url": "https://www.youtube.com/watch?v=DUOyXi-x1U8",
+      "source": "YouTube · VFX",
+      "published_at": "2026-09-30T18:06:33Z",
+      "category": "social-youtube",
+      "tags": [
+        "houdini",
+        "keynote"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-sipl0t-xhis",
+      "title": "How Does Lisa Sound SO Good?",
+      "summary": "A vocal-production breakdown of why singer Lisa 'sounds so good' drew over 1.1 million views.",
+      "url": "https://www.youtube.com/watch?v=sIpL0T-xHIs",
+      "source": "YouTube · Music",
+      "published_at": "2026-10-14T23:46:22Z",
+      "category": "social-youtube",
+      "tags": [
+        "music-production",
+        "vocal-analysis"
+      ]
+    },
+    {
+      "id": "social-yt-oRErBesuMwM",
+      "title": "Tame Impala - Dracula (with JENNIE) | Behind the Song",
+      "summary": "Variety's 'Behind the Song' feature on Tame Impala's 'Dracula' with JENNIE drew over 650,000 views.",
+      "url": "https://www.youtube.com/watch?v=oRErBesuMwM",
+      "source": "YouTube · Music",
+      "published_at": "2026-10-02T15:30:33Z",
+      "category": "social-youtube",
+      "tags": [
+        "tame-impala",
+        "behind-the-song"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-4htyyecri1q",
+      "title": "bro turned EVERYTHING into a beat!?!? 😭 #flstudio #musicproducer #producer #fyp #short #usa",
+      "summary": "A Weird Beats short turning everyday sounds into a beat went viral with more than 12 million views.",
+      "url": "https://www.youtube.com/watch?v=4HtyyECRI1Q",
+      "source": "YouTube · Music",
+      "published_at": "2026-10-01T05:04:08Z",
+      "category": "social-youtube",
+      "tags": [
+        "beatmaking",
+        "viral"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-bntb2ggsvtu",
+      "title": "Making a song using 3 random words",
+      "summary": "RudyWade's video making a song from three random words drew over 2.7 million views.",
+      "url": "https://www.youtube.com/watch?v=bNtB2ggsVtU",
+      "source": "YouTube · Music",
+      "published_at": "2026-09-26T15:00:14Z",
+      "category": "social-youtube",
+      "tags": [
+        "music-production",
+        "challenge"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-0kwdkb-9xms",
+      "title": "Le synthé à 60€ qui fait trembler les géants : M-Vave FM-1",
+      "summary": "A French-language review of the budget M-Vave FM-1 synth drew nearly 200,000 views amid growing buzz for the device.",
+      "url": "https://www.youtube.com/watch?v=0kWdKB-9xms",
+      "source": "YouTube · Music Tech",
+      "published_at": "2026-10-14T15:41:19Z",
+      "category": "social-youtube",
+      "tags": [
+        "synth",
+        "hardware-review"
+      ]
+    },
+    {
+      "id": "social-yt-DEz-v05PD1I",
+      "title": "Behind the Live Mix of Bruno Mars 2026",
+      "summary": "Waves Audio's look behind the live mix of Bruno Mars' 2026 tour drew over 600,000 views.",
+      "url": "https://www.youtube.com/watch?v=DEz-v05PD1I",
+      "source": "YouTube · Music Tech",
+      "published_at": "2026-10-08T15:36:49Z",
+      "category": "social-youtube",
+      "tags": [
+        "live-sound",
+        "bruno-mars"
+      ]
+    },
+    {
+      "id": "social-yt-ZOIJNE8AXiE",
+      "title": "How We Made Primordia EP.1 | AI Filmmaking Breakdown with TapNow Creative OS",
+      "summary": "TapNow's breakdown of its AI-made short 'Primordia' using its Creative OS drew over 640,000 views.",
+      "url": "https://www.youtube.com/watch?v=ZOIJNE8AXiE",
+      "source": "YouTube · AI Filmmaking",
+      "published_at": "2026-10-10T14:46:19Z",
+      "category": "social-youtube",
+      "tags": [
+        "ai-filmmaking",
+        "breakdown"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-gylh0njdj7c",
+      "title": "How Ajay Devgn Shot the Tiger Scene #shorts #ajaydevgan #movie #shoot #bollywood #tiger #scene #yt",
+      "summary": "A breakdown of how Bollywood star Ajay Devgn's tiger scene was shot drew over 2.4 million views.",
+      "url": "https://www.youtube.com/watch?v=gYLh0NJDj7c",
+      "source": "YouTube · Film",
+      "published_at": "2026-10-13T09:30:06Z",
+      "category": "social-youtube",
+      "tags": [
+        "bollywood",
+        "stunt"
+      ]
+    },
+    {
+      "id": "social-yt-www-youtube-com-watch-v-9m-diywjc3y",
+      "title": "The Dark Reality of Acting in The Lighthouse | Acting Breakdown",
+      "summary": "A breakdown of the demanding acting work behind 'The Lighthouse' drew over 425,000 views.",
+      "url": "https://www.youtube.com/watch?v=9m-diYWJc3Y",
+      "source": "YouTube · Film",
+      "published_at": "2026-09-30T19:31:52Z",
+      "category": "social-youtube",
+      "tags": [
+        "acting",
+        "the-lighthouse"
       ]
     }
   ]
